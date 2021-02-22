@@ -1,0 +1,474 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202008 will be lost/reset.
+# Last config file used to build this data file was /home/iranbagu/tmp/awstats/awstats.iranbaguette.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2690                
+POS_VISITOR 8746                
+POS_DAY 11216               
+POS_DOMAIN 3470                
+POS_LOGIN 3818                
+POS_ROBOT 3973                
+POS_WORMS 4583                
+POS_EMAILSENDER 4714                
+POS_EMAILRECEIVER 4857                
+POS_SESSION 11863               
+POS_SIDER 12063               
+POS_FILETYPES 4992                
+POS_DOWNLOADS 5250                
+POS_OS 5298                
+POS_BROWSER 5479                
+POS_SCREENSIZE 6363                
+POS_UNKNOWNREFERER 6437                
+POS_UNKNOWNREFERERBROWSER 6615                
+POS_ORIGIN 6788                
+POS_SEREFERRALS 6924                
+POS_PAGEREFS 7100                
+POS_SEARCHWORDS 7248                
+POS_KEYWORDS 7400                
+POS_MISC 2353                
+POS_ERRORS 7459                
+POS_CLUSTER 3674                
+POS_SIDER_404 7626                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200901020243 26 5136 9182376027007
+FirstTime 20200801155139
+LastTime 20200831183038
+LastUpdate 20200901170826 26 0 25 0 0
+TotalVisits 62                  
+TotalUnique 60                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 61                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 31 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 31 1583896 16 28 518090
+1 0 0 0 20 34 722923
+2 5 5 50868 16 21 76031
+3 5 8 437179 15 29 573315
+4 6 6 41380 15 28 520521
+5 3 11 189471 19 31 728921
+6 3 3 22419 25 38 1452779
+7 3 3 22410 13 20 320516
+8 1 1 7476 23 51 319252
+9 7 7 105802 31 59 1442460
+10 7 7 34318 21 46 1157611
+11 2 28 1531129 14 26 729765
+12 26 87 4809793 13 29 323148
+13 20 66 3762511 21 44 713481
+14 3 55 3095179 8 20 170282
+15 45 167 8478392 11 28 522276
+16 67 132 4618492 36 66 977567
+17 2 2 14943 10 16 637426
+18 16 78 2818390 21 57 1323348
+19 11 85 4395593 18 77 2209356
+20 0 0 0 18 25 364263
+21 3 3 19822 17 29 109018
+22 7 40 2718187 17 24 477327
+23 7 55 3423557 24 35 657474
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+ir 175 609 30474982
+us 38 104 3568380
+ru 13 113 6541547
+de 7 7 48865
+se 6 6 26866
+gb 5 31 1411608
+cn 5 5 37358
+ca 3 3 22404
+fr 2 2 49197
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+SemrushBot/ 191 578948 20200831042133 94
+AhrefsBot/ 148 818876 20200831122339 13
+Googlebot/ 144 979941 20200829133820 26
+bingbot/ 92 2016869 20200829143653 35
+baidu 36 1238142 20200828194029 0
+YandexBot/ 34 115463 20200831090351 18
+bingpreview 16 342193 20200820193044 0
+unknown 4 96 20200826025645 4
+Googlebot\-Image/ 2 234755 20200803165507 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 7469 20200816160340 0
+no_user_agent 1 32926 20200810030703 0
+Python\-urllib/ 1 24 20200831183038 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jfif 3 48597 0 0
+jpg 188 29261759 0 0
+png 163 4841625 0 0
+woff2 17 855292 0 0
+html 92 761304 0 0
+gif 3 17697 0 0
+js 143 4128919 0 0
+css 129 982672 0 0
+woff 15 705046 0 0
+Unknown 127 578296 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linuxandroid 130 16
+macosx10 9 9
+linux 54 15
+Unknown 4 4
+win10 607 187
+macosx 4 4
+macosx8 3 3
+win8.1 33 7
+win7 36 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 38
+opera52.0.2871.99 3 3
+msie9.0 1 0
+firefox45.0 2 2
+chrome76.0.3809.132 4 4
+chrome84.0.4147.89 28 2
+chrome80.0.3987.162 49 9
+chrome80.0.3987.122 1 1
+chrome85.0.4183.83 148 41
+chrome59.0.3071.115 5 5
+opera67.0.3575.115 27 1
+chrome79.0.3945.79 1 1
+chrome75.0.3765.0 1 1
+chrome80.0.3987.163 27 1
+chrome52.0.2743.116 2 2
+chrome39.0.2171.95 4 4
+chrome68.0.3440.84 2 2
+firefox79.0 1 1
+firefox46.0 2 2
+opera53.0.2907.68 1 1
+chrome75.0.3770.142 22 9
+chrome84.0.4147.135 28 2
+chrome45.0.2454.101 1 1
+Unknown 4 4
+chrome80.0.3987.132 1 1
+chrome67.0.3396.79 2 2
+firefox74.0 27 1
+chrome74.0.3729.169 1 1
+chrome77.0.3865.90 5 5
+edge18 64 29
+opera54.0.2952.71 1 1
+chrome84.0.4147.105 133 15
+chrome83.0.4103.106 52 4
+chrome66.0.3349.0 4 4
+chrome72.0.3626.121 2 2
+firefox59.0 2 2
+chrome41.0.2225.0 1 1
+chrome67.0.3396.87 2 2
+chrome84.0.4147.125 219 85
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Python/3.8_aiohttp/3.6.2 20200824041708
+\ 20200825134640
+Go-http-client/1.1 20200814033036
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Python/3.8_aiohttp/3.6.2 20200824041708
+\ 20200825134640
+Go-http-client/1.1 20200814033036
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 71 72
+From1 0 0
+From2 5 5
+From3 0 0
+From4 178 803
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+yandexru 2 2
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+206 10 1043226
+403 3 3417
+500 52 7310240
+405 8 2246682
+301 5 3441
+404 70 72020
+302 12 2422
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 24
+/Administrator/Files/Design/logo.png 39 http://iranbaguette.ir/css/UserSheetFa.css
+/app/.env 1 -
+//demo/vendor/phpunit/phpunit/phpunit.xsd 1 -
+//admin/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/vendor/.env 1 -
+/games/304641592149676/part1/index.html 1 http://iranbaguette.ir/game/10
+/application/.env 1 -
+/resources/.env 1 -
+/advertise/2 2 -
+/IranBaguette.com 1 -
+/sitemap.xml 1 -
+/storage/.env 1 -
+/public/.env 1 -
+/.env 1 -
+/config/.env 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/advertise/13 1 -
+/upload/adv.gif 1 http://iranbaguette.ir/game/1
+/advertise/1 4 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/database/.env 1 -
+//api/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/upload/165771592149676_.png 2 http://iranbaguette.ir/game/10
+/upload/313181595708004_.jpg 4 http://iranbaguette.ir/reserve/1
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 61
+91.185.132.56 63 151 6759251 20200827164828
+89.199.246.102 41 68 2842084 20200815161148
+86.55.91.90 35 88 3927599 20200816131746
+3.133.118.131 9 22 200848 20200831183038
+31.2.165.35 9 49 2848039 20200803052740
+77.81.156.209 7 61 4595178 20200831122503
+80.217.13.201 5 5 19390 20200808103037
+213.239.193.124 5 5 33913 20200830041558
+5.74.80.42 4 52 3414914 20200804231523
+89.208.122.221 4 4 43397 20200830091806
+89.238.177.131 4 30 1404132 20200803182925
+23.95.107.114 3 3 19822 20200811214414
+89.199.188.87 3 34 2390470 20200816193951
+86.55.157.246 3 3 16345 20200819120252
+46.183.177.218 3 3 35930 20200829025449
+34.219.187.116 2 2 14943 20200817173911
+104.227.121.23 2 2 12370 20200820093905
+5.196.23.219 2 2 49197 20200816184441
+188.245.146.186 2 19 487310 20200803194716
+5.112.248.42 2 28 1487913 20200807190943
+104.140.184.12 2 2 12370 20200831003142
+188.229.24.73 2 5 414760 20200802032318
+52.10.2.31 2 2 57502 20200803092731
+188.210.164.118 2 25 791140 20200815153938
+199.127.56.236 2 28 1571526 20200814005410
+162.253.131.117 1 1 7476 20200813031605
+47.91.89.85 1 1 7467 20200817161627
+134.122.119.89 1 1 7467 20200810070223
+3.81.245.94 1 1 33182 20200825134640
+31.2.175.71 1 1 7476 20200802110426
+188.245.131.138 1 24 1164213 20200801180002
+171.13.14.36 1 1 7476 20200828194029
+51.158.161.141 1 1 7476 20200830070428
+185.236.210.177 1 27 1523653 20200828113501
+64.246.165.50 1 1 7476 20200826050341
+159.89.230.208 1 1 7461 20200810104451
+34.235.233.220 1 1 7476 20200803082802
+131.220.6.156 1 1 7476 20200805053733
+34.72.102.69 1 1 7476 20200814064440
+46.48.45.190 1 27 1523653 20200812143726
+47.103.212.29 1 1 7467 20200817161544
+157.245.82.13 1 1 7476 20200810154024
+199.187.211.99 1 1 7476 20200810192618
+52.27.5.108 1 1 7467 20200805233442
+198.23.250.4 1 1 7469 20200826225844
+138.197.155.4 1 1 0 20200824000219
+40.77.167.117 0 1 38374 
+188.229.114.88 1 24 1164211 20200801155139
+69.160.160.58 1 27 1510321 20200816160310
+216.145.14.142 1 1 7471 20200826025645
+47.100.124.175 1 1 7467 20200817161543
+222.243.111.11 1 1 7467 20200826195101
+192.71.2.171 1 1 7476 20200814033036
+162.253.129.92 1 1 7467 20200814020053
+149.248.7.219 1 1 7476 20200828063431
+38.18.55.90 1 1 7467 20200810104035
+37.129.170.30 1 1 7467 20200818063940
+101.132.160.180 1 1 7481 20200817191656
+23.95.204.152 1 1 7467 20200820074639
+34.121.117.159 1 1 7467 20200824041708
+95.38.35.45 2 28 1571526 20200826142338
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20200801 2 48 2328424 2
+20200802 11 47 3134130 3
+20200803 10 60 2092565 5
+20200804 4 52 3414914 1
+20200805 2 2 14943 2
+20200807 2 28 1487913 1
+20200808 5 5 19390 1
+20200810 5 5 37347 5
+20200811 3 3 19822 1
+20200812 1 27 1523653 1
+20200813 1 1 7476 1
+20200814 5 31 1593945 4
+20200815 43 93 3633224 2
+20200816 41 151 7877587 4
+20200817 6 6 44825 5
+20200818 1 1 7467 1
+20200819 3 4 54719 1
+20200820 3 3 19837 2
+20200824 2 2 7467 2
+20200825 1 1 33182 1
+20200826 7 33 1608876 6
+20200827 63 151 6759251 1
+20200828 3 29 1538605 3
+20200829 3 3 35930 1
+20200830 9 9 77319 3
+20200831 18 85 4808396 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 3
+0s-30s 52
+2mn-5mn 2
+5mn-15mn 1
+30s-2mn 3
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 47
+/ 90 759166 59 39
+/font/Vazir.woff 15 705046 0 7
+/restaurant/down 14 7114 0 3
+/login 12 10854 0 0
+/contact-us 11 110705 0 7
+/manager/manage-users 8 40025 0 0
+/register 7 12192 2 1
+/order 7 58879 0 0
+/manager/add-food 6 15664 0 0
+/restaurant/1 5 38223 0 1
+/manager/detail-res 5 19900 0 0
+/manager 4 12252 0 0
+/manager/advertise 4 14939 0 0
+/game/1 3 23995 0 0
+/game/11 3 23199 0 0
+/upload/896161592650965_.jfif 3 48597 0 1
+/admin/dist/fonts/Vazir-Light.woff2 3 145848 0 0
+/admin/plugins/font-awesome/fonts/fontawesome-webfont.woff2 3 231480 0 0
+/games-page 3 16204 0 0
+/admin/dist/fonts/Vazir.woff2 3 114012 0 0
+/admin/dist/fonts/Vazir-Medium.woff2 3 153768 0 0
+/restaurants 3 15291 0 0
+/admin/dist/fonts/Vazir-Bold.woff2 3 125568 0 0
+/restaurant/2 3 21123 0 0
+/manager/cyberspace 2 6862 0 0
+/restaurant/3 1 6719 0 1
+/manager/delivery 1 3455 0 0
+/basket 1 5079 0 0
+/reserve/1 2 14201 1 1
+/delivery 1 4899 0 0
+/manager/advertiseUser 1 3392 0 0
+/food/16 1 5380 0 0
+/manager/show-foods 2 7322 0 0
+/manager/show-user/4 2 8420 0 0
+/game/10 1 7801 0 0
+/benefits 2 11336 0 0
+/manager/sit/setting 2 7823 0 0
+/games/car-game/part1/ 2 2138 0 1
+/admin/dist/fonts/Vazir-Black.woff2 2 84616 0 0
+/call 1 4910 0 0
+/gameDetails/11 2 10304 0 0
+/manager/show-user/2 2 8418 0 0
+/manager/call 1 3402 0 0
+/manager/manage-pays 1 3279 0 0
+/how-to-order 1 4897 0 0
+/food/3 1 5486 0 0
+/manager/send-game 1 4352 0 0
+END_SIDER

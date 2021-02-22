@@ -1,0 +1,4 @@
+[15-Jan-2021 08:07:38 Asia/Tehran] PHP Warning:  require(/home3/iranbagu/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/iranbagu/public_html/index.php on line 24
+[15-Jan-2021 08:07:38 Asia/Tehran] PHP Warning:  require(/home3/iranbagu/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/iranbagu/public_html/index.php on line 24
+[15-Jan-2021 08:07:38 Asia/Tehran] PHP Fatal error:  require(): Failed opening required '/home3/iranbagu/public_html/../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/iranbagu/public_html/index.php on line 24
+[15-Jan-2021 09:25:35 Asia/Tehran] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.5". You are running 7.0.33. in /home3/iranbagu/vendor/composer/platform_check.php on line 24

@@ -1,0 +1,406 @@
+# Webalizer V2.23-08 Incremental Data - 02/21/2021 13:56:22
+2021 2 21 13 56 22
+102 0 74 0 4 25 97347 71 70 0
+4 1 5 1 21
+2 0 1934 1 2 2
+2 0 1934 2 2 2
+5 0 5123 3 3 3
+7 0 6526 6 5 5
+7 0 6526 7 5 5
+6 0 5829 5 3 2
+3 0 2640 3 3 3
+1 0 706 1 1 1
+7 0 6526 7 5 5
+2 0 1934 2 2 2
+2 0 1943 2 1 1
+7 0 6526 6 5 5
+1 0 706 1 1 1
+7 0 7057 6 5 5
+7 0 6526 6 5 5
+11 0 9890 8 7 7
+3 0 3162 3 2 2
+4 0 3877 3 3 3
+4 0 3877 3 3 3
+10 0 10219 9 6 6
+4 0 3886 4 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 2456 2
+3 0 2649 2
+3 0 2118 3
+1 0 706 1
+7 0 6517 6
+11 0 11456 7
+6 0 5820 3
+7 0 7066 3
+0 0 0 0
+5 0 5105 4
+4 0 3886 2
+5 0 4583 3
+10 0 9697 7
+10 0 8653 7
+5 0 5114 3
+4 0 3355 3
+3 0 3180 2
+0 0 0 0
+0 0 0 0
+4 0 3868 4
+8 0 8294 5
+2 0 1412 2
+1 0 706 1
+1 0 706 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+54
+0
+0
+0
+0
+0
+0
+0
+0
+17
+31
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-64-159.googlebot.com
+0 2 0 2474 0 0
+-
+213-180-203-22.spider.yandex.com
+0 1 0 706 1 1612876666
+-
+crawl-66-249-65-100.googlebot.com
+0 1 0 706 1 1613380561
+-
+crawl-66-249-75-193.googlebot.com
+0 2 0 1943 1 1613712110
+-
+5-255-231-49.spider.yandex.com
+0 2 0 1412 1 1612614076
+-
+141-8-142-72.spider.yandex.com
+0 6 0 5829 3 1613471736
+-
+ec2-34-236-254-165.compute-1.amazonaws.com
+0 1 0 1228 1 1613368638
+-
+msnbot-157-55-39-0.search.msn.com
+0 3 0 3711 0 0
+-
+ec2-34-201-30-219.compute-1.amazonaws.com
+0 2 0 2456 2 1613796078
+-
+msnbot-157-55-39-66.search.msn.com
+0 1 0 706 1 1613460018
+-
+192.255.79.144
+0 1 0 1237 0 0
+-
+ec2-44-192-11-164.compute-1.amazonaws.com
+0 2 0 1934 2 1612190587
+-
+crawl-66-249-70-78.googlebot.com
+0 2 0 1943 1 1612441255
+-
+ec2-34-214-241-135.us-west-2.compute.amazonaws.com
+0 1 0 706 1 1612850485
+-
+ec2-3-239-205-233.compute-1.amazonaws.com
+0 1 0 706 1 1613277875
+-
+ip-54-36-148-199.a.ahrefs.com
+0 1 0 1237 0 0
+-
+ec2-3-235-15-148.compute-1.amazonaws.com
+0 1 0 1228 1 1612429310
+-
+ipv4-216-145-14-142.greenhousedata.net
+0 2 0 1943 1 1613283689
+-
+ec2-34-236-245-218.compute-1.amazonaws.com
+0 1 0 706 1 1612402301
+-
+ec2-3-228-2-118.compute-1.amazonaws.com
+0 1 0 1228 1 1612847483
+-
+ec2-3-235-137-20.compute-1.amazonaws.com
+0 1 0 1228 1 1612918377
+-
+ec2-3-231-164-116.compute-1.amazonaws.com
+0 1 0 706 1 1612232963
+-
+213-180-203-3.spider.yandex.com
+0 1 0 1237 0 0
+-
+ip-54-36-148-84.a.ahrefs.com
+0 1 0 1237 0 0
+-
+msnbot-207-46-13-144.search.msn.com
+0 2 0 2474 0 0
+-
+crawl-66-249-65-127.googlebot.com
+0 2 0 1943 1 1613389495
+-
+ec2-3-91-3-0.compute-1.amazonaws.com
+0 1 0 1228 1 1612673792
+-
+ec2-18-213-113-99.compute-1.amazonaws.com
+0 1 0 706 1 1612569539
+-
+213-180-203-28.spider.yandex.com
+0 5 0 4592 3 1613471736
+-
+ec2-3-227-13-74.compute-1.amazonaws.com
+0 1 0 706 1 1613337301
+-
+crawl-66-249-64-129.googlebot.com
+0 2 0 1412 2 1613915782
+-
+crawl-66-249-66-81.googlebot.com
+0 1 0 1237 0 0
+-
+ec2-34-254-233-206.eu-west-1.compute.amazonaws.com
+0 1 0 1228 1 1613651022
+-
+msnbot-207-46-13-9.search.msn.com
+0 2 0 1412 2 1613028131
+-
+5-45-207-184.spider.yandex.com
+0 1 0 1237 0 0
+-
+ec2-3-236-43-81.compute-1.amazonaws.com
+0 1 0 1228 1 1613304583
+-
+crawl-66-249-64-132.googlebot.com
+0 1 0 706 1 1613872727
+-
+2.176.113.45
+0 1 0 706 1 1613824333
+-
+ec2-3-237-31-186.compute-1.amazonaws.com
+0 1 0 1228 0 0
+-
+163-172-5-15.rev.poneytelecom.eu
+0 1 0 706 1 1613157946
+-
+5-45-207-65.spider.yandex.com
+0 1 0 706 1 1612876666
+-
+ec2-44-226-207-53.us-west-2.compute.amazonaws.com
+0 1 0 706 1 1613656519
+-
+msnbot-13-66-139-64.search.msn.com
+0 1 0 706 1 1612609369
+-
+5-255-253-153.spider.yandex.com
+0 1 0 1237 0 0
+-
+ec2-3-238-27-190.compute-1.amazonaws.com
+0 1 0 706 1 1613750555
+-
+ec2-18-207-184-64.compute-1.amazonaws.com
+0 1 0 706 1 1612732824
+-
+18.27.196.181.static.anycast.cnt-grms.ec
+0 1 0 1228 0 0
+-
+ec2-3-231-155-80.compute-1.amazonaws.com
+0 1 0 706 1 1613577518
+-
+5.115.188.165
+0 1 0 706 1 1612897353
+-
+crawl-66-249-66-82.googlebot.com
+0 3 0 2649 2 1613489854
+-
+ec2-18-207-107-132.compute-1.amazonaws.com
+0 1 0 1228 1 1612555048
+-
+ec2-18-210-6-219.compute-1.amazonaws.com
+0 1 0 1228 1 1612257619
+-
+d2.2b.2fa9.ip4.static.sl-reverse.com
+0 1 0 706 1 1612407269
+-
+crawl-66-249-66-80.googlebot.com
+0 1 0 1237 1 1613319182
+-
+ec2-3-216-30-182.compute-1.amazonaws.com
+0 1 0 706 1 1613099078
+-
+c-206-174-236-147.hs.gigamonster.net
+0 1 0 706 1 1612931791
+-
+72.13.46.2
+0 2 0 1943 1 1613622224
+-
+ec2-3-234-205-69.compute-1.amazonaws.com
+0 1 0 1228 1 1613160337
+-
+ec2-54-237-208-174.compute-1.amazonaws.com
+0 1 0 706 1 1612565897
+-
+ec2-54-203-230-24.us-west-2.compute.amazonaws.com
+0 1 0 706 1 1613223211
+-
+5-255-253-116.spider.yandex.com
+0 1 0 706 1 1613799352
+-
+ec2-44-192-40-253.compute-1.amazonaws.com
+0 1 0 1228 1 1613712017
+-
+ip-54-36-148-198.a.ahrefs.com
+0 2 0 1412 2 1613369465
+-
+5-255-231-136.spider.yandex.com
+0 3 0 3180 1 1613799352
+-
+ec2-54-69-72-167.us-west-2.compute.amazonaws.com
+0 1 0 706 1 1613453870
+-
+static.200.151.201.195.clients.your-server.de
+0 1 0 706 1 1612758059
+-
+ec2-3-239-24-196.compute-1.amazonaws.com
+0 1 0 1228 1 1613591345
+-
+185.216.35.228
+0 1 0 706 1 1612689131
+-
+67.207.205.134
+0 1 0 706 1 1613442158
+-
+5-255-253-166.spider.yandex.com
+0 1 0 1237 0 0
+-
+crawl-66-249-70-74.googlebot.com
+0 1 0 706 1 1612446961
+-
+172.98.177.119
+0 1 0 1237 1 1612383110
+-
+5-255-231-9.spider.yandex.com
+0 1 0 1237 0 0
+-
+ec2-100-24-124-206.compute-1.amazonaws.com
+0 1 0 706 1 1613391315
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-64-159.googlebot.com
+0 1 0 1237 0 0
+-
+msnbot-157-55-39-0.search.msn.com
+0 1 0 1237 0 0
+-
+crawl-66-249-64-129.googlebot.com
+0 1 0 706 1 1613915782
+-
+crawl-66-249-64-132.googlebot.com
+0 1 0 706 1 1613872727
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 99
+http://www.iranbaguette.com/
+0 1
+http://iranbaguette.com
+0 1
+http://iranbaguette.com/
+0 1
+# End Of Table - referrers
+# -agents- 
+User-Agent\" \"Mozilla/5.0 (Windows NT 6.1;) Gecko/20100101 Firefox/13.0.1
+0 1
+Mozilla/5.0 (Linux; Android 9; HTC U12+) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/8
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.140 Mobile 
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.153 Mobile 
+0 7
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 10
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 24
+curl/7.61.1
+0 1
+Mozilla/5.0 (compatible; ips-agent)
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2
+0 1
+Mozilla: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.3 Mozilla/5.0 (Macintosh; Intel Mac OS X
+0 1
+\"Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27\"
+0 25
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

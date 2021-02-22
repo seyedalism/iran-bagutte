@@ -1,0 +1,1327 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	270	0	851	1093	163478
+D	26502577	26900036
+18404	163	13	0	40504
+18404	166	7	0	23529
+18404	173	5	0	14207
+18406	2	1	0	2009
+18412	263	1	0	2009
+18416	28	1	0	2009
+18416	29	1	0	2009
+18416	30	1	0	2768
+18418	64	1	0	2009
+18420	201	1	0	2009
+18420	265	5	0	14207
+18426	78	1	0	2009
+18431	154	2	0	4794
+18449	8	1	0	2026
+18450	75	1	0	2026
+18465	238	1	0	2026
+18468	73	50	0	4120
+18486	149	1	0	2026
+18523	187	1	0	2026
+18524	17	1	0	2026
+18529	56	10	0	640
+18529	58	40	0	3480
+18529	92	10	0	640
+18566	160	1	0	2026
+18567	25	1	0	2026
+18590	92	10	0	640
+18590	93	36	0	3132
+18603	9	1	0	1995
+18603	33	1	0	1995
+18603	178	1	0	1995
+18604	78	1	0	1995
+18605	260	1	0	1995
+18644	200	1	0	1995
+18646	32	1	0	1995
+18647	29	1	0	1995
+18651	108	10	0	640
+18651	110	38	0	3306
+18651	144	10	0	640
+1	0	0	0	1	0	0	26894156	0	0	26894156	0	/.git/config?207.46.13.177
+1	0	0	0	1	0	0	26582600	0	0	26582600	0	/images/jsspwneed.php
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/E14GX6WFBOPAO2-1QWTXLA81BPJJ3M51
+1	4	0	0	0	26770069	0	0	26770069	0	0	348	/.well-known/acme-challenge/lOc9CINGuD8JGtHfNWZ9HNrrNpX5EUvx1KMd7NfXRtc
+1	0	0	0	3	0	0	26619237	0	0	26540358	0	/advertise/2
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/templates/system/index.php
+1	0	0	0	2	0	0	26623494	0	0	26563962	0	/advertise/1
+1	0	0	0	1	0	0	26799669	0	0	26799669	0	/modules/pscartabandonmentpro/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/templates/beez3/error.php
+1	0	0	0	2	0	0	26644074	0	0	26574963	0	/games-page?180.244.232.57
+1	0	0	0	1	0	0	26799669	0	0	26799669	0	/modules/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26582600	0	0	26582600	0	/images/stories/cmd.php
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/administrator/templates/bluestork/index.php
+1	0	0	0	2	0	0	26625764	0	0	26533890	0	/make-game-for-us
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/administrator/templates/isis/error.php
+1	4	0	0	0	26770069	0	0	26770069	0	0	348	/.well-known/acme-challenge/qZgMhOlxb0Gd9_3V3k_rgW9ZJMsDjpMFzqQTsUCollw
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26572237	0	0	26572237	0	/game/4?180.244.232.57
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/PRNS4_FU577R71ENC1RSXR34DM627J8M
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/FZMY3W7GAFTVESEYPOQVPA4X97P94L8Y
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/TRFCIUMHVC11HCEHB--Y7KLVN47NCPRG
+1	0	0	0	1	0	0	26799667	0	0	26799667	0	/vendor/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26638145	0	0	26638145	0	/phpMyAdmin/print.css
+1	0	0	0	5	0	0	26631025	0	0	26538982	0	/advertise/13
+1	0	0	0	5	0	0	26624700	0	0	26510699	0	/.env
+1	0	0	0	1	0	0	26799667	0	0	26799667	0	/phpunit/src/Util/PHP/eval-stdin.php
+1	4	0	0	0	26857991	0	0	26857990	0	0	348	/.well-known/acme-challenge/F9rWaxdSQpMOYEeIX6TKK4jKsx0L9cAZbErzDfU7gwg
+1	2	0	0	0	26502594	0	0	26502578	0	0	16144	/img-sys/error-bg-left.png
+1	0	0	0	4	0	0	26743085	0	0	26502898	0	/how-to-order
+1	0	0	0	1	0	0	26559109	0	0	26559109	0	/site/
+1	0	0	0	1	0	0	26799670	0	0	26799670	0	/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26680873	0	0	26680873	0	/www.iranbaguette.ir
+1	0	0	0	70	0	0	26898095	0	0	26553482	0	/robots.txt?180.244.232.57
+1	0	0	0	1	0	0	26502898	0	0	26502898	0	/robots.txt?46.62.171.227
+1	0	0	0	1	0	0	26505775	0	0	26505775	0	/ads.txt?207.46.13.107
+1	0	0	0	1	0	0	26654134	0	0	26654134	0	/phpMyAdmin/index.php
+1	0	0	0	1	0	0	26729351	0	0	26729351	0	/wp/wp-admin/user/comment.php
+1	0	0	0	1	0	0	26638145	0	0	26638145	0	/pma/print.css
+1	0	0	0	10	0	0	26782123	0	0	26503648	0	/login
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/plugins/css-ready-sel/file.php
+1	0	0	0	1	0	0	26639276	0	0	26639276	0	/assets/kcfinder/browse.php
+1	0	0	0	5	0	0	26527883	0	0	26518641	0	/robots.txt?3.15.239.205
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/ZY7JSAXO4PBJNEFL_8G4HCXMHMKS3O99
+1	0	0	0	1	0	0	26799670	0	0	26799670	0	/old/vendor/phpunit/phpunit/src/Util/PHP/
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/C3OBXFJG24NOJXMW_83OUXGIA_2KBY0W
+1	0	0	0	1	0	0	26559109	0	0	26559109	0	/news/
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/administrator/templates/hathor/index.php
+1	6	0	0	0	26541412	0	0	26502578	0	0	16608	/img-sys/powered_by_cpanel.svg
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/lib/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26654134	0	0	26654134	0	/pma/index.php
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/3-M1EXDV3-YQSGTDR92N72GL7BYBQE7B?180.244.232.57
+1	0	0	0	12	0	0	26841053	0	0	26531113	0	/contact-us
+1	0	0	3	0	0	26530118	0	0	26520102	0	0	/?3.15.239.205
+1	0	0	0	1	0	0	26559109	0	0	26559109	0	/wordpress/
+1	0	0	0	2	0	0	26552493	0	0	26551250	0	/order?page=2
+1	0	0	0	1	0	0	26559109	0	0	26559109	0	/wp/
+1	0	0	0	1	0	0	26799667	0	0	26799667	0	/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+1	0	0	0	7	0	0	26706606	0	0	26516021	0	/collaborate-with-fastFood-maker
+1	4	0	0	0	26857990	0	0	26857990	0	0	348	/.well-known/acme-challenge/k9iCxa76UD04R5VsG9E85h7xZJlGh43yhG8Jx8rXfmg
+1	0	0	0	2	0	0	26582601	0	0	26582585	0	/shell.php
+1	0	0	0	1	0	0	26511140	0	0	26511140	0	/pma/
+1	0	0	0	1	0	0	26799669	0	0	26799669	0	/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/KR54X9HZQU6Y39G-VE0E0TLRDXHJ014V
+1	4	0	0	0	26857990	0	0	26857990	0	0	348	/.well-known/acme-challenge/oHVHHC0pv988dlVXWTQovYRtq4zdsGN9LOFFWTfMlL8
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/MYBBAAV9-JP2J9NVOUVBF17BF71YDYDO
+1	0	0	0	2	0	0	26740922	0	0	26559690	0	/reserve/1
+1	0	0	0	1	0	0	26645447	0	0	26645447	0	/benefits?180.244.232.57
+1	0	0	1	0	0	26771328	0	0	26771328	0	0	http://iranbaguette.com/?180.244.232.57
+1	4	0	0	0	26682050	0	0	26682050	0	0	348	/.well-known/acme-challenge/aL2-PElBukBoFuNhLqHCBBjsCJWDfGhQpczbSF2fpaU
+1	0	0	0	1	0	0	26524038	0	0	26524038	0	/mysql/
+1	4	0	0	0	26857990	0	0	26857990	0	0	348	/.well-known/acme-challenge/joCWWNjdBG3o42xvcDX7ZHNLeR5fJ7LgqVUb71T3RXo
+1	4	0	0	0	26682051	0	0	26682051	0	0	348	/.well-known/acme-challenge/QnB4wdQHecqFgctB2mws06v_xHNmhLLqLzIB73EFEIg
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/EDCN1C_8SAWTJUEA4Q_YL0YOMDM32F80
+1	0	0	0	1	0	0	26557317	0	0	26557317	0	/wordpress/wp-login.php
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	4	0	0	0	26857990	0	0	26857990	0	0	348	/.well-known/acme-challenge/jXRS5FR3-L0Ck4PP5MPV1savjONcNGL9zoF8lePduFQ
+1	0	0	0	1	0	0	26504454	0	0	26504454	0	/robots.txt?66.249.64.228
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/XR2ZFKHE5RFCIRCGUKXY4C7_MUIWE94T
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/ZC75_BDZURR4R8DF4N1J0FV__MVAIA71
+1	4	0	0	0	26682051	0	0	26682051	0	0	348	/.well-known/acme-challenge/k7elbKzaXq5eXHjI70zaQyD5IRlVRCw3XNVIG0btl2Q
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/HBS4P_EGZBLD7FALSI1O3G0J2K6NJVLR
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/plugins/gravityforms/gravityforms.php?abdullkarem
+1	0	0	0	1	0	0	26674274	0	0	26674274	0	/contact-us?180.244.232.57
+1	0	0	0	18	0	0	26778341	0	0	26516304	0	/game/7
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/VM-5O742J92C7DAPWVTIAAQ7BIB_7LGP
+1	0	0	0	1	0	0	26799667	0	0	26799667	0	/phpunit/phpunit/Util/PHP/eval-stdin.php
+1	0	0	0	8	0	0	26776695	0	0	26531122	0	/game/5
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/HV7U8AJP83SJL3D7JMDJ52L7ZY99W-5Z
+1	0	0	0	5	0	0	26710344	0	0	26531123	0	/game/4
+1	0	0	0	16	0	0	26789052	0	0	26531123	0	/game/3
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/up.php
+1	0	0	0	13	0	0	26748719	0	0	26503958	0	/game/2
+1	0	0	0	22	0	0	26850495	0	0	26531123	0	/game/1
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/B5EEF4QCEP-8M6J24KD1IIXFIIQA6C7F
+1	0	0	0	1	0	0	26638145	0	0	26638145	0	/myadmin/print.css
+1	0	0	0	496	0	0	26899638	0	0	26502629	0	/robots.txt
+1	5	0	0	0	26526128	0	0	26502578	0	0	14695	/img-sys/IP_changed.png
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/tNukm6B-ccV6wD7GtnITvmX8OvoPZeJodUObWv-hLGU
+1	4	0	0	0	26857990	0	0	26857990	0	0	348	/.well-known/acme-challenge/cl52N1RCZ1nufvR2PscieX0PlAqyRa9MmldDwMnL1gk
+1	0	0	0	3	0	0	26624700	0	0	26548238	0	/public/.env
+1	0	0	0	5	0	0	26799666	0	0	26548238	0	/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26639276	0	0	26639276	0	/assets/ckeditor/kcfinder/browse.php
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/templates/beez/index.php
+1	0	0	0	1	0	0	26638145	0	0	26638145	0	/database/print.css?180.244.232.57
+1	0	0	0	1	0	0	26551831	0	0	26551831	0	/phpunit.xml?180.244.232.57
+1	0	0	0	1	0	0	26729352	0	0	26729352	0	/wordpress/wp-admin/user/comment.php
+1	4	0	0	0	26770069	0	0	26770069	0	0	348	/.well-known/acme-challenge/tzk0o7lSuWOC57kkM6qIuk4RSgEP2YL7S1FyZhjDZU8
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/plugins/css-ready/file.php
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/olux.php
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/t9UrXyKNp8pGe6MSjsoLvcpOmLBHg3HaBIvXnmFhD7I
+1	0	0	0	1	0	0	26586082	0	0	26586082	0	/restaurant/1?page=2
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/6PQPT2JZIQNTER5M-LMT2H57M50YO_Y3
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/themes/gaukingo/db.php
+1	0	0	0	13	0	0	26828963	0	0	26503027	0	/basket
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/T2-MRY1OON53KN65_O20WK3Q79BVQAJH
+1	0	0	0	3	0	0	26629110	0	0	26568267	0	/game/
+1	4	0	0	0	26682051	0	0	26682051	0	0	348	/.well-known/acme-challenge/32ocmVijzXOnR10ivX3WJ9Qfp5gb4-W2KaKjae_WzQE
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/uploads/2020/07/
+1	0	0	0	4	0	0	26671338	0	0	26516699	0	/ads.txt
+1	0	0	0	7	0	0	26548850	0	0	26535450	0	/robots.txt?52.25.170.83
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/jJ87neyuIPSjILLuypTW48L4KOgO3soVeUKeu11jOuc
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/24Y2LBYXGQ2C0HKV1-8SVJQAODVQHZ0_
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/admin/ckeditor/plugins/ajaxplorer/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26559109	0	0	26559109	0	/cms/
+1	0	0	0	1	0	0	26638145	0	0	26638145	0	/mysql/print.css
+1	3	0	0	0	26857990	0	0	26857990	0	0	261	/.well-known/acme-challenge/-r5QoDDRioGrnrqGaIJV_EQpmGnI_csCa3JHPcCxhIY
+1	4	0	0	0	26682051	0	0	26682051	0	0	348	/.well-known/acme-challenge/v4S8Kf065Hloe7vpbWeXlbAF2k6_IBNJ0aspz-_gGuY
+1	0	0	0	3	0	0	26624700	0	0	26548238	0	/storage/.env
+1	0	0	0	5	0	0	26570171	0	0	26529204	0	/sitemap.xml
+1	0	0	5	0	0	26547491	0	0	26532157	0	0	/?52.25.170.83
+1	0	0	0	1	0	0	26584875	0	0	26584875	0	/css/custom.css
+1	4	0	0	0	26857990	0	0	26857990	0	0	348	/.well-known/acme-challenge/_K3qRm7sYP0SxqDDW_xlipCo58Hrc0pUAV0xRmD4VoU
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/XxX.php
+1	0	0	0	1	0	0	26559109	0	0	26559109	0	/blog/
+1	0	0	0	2	0	0	26624370	0	0	26563714	0	/humans.txt
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/PAUDSC9TF7TIUI971LFM6B5BV59WZD_X
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/5WYZUAQ8XUY1D4-R-Y355HF3MKB03RY3
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/L-GA-HT0TTF-QHDBID-AL7AFOYSRKXDV
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/KT4SVBWIOMJ2IZHD29LUVX4Z2VF2AW6E
+1	0	0	0	6	0	0	26795649	0	0	26531122	0	/games-page
+1	4	0	0	0	26770069	0	0	26770069	0	0	348	/.well-known/acme-challenge/LOLz9i7OGqaFQoy1fTdbl8vK3wv0w6IqiPIRlsZ0h30
+1	0	0	0	1	0	0	26799667	0	0	26799667	0	/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/uploads/
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/templates/beez3/index.php
+1	0	0	0	1	0	0	26654133	0	0	26654133	0	/xmlrpc.php?180.244.232.57
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/P5QT55H3XSJ-9ZL-BS8R_DXWJX0WETRV
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/lib/phpunit/phpunit/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26654133	0	0	26654133	0	/wordpress/xmlrpc.php
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/administrator/templates/isis/index.php
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/V_YZNIQ36900-CLYLRC1S9GIYS_QRJ9K
+1	0	0	0	2	0	0	26570171	0	0	26569214	0	/atom.xml
+1	0	0	62	1	0	26892142	26633869	0	26550622	26633869	0	/?180.244.232.57
+1	0	0	0	4	0	0	26588691	0	0	26502629	0	/collaborate-with-game-developers
+1	0	0	0	1	0	0	26559109	0	0	26559109	0	/web/
+1	0	0	0	3	0	0	26624700	0	0	26548238	0	/vendor/.env
+1	0	0	0	3	0	0	26624700	0	0	26548237	0	/database/.env
+1	0	0	0	1	0	0	26572674	0	0	26572674	0	/rss.xml
+1	0	0	0	3	0	0	26624700	0	0	26548238	0	/app/.env
+1	0	0	0	1	0	0	26799669	0	0	26799669	0	/modules/gamification/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	3	0	0	26577327	0	0	26531122	0	/food/6
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/plugins/three-column-screen-layout/db.php
+1	0	0	0	2	0	0	26742522	0	0	26505789	0	/food/5
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/TG9EBAOAXLZPH65TMJYDQJT2ZZZQNODE
+1	0	0	0	2	0	0	26779050	0	0	26738894	0	/food/4
+1	0	0	0	2	0	0	26780171	0	0	26737856	0	/food/3
+1	0	0	0	2	0	0	26780984	0	0	26739660	0	/food/2
+1	0	0	0	2	0	0	26742445	0	0	26720830	0	/food/1
+1	4	0	0	0	26857991	0	0	26857990	0	0	348	/.well-known/acme-challenge/yB9Ke9JWWLB-_6fZKDr_20enM49sWHpCQRAWVqoFV3E
+1	0	0	0	1	0	0	26585338	0	0	26585338	0	/store/wp-includes/wlwmanifest.xml
+1	0	0	0	8	0	0	26746701	0	0	26506689	0	/restaurant/2
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/73mPTrfaiVkkQhz0AW3nzHwHz16uCLlmNR6fs_8qywo
+1	0	0	0	14	0	0	26780887	0	0	26620773	0	/restaurant/1
+1	4	0	0	0	26770069	0	0	26770069	0	0	348	/.well-known/acme-challenge/WEz0mcogw2FbLQUP4p3bZ2FB_-vqHOfPHn0jLwCNud0
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/_X73H9ASA8C93MYOKF4NO4JQ9I598CY5
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/lxP4TTGwQFZKXHRKp6iNOR1by2TqHfzaGiMhocTbKn4
+1	0	0	0	1	0	0	26799669	0	0	26799669	0	/advanced/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26846659	0	0	26846659	0	/www/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/Marvins.php
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/8O3VYFC7ML-74WAKF1Z7XRUUQR7OYXXK
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/EGHPNKMVZX9HR-O69FX4QGDQZV3BM56Z
+1	0	0	0	1	0	0	26639276	0	0	26639276	0	/kcfinder/browse.php
+1	5	0	0	0	26526128	0	0	26502578	0	0	16635	/img-sys/server_moved.png
+1	0	0	0	1	0	0	26585339	0	0	26585339	0	/wp2/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/indoxploit.php
+1	0	0	0	27	0	0	26899318	0	0	26687177	0	/robots.txt?207.46.13.177
+1	0	0	0	1	0	0	26827193	0	0	26827193	0	/docindex.php?180.244.232.57
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/templates/system/error.php
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/ZP6VFNUTRY6BDH0Z3V_YM1HV4UOEEF-C
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/QMW72KXWSANR5BLX44-3IDD87LHNXUL5?180.244.232.57
+1	0	0	0	1	0	0	26509236	0	0	26509236	0	/cms/wp-login.php
+1	0	0	0	1	0	0	26799669	0	0	26799669	0	/modules/ps_checkout/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/UT9H23YWRDB_B_NGNBQ87P4Y0UCMUXH6
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/administrator/templates/bluestork/error.php
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/uploads/new_license.php
+1	0	0	0	1	0	0	26652506	0	0	26652506	0	/adminer.php
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/Y310QZWF6JAQFXO2QGGZETNX1T9RYN8A
+1	0	0	0	1	0	0	26689880	0	0	26689880	0	/wp-content/index.php?x=ooo
+1	0	0	0	9	0	0	26749667	0	0	26505387	0	/restaurants
+1	0	0	0	1	0	0	26639276	0	0	26639276	0	/templates/admin/js/kcfinder/browse.php
+1	4	0	0	0	26770069	0	0	26770069	0	0	348	/.well-known/acme-challenge/c1NdqogmZ7ynyAKsLGBl39xSxU5NUkmnoRIHQd-wKiY
+1	0	0	0	1	0	0	26521037	0	0	26521037	0	/reserve
+1	4	0	0	0	26682050	0	0	26682050	0	0	348	/.well-known/acme-challenge/dlxbrghjpUfR9snHiJfV-z5MHNk5CVRyrwq2YxZIVLc
+1	0	0	0	1	0	0	26795576	0	0	26795576	0	/wp-content/themes/distance-lite/languages/namespaces.php?207.46.13.177
+1	0	0	0	1	0	0	26559109	0	0	26559109	0	/home/
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/8U-IBWVS25WGWQI5DDW1D7MFHR0Y4F2B
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	14	0	0	26774506	0	0	26531123	0	/benefits
+1	0	0	0	1	0	0	26554906	0	0	26554906	0	/admin/about-us
+1	0	0	1	0	0	26650902	0	0	26650902	0	0	/?fbclid=IwAR025tYCSgW-xmoF02dCs7H0BvyBCJ7YJdkn6VvnlqQFLUVpXITvjhH1Ysw
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/KSL20U_G3C2PQKPI4LY4SPMK5EIKNY06
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/lib/phpunit/Util/PHP/eval-stdin.php
+1	0	0	1	0	0	26557519	0	0	26557519	0	0	/?fbclid=IwAR0mnMYsRZ3-X2TJGtHCxbR_jI3tEdckTHxXdAyCO756k6_HD4xq9U8hORY
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/KE035HMQC3ADQ4QHV2H-R-NM4A7NUAD2
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/HKSK09BJHV7F_OCZPVA52F989OA76-4A
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/6-PXRZMLHSW56VLKYSS_P8XLZIJUWJ3N
+1	4	0	0	0	26682051	0	0	26682051	0	0	348	/.well-known/acme-challenge/ocvRTIDZbIL6YFsoetwb-z_8gsdiD9baZ9o45riODac
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/QYW155EX14A3E8ZJF2B9_45CC4HZQWZQ
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/B8D65OK_GO86GHPS_LFLR8OY4ZJF_SU9
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/UJHKROIGW3HJ_YH--UP7S7QPIBP_EJLD
+1	5	0	0	0	26526128	0	0	26502578	0	0	15820	/img-sys/server_misconfigured.png
+1	0	0	0	2	0	0	26512845	0	0	26511439	0	/robots.txt?207.46.13.107
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/modules/autoupgrade/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26799667	0	0	26799667	0	/phpunit/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26582600	0	0	26582600	0	/modules/mod_ariimageslidersa/mod_ariimageslidersa.php
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/plugins/css-ready-sele/file.php
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/administrator/templates/hathor/error.php
+1	0	0	0	1	0	0	26799669	0	0	26799669	0	/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	3	0	0	26624700	0	0	26548238	0	/resources/.env
+1	0	0	0	2	0	0	26685671	0	0	26562275	0	/advertise/2?180.244.232.57
+1	0	0	0	1	0	0	26653064	0	0	26653064	0	/web/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26514372	0	0	26514372	0	/new/wp-login.php?207.46.13.107
+1	0	0	0	1	0	0	26717195	0	0	26717195	0	/.git/config
+1	0	0	0	1	0	0	26799669	0	0	26799669	0	/modules/ps_facetedsearch/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/YSRzFG3pbtaTHmLhXcgk-1JgDm9l8yIFZ1mQPcQngzs
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/5B23t5h9zn-KlNKc7VRG0A31bt8y2RM1AWzRjDSz97k
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/templates/ja_purity/index.php
+1	29	0	0	0	26850404	0	0	26502578	0	0	58327	/cgi-sys/defaultwebpage.cgi
+1	0	0	0	1	0	0	26799667	0	0	26799667	0	/vendor/phpunit/Util/PHP/eval-stdin.php
+1	0	0	0	1	0	0	26512196	0	0	26512196	0	/en/wp-login.php
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/H7LVB7AO1-K4PP-BGXY4XO_XWKEJ1IZG
+1	2	0	0	0	26851828	0	0	26848364	0	0	3990	/cgi-sys/defaultwebpage.cgi?207.46.13.177
+1	0	0	0	1	0	0	26586936	0	0	26586936	0	/game/2?180.244.232.57
+1	4	0	0	0	26682050	0	0	26682050	0	0	348	/.well-known/acme-challenge/WljiV8eWIBshccrcwB6HgcLcixPUOO8lgS13mBhmpo0
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/uploads/content-post.php
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/zfD-s4LAgyBTA1eNca05z13wZnlMTGolBIZjwaeTzME
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/ESWI401H__M2QAY9Q_D4EBQU0EDCGHS8
+1	0	0	0	1	0	0	26786397	0	0	26786397	0	/vendor/phpunit/phpunit/build.xml?207.46.13.177
+1	0	0	0	1	0	0	26515825	0	0	26515825	0	/robots.txt?178.154.200.165
+1	0	0	0	1	0	0	26799667	0	0	26799667	0	/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	2	0	0	26838013	0	0	26795719	0	/doc.php
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/upload.php
+1	0	0	1	0	0	26652700	0	0	26652700	0	0	/?fbclid=IwAR01wqJI9IT9FloET2BBkKJjnhPYm63oXJeKzyxg-3H97XSMPQv9zTSz2Wo
+1	0	0	0	2	0	0	26570171	0	0	26569214	0	/sitemap.xml.gz
+1	3	0	0	0	26857990	0	0	26857990	0	0	261	/.well-known/acme-challenge/2fCH9cQ_k7nqNd8cOpKIhkVQRHckn1WTht4ycGIYV54
+1	0	0	0	1	0	0	26582586	0	0	26582586	0	/payload.php
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/YJ3N6F9GNMV9J3XNN14UX2AP2XFM3Z1-
+1	0	0	0	20	0	0	26680873	0	0	26502578	0	/favicon.ico
+1	0	0	0	2	0	0	26655788	0	0	26618053	0	/gameDetails/7
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/1DXL5TWA-SMX6G3RLLEE8-WYVS2DTMZC
+1	4	0	0	0	26682051	0	0	26682051	0	0	348	/.well-known/acme-challenge/-K84v0jrzEeP4-W2QSy71pG1s7KNPDluqcFQcA8Q1F4
+1	0	0	0	1	0	0	26582601	0	0	26582601	0	/templates/rhuk_milkyway/index.php
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/uploads/test.php
+1	0	0	0	1	0	0	26729351	0	0	26729351	0	/wp-admin/user/comment.php
+1	1	0	0	0	26770063	0	0	26770063	0	0	64	/.well-known/acme-challenge/XTWTO9CLK_ZGONFPXN356RMBUQW4NVY3
+1	0	0	0	1	0	0	26615972	0	0	26615972	0	/gameDetails/2
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/JTUQ6O867BVQT1SDSJGHN-AUQJQKCE4B
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/5GFL65RH_GWTE5DAJY6ZBS1XCK0T7E53
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/FV3HJ5A_QFGRQSZYSQRYQO2B3GST_LDR?207.46.13.177
+1	0	0	31	0	0	26887405	0	0	26684342	0	0	/?207.46.13.177
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/ABF7LS9SFVD5BBIB6LUZNI__T7Z1RO9H
+1	0	0	0	1	0	0	26639276	0	0	26639276	0	/admin/kcfinder/browse.php
+1	4	0	0	0	26770069	0	0	26770069	0	0	348	/.well-known/acme-challenge/7v2n78uyHMX5zIQ4K4yCYvUr3mVpD1VzCscAtCxQDuo
+1	0	0	0	1	0	0	26861106	0	0	26861106	0	/__media__/js/netsoltrademark.php?d=tvp3dr.com
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/DYVJA4U7C7YG6TCUMC6NM823LWV_TXOX
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-admin/shapes.php
+1	0	0	0	1	0	0	26795704	0	0	26795704	0	/wp-info.php
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/OUISJ_FUPU4_77L26QHW2MF_4AIBPN6_
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/plugins/wp-db-ajax-made/wp-ajax.php
+1	0	0	0	1	0	0	26582585	0	0	26582585	0	/wp-content/think.php
+1	0	0	743	4	0	26900036	26895623	0	26502577	26530842	0	/
+1	0	0	0	1	0	0	26517185	0	0	26517185	0	/blog/wp-login.php?178.154.200.165
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/ZHCIWMN1GGO0Y9XNAVBYQ3DRKNU5V29H
+1	4	0	0	0	26682051	0	0	26682051	0	0	348	/.well-known/acme-challenge/i4lRNzRklnLbh8L9SZlilMsXaixUvFP2ON7lu87kE_k
+1	0	0	0	1	0	0	26729351	0	0	26729351	0	/blog/wp-admin/user/comment.php
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/Fpr5s7l4YZb8TIYiIo1Lo0KWDfxNAHHCITzLQUo_zIo
+1	4	0	0	0	26594288	0	0	26594288	0	0	348	/.well-known/acme-challenge/mSg7Ax2w7dlmi8Bo0LkJZwlAELDcD1oyH8xdviIC5Aw
+1	0	0	0	1	0	0	26702866	0	0	26702866	0	/wp-content/plugins/ioptimization/IOptimize.php?rchk
+1	1	0	0	0	26682043	0	0	26682043	0	0	64	/.well-known/acme-challenge/XM5VL9ZNJV-SZMBOOGM43ATC--BLHO94
+1	0	0	0	1	0	0	26898166	0	0	26898166	0	/.git/HEAD
+1	0	0	0	1	0	0	26799669	0	0	26799669	0	/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/EV-NWFES7VV5AYQE_N4WLEGAZPBY83OU
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/WOXWYZ19EH0R8OHI40PJU96E35-OKZDY
+1	0	0	0	1	0	0	26671338	0	0	26671338	0	/ads.txt?180.244.232.57
+1	0	0	0	3	0	0	26624700	0	0	26548237	0	/config/.env
+1	4	0	0	0	26770069	0	0	26770069	0	0	348	/.well-known/acme-challenge/_u0r93JOz0Mm8i7iaLk2dj6X3XkGGBcAsQSCpYQlbVk
+1	0	0	0	1	0	0	26559109	0	0	26559109	0	/new/
+1	2	0	0	0	26788366	0	0	26590794	0	0	4021	/cgi-sys/defaultwebpage.cgi?180.244.232.57
+1	0	0	0	19	0	0	26890093	0	0	26510116	0	/register
+1	0	0	0	11	0	0	26774227	0	0	26531123	0	/order
+1	4	0	0	0	26770069	0	0	26770069	0	0	348	/.well-known/acme-challenge/a4oIv5koCSxAM4Nskv77hIDHn-WcctyyNaFILMZ7K64
+1	0	0	0	1	0	0	26638145	0	0	26638145	0	/phpmyadmin/print.css
+1	0	0	0	3	0	0	26624700	0	0	26548238	0	/application/.env
+1	0	0	0	1	0	0	26585338	0	0	26585338	0	/1/wp-includes/wlwmanifest.xml
+1	1	0	0	0	26857980	0	0	26857980	0	0	64	/.well-known/acme-challenge/HK15Z4-EHR2LBHUA128EREVGWMBKB66-
+1	0	0	0	1	0	0	26553932	0	0	26553932	0	/v2/wp-includes/wlwmanifest.xml
+1	0	0	3	0	0	26509973	0	0	26507430	0	0	/?207.46.13.107
+1	0	0	0	1	0	0	26582586	0	0	26582586	0	/wp-admin/network/wp-footer.php
+1	1	0	0	0	26858161	0	0	26858161	0	0	64	/.well-known/acme-challenge/39OEN412FMRRDVJA7MKJ3XQ840OBN04N
+1	0	0	0	6	0	0	26863615	0	0	26563241	0	/wp-login.php
+1	0	0	0	2	0	0	26570173	0	0	26569215	0	/sitemap_index.xml
+1	1	0	0	0	26594287	0	0	26594287	0	0	64	/.well-known/acme-challenge/FX355QCYGY_GS0685K-VJNLJ3JWC9M6E
+1	0	0	0	2	0	0	26661222	0	0	26595056	0	/game/7?180.244.232.57
+1	0	0	0	1	0	0	26799670	0	0	26799670	0	/libraries/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	0	2	0	0	26570171	0	0	26569214	0	/sitemaps.xml
+1	0	0	0	1	0	0	26704483	0	0	26704483	0	/gameDetails/7?180.244.232.57
+1	0	0	0	1	0	0	26582586	0	0	26582586	0	/uploader.php
+1	0	0	0	2	0	0	26741030	0	0	26741030	0	/dede/login.php
+1	0	0	0	1	0	0	26582586	0	0	26582586	0	/wp-content/uploads/up.php
+1	0	0	0	1	0	0	26584875	0	0	26584875	0	/css/ResponsiveStyleSheet.css
+1	0	0	0	1	0	0	26528684	0	0	26528684	0	/images/?3.15.239.205
+1	0	0	0	1	0	0	26654134	0	0	26654134	0	/phpmyadmin/index.php
+1	1	0	0	0	26682222	0	0	26682222	0	0	64	/.well-known/acme-challenge/GLMI8J-T6CN4N0ZIPJDQAC75TUWYENUJ
+1	0	0	0	1	0	0	26799668	0	0	26799668	0	/public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+3	17	0	0	1	26502626	0	26502594	26502578	0	26502594	62168	http://iranbaguette.com/cgi-sys/defaultwebpage.cgi
+3	0	0	0	1	0	0	26512196	0	0	26512196	0	http://iranbaguette.com/en/wp-login.php
+3	0	0	1	0	0	26622157	0	0	26622157	0	0	https://yandex.ru/clck/jsredir?from=yandex.ru%3Bsearch%3Bweb%3B%3B&text=&etext=8347.aAHg88Scqh4Bkjx45Yk-x5m9VmG1uZeQv-Evup5xvsWpMIPvajgHSoGGOPrs5-S9.2fc010883ad0c54175de190f951266c3fa624c8d&uuid=&state=_BLhILn4SxNIvvL0W45KSic66uCIg23qh8iRG98qeIXmeppkgUc0YGHEttDsYq_w3pSJtejupWg&data=UlNrNmk5WktYejR0eWJFYk1Ldmtxa3EwcmtMTnhnQUZlZmNJbDF5Z2lJb0hGdjdSbHdLSHFMMXFXd21ydlhJTVd2bEVuSHRzLTRYMkd5a1dLTnZPSHNsSG5MWG1tT1A0TlFtZmpFeWlVRzA&b64e=2&sign=694283814d8bf0f35951e704c55ccff6&keyno=0&cst=AiuY0DBWFJ7IXge4WdYJQYpgPUyh7uQlVNnvPSUMoi8yr1w_62SgflbEFXbv-piWmL1hyxrgd3aCBabo7DCPtdYT9ONnPD0KwbEomqu_uCb0oQnGezANE-miFJULrauIJh7VJSM2dQrQYZhDZSdB2Pc_K4OdgbBE&ref=orjY4mGPRjk5boDnW0uvlrrd71vZw9kp5uQozpMtKCVz9TJ3Mp6DkQEbfI53PZ-9nj7bxTlYPPAwBNVrPVcUYyBh-am3Ivu5FGF-qk0sYCcT4SLH00twLppGExfFEEVQ&l10n=ru&cts=1597226845385&mc=3.82661350367
+3	0	0	1	0	0	26504721	0	0	26504721	0	0	https://t.co/W7BrLexBGu?amp=1
+3	0	0	0	1	0	0	26509236	0	0	26509236	0	http://iranbaguette.com/cms/wp-login.php
+3	0	0	1	0	0	26600736	0	0	26600736	0	0	https://google.ca/
+3	0	0	1	0	0	26733344	0	0	26733344	0	0	https://bing.com/
+3	0	0	2	0	0	26694239	0	0	26665514	0	0	https://www.google.com/
+3	6	0	13	1	26502594	26880740	26502578	26502578	26506957	26502578	12054	http://iranbaguette.com/
+3	0	0	0	1	0	0	26838013	0	0	26838013	0	http://simplesite.com/
+3	1	0	1	1	26526128	26887405	26526128	26526128	26887405	26526128	2009	http://www.iranbaguette.com/
+3	0	0	0	2	0	0	26584875	0	0	26584875	0	http://www.iranbaguette.com/benefits
+3	4	0	0	0	26526128	0	0	26526128	0	0	12198	http://www.iranbaguette.com/cgi-sys/defaultwebpage.cgi
+3	0	0	0	1	0	0	26680873	0	0	26680873	0	http://www.iranbaguette.com/www.iranbaguette.ir
+3	0	0	1	0	0	26556337	0	0	26556337	0	0	https://yahoo.com/
+3	0	0	0	1	0	0	26517185	0	0	26517185	0	http://iranbaguette.com/blog/wp-login.php
+3	0	0	0	1	0	0	26514372	0	0	26514372	0	http://iranbaguette.com/new/wp-login.php
+3	0	0	0	4	0	0	26827193	0	0	26795576	0	http://google.com/
+3	0	0	8	0	0	26853552	0	0	26777952	0	0	http://baidu.com/
+3	0	0	2	0	0	26594290	0	0	26594290	0	0	http://www.bing.com/search?q=amazon
+4	0	0	1	0	0	26655005	0	0	26655005	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+4	0	0	11	14	0	26579465	26579465	0	26519666	26519666	0	Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+4	0	0	3	0	0	26863570	0	0	26647624	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+4	0	0	1	0	0	26652700	0	0	26652700	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+4	0	0	0	1	0	0	26786397	0	0	26786397	0	Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/17.0 Firefox/17.0
+4	0	0	2	0	0	26589453	0	0	26581996	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/83.0.4103.88 Mobile/15E148 Safari/604.1
+4	0	0	1	0	0	26879592	0	0	26879592	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.99
+4	0	0	1	0	0	26861303	0	0	26861303	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+4	0	0	0	1	0	0	26863615	0	0	26863615	0	Mozilla/4.0 (compatible; Synapse)
+4	0	0	1	0	0	26780037	0	0	26780037	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.13 (KHTML, like Gecko) Chrome/24.0.1290.1 Safari/537.13
+4	0	0	1	0	0	26554805	0	0	26554805	0	0	Internet-structure-research-project-bot
+4	0	0	10	10	0	26889501	26889501	0	26532750	26532750	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+4	0	0	1	0	0	26600736	0	0	26600736	0	0	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.53 Safari/525.19
+4	0	0	1	0	0	26737589	0	0	26737589	0	0	Mozilla/5.0 Firefox/35.0
+4	0	0	6	0	0	26858172	0	0	26594290	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+4	0	0	1	0	0	26705177	0	0	26705177	0	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.140 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	11	0	0	26649750	0	0	26508145	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+4	0	0	3	42	0	26582600	26582601	0	26536553	26582585	0	python-requests/2.23.0
+4	0	0	1	0	0	26774322	0	0	26774322	0	0	Mozilla/5.0 (Linux; Android 8.0.0; SM-A520F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
+4	0	0	1	0	0	26709649	0	0	26709649	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+4	0	0	1	0	0	26556337	0	0	26556337	0	0	Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.9b5) Gecko/2008032620 Firefox/3.0b5
+4	0	0	6	0	0	26773838	0	0	26508960	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+4	0	0	0	4	0	0	26675486	0	0	26670271	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.110 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	1	0	0	26682631	0	0	26682631	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/85.0.4183.92 Mobile/15E148 Safari/604.1
+4	15	0	4	2	26502594	26794865	26502594	26502578	26502577	26502578	49826	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+4	0	0	1	0	0	26743836	0	0	26743836	0	0	CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
+4	0	0	0	1	0	0	26511664	0	0	26511664	0	Googlebot-Image/1.0
+4	0	0	5	4	0	26855547	26895623	0	26629536	26633869	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/84.0.4147.105 Safari/537.36
+4	0	0	1	0	0	26579759	0	0	26579759	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5
+4	0	0	1	0	0	26578753	0	0	26578753	0	0	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.2924.87 Safari/537.36
+4	0	0	0	1	0	0	26894156	0	0	26894156	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+4	0	0	11	0	0	26853552	0	0	26777952	0	0	Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 baidu.sogo.uc.UCBrowser/11.9.4.974 UWS/2.13.1.48 Mobile Safari/537.36 AliApp(DingTalk/4.5.11) com.alibaba.android.rimet/10487439 Channel/227200 language/zh-CN
+4	0	0	1	0	0	26766095	0	0	26766095	0	0	Mozilla/5.0 (Linux; Android 10; SM-A305F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
+4	0	0	4	31	0	26799666	26799670	0	26618822	26799666	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+4	0	0	1	0	0	26662205	0	0	26662205	0	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	1	0	0	26665514	0	0	26665514	0	0	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.86 Safari/533.4
+4	0	0	1	4	0	26518999	26517185	0	26518999	26509236	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+4	0	0	250	436	0	26898095	26898095	0	26505007	26502629	0	Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+4	0	0	2	0	0	26712191	0	0	26711010	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+4	0	0	1	0	0	26695114	0	0	26695114	0	0	Mozilla/4.8 [en] (X11; U; SunOS; 5.7 sun4u)
+4	0	0	1	0	0	26778898	0	0	26778898	0	0	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; MRSPUTNIK 2, 4, 0, 484; MRA 5.9 (build 4953); SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; MATM)
+4	0	0	2	0	0	26726024	0	0	26725792	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+4	0	0	1	0	0	26574591	0	0	26574591	0	0	Python/3.7 aiohttp/3.5.4
+4	0	0	1	0	0	26515393	0	0	26515393	0	0	Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106
+4	0	0	1	0	0	26530118	0	0	26530118	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/74.0.3729.131 Safari/537.36
+4	0	0	4	0	0	26763592	0	0	26515173	0	0	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+4	0	0	1	0	0	26602584	0	0	26602584	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+4	0	0	1	0	0	26831053	0	0	26831053	0	0	Mozilla/5.0 (X11; Linux i686; rv:2.0b6pre) Gecko/20100907 Firefox/4.0b6pre
+4	0	0	2	0	0	26532157	0	0	26513385	0	0	Mozilla/5.0 (compatible; AlphaBot/3.2; +http://alphaseobot.com/bot.html)
+4	0	0	1	0	0	26743967	0	0	26743967	0	0	Mozilla/5.0 (Linux; Android 5.1.1; SM-J700H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36
+4	154	0	0	0	26857991	0	0	26594288	0	0	13398	Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+4	0	0	1	0	0	26609421	0	0	26609421	0	0	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+4	0	0	3	0	0	26616150	0	0	26523585	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+4	0	0	1	0	0	26583736	0	0	26583736	0	0	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+4	0	0	1	0	0	26733344	0	0	26733344	0	0	Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.8 (KHTML, like Gecko) Safari/312.6
+4	0	0	12	29	0	26648259	26890931	0	26503719	26503719	0	Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+4	0	0	1	0	0	26866486	0	0	26866486	0	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.113 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	1	0	0	26519898	0	0	26519898	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+4	0	0	1	1	0	26572674	26572674	0	26572674	26572674	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31
+4	0	0	1	0	0	26559044	0	0	26559044	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2)
+4	0	0	0	1	0	0	26551831	0	0	26551831	0	python-requests/2.18.4
+4	0	0	0	1	0	0	26861106	0	0	26861106	0	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+4	0	0	4	0	0	26883636	0	0	26712371	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+4	0	0	3	0	0	26608828	0	0	26522440	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+4	0	0	5	0	0	26840144	0	0	26509863	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+4	0	0	1	0	0	26697488	0	0	26697488	0	0	Mozilla/2.02E (Win95; U)
+4	0	0	1	0	0	26628003	0	0	26628003	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/80.0.3987.163 Safari/537.36
+4	0	0	3	3	0	26791670	26791670	0	26545359	26545359	0	Pandalytics/1.0 (https://domainsbot.com/pandalytics/)
+4	0	0	2	0	0	26733931	0	0	26628003	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+4	0	0	0	2	0	0	26554906	0	0	26554906	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+4	0	0	1	0	0	26747579	0	0	26747579	0	0	Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G532F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36
+4	0	0	0	2	0	0	26741030	0	0	26741030	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.104 Safari/537.36
+4	5	0	1	1	26526128	26526129	26526128	26526128	26526129	26526128	14207	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+4	0	0	1	0	0	26783208	0	0	26783208	0	0	Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+4	0	0	1	0	0	26704160	0	0	26704160	0	0	Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+4	0	0	1	9	0	26559109	26559109	0	26559109	26559109	0	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+4	0	0	4	0	0	26661674	0	0	26661674	0	0	Mozilla/5.0 (compatible; woorankreview/2.0; +https://www.woorank.com/)
+4	0	0	1	1	0	26895143	26895143	0	26895143	26895143	0	Mozilla/5.0 (compatible; ips-agent)
+4	0	0	15	0	0	26612614	0	0	26509687	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+4	0	0	1	0	0	26576092	0	0	26576092	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+4	0	0	1	0	0	26628164	0	0	26628164	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+4	0	0	0	2	0	0	26671338	0	0	26671338	0	http.rb/4.2.0
+4	0	0	1	0	0	26542910	0	0	26542910	0	0	Mozilla/5.0 (Linux; Android 8.1.0; DUB-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+4	0	0	41	40	0	26667448	26670083	0	26502995	26503027	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	1	0	0	26502586	0	0	26502586	0	0	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+4	0	0	1	0	0	26898512	0	0	26898512	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+4	0	0	1	0	0	26690785	0	0	26690785	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+4	0	0	1	0	0	26626538	0	0	26626538	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+4	0	0	0	3	0	0	26528684	0	0	26511140	0	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+4	0	0	1	0	0	26845803	0	0	26845803	0	0	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Vivaldi/3.5
+4	0	0	1	0	0	26848881	0	0	26848881	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+4	0	0	1	0	0	26555724	0	0	26555724	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+4	0	0	3	0	0	26880740	0	0	26642630	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+4	0	0	1	0	0	26670044	0	0	26670044	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+4	0	0	1	0	0	26676400	0	0	26676400	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko)
+4	0	0	1	0	0	26574590	0	0	26574590	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+4	0	0	1	0	0	26766217	0	0	26766217	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+4	0	0	1	0	0	26771328	0	0	26771328	0	0	Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9; PageThing http://pagething.com) Gecko/2008052906 Firefox/3.0
+4	0	0	2	0	0	26766115	0	0	26765984	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+4	0	0	2	0	0	26507440	0	0	26507430	0	0	Mozilla/5.0 (compatible; Wappalyzer)
+4	0	0	1	0	0	26776444	0	0	26776444	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1
+4	0	0	0	6	0	0	26846659	0	0	26553932	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+4	0	0	2	0	0	26765870	0	0	26751239	0	0	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+4	0	0	2	0	0	26727646	0	0	26727641	0	0	Screaming Frog SEO Spider/10.4
+4	0	0	1	2	0	26684947	26687488	0	26684947	26685556	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	9	0	0	26895715	0	0	26540078	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+4	0	0	1	0	0	26538389	0	0	26538389	0	0	Mozilla/5.0 (Windows NT 6.0; rv:34.0) Gecko/20100101 Firefox/34.0
+4	0	0	38	135	0	26892937	26899318	0	26511440	26502991	0	Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	0	2	0	0	26680873	0	0	26680873	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+4	0	0	3	0	0	26725963	0	0	26604174	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+4	0	0	14	9	0	26795923	26717195	0	26506912	26505775	0	Go-http-client/1.1
+4	0	0	3	0	0	26740408	0	0	26740408	0	0	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Mobile Safari/537.36
+4	0	0	6	5	0	26854639	26850495	0	26833151	26797369	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	1	0	0	26547491	0	0	26547491	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+4	0	0	2	0	0	26770138	0	0	26770138	0	0	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+4	0	0	1	1	0	26887405	26652506	0	26887405	26652506	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+4	0	0	4	30	0	26624700	26624700	0	26548237	26548237	0	curl/7.58.0
+4	0	0	2	0	0	26861589	0	0	26856539	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+4	0	0	2	0	0	26747432	0	0	26747432	0	0	WhatsApp/2.20.111.3 i
+4	0	0	3	0	0	26775220	0	0	26537518	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+4	0	0	1	0	0	26677634	0	0	26677634	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+4	0	0	1	0	0	26706505	0	0	26706505	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+4	0	0	1	0	0	26828461	0	0	26828461	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+4	0	0	5	0	0	26877538	0	0	26504795	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+4	0	0	2	2	0	26702847	26711232	0	26702615	26703497	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.137 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	6	0	0	26601877	0	0	26503887	0	0	Mozilla/5.0 (Macintosh;   Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML,   like Gecko) Chrome/45.0.2454.101 Safari/537.36
+4	0	0	2	0	0	26793225	0	0	26784558	0	0	python-requests/2.21.0
+4	0	0	1	0	0	26669496	0	0	26669496	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3563.0 Safari/537.36
+4	0	0	12	0	0	26870290	0	0	26692970	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+4	10	0	0	2	26502626	0	26502626	26502579	0	26502579	28414	Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1
+4	0	0	1	0	0	26875460	0	0	26875460	0	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.140 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	0	2	0	0	26584875	0	0	26584875	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	0	6	0	0	26841073	0	0	26557317	0	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+4	0	0	2	0	0	26652901	0	0	26614067	0	0	Mozilla/5.0 zgrab/0.x
+4	0	0	1	0	0	26733931	0	0	26733931	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/80.0.3987.132 Safari/537.36
+4	0	0	1	1	0	26560500	26560500	0	26560500	26560500	0	Mozilla/5.0
+4	0	0	1	0	0	26747636	0	0	26747636	0	0	Mozilla/5.0 (Linux; Android 10; HRY-LX1MEB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+4	0	0	20	0	0	26860707	0	0	26514867	0	0	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.99
+4	0	0	0	5	0	0	26654134	0	0	26654133	0	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.2 Safari/537.36
+4	0	0	1	1	0	26707758	26707758	0	26707758	26707758	0	Twitterbot/1.0
+4	0	0	2	0	0	26650902	0	0	26642303	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+4	0	0	3	0	0	26868984	0	0	26868984	0	0	Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+4	0	0	2	0	0	26557519	0	0	26522092	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+4	0	0	0	6	0	0	26638145	0	0	26638145	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+4	0	0	0	3	0	0	26699175	0	0	26695455	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.132 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	1	0	0	26605231	0	0	26605231	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+4	0	0	1	0	0	26694239	0	0	26694239	0	0	Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G5520) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+4	0	0	1	0	0	26722897	0	0	26722897	0	0	curl/7.68.0
+4	0	0	1	0	0	26866009	0	0	26866009	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.89  Safari/537.36
+4	0	0	1	0	0	26506957	0	0	26506957	0	0	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.1; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+4	0	0	2	0	0	26563464	0	0	26556237	0	0	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+4	0	0	1	0	0	26685018	0	0	26685018	0	0	curl/7.47.0
+4	0	0	2	0	0	26846963	0	0	26687850	0	0	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+4	0	0	2	0	0	26505594	0	0	26505594	0	0	Python-urllib/3.6
+4	0	0	1	0	0	26749230	0	0	26749230	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38
+4	0	0	1	1	0	26757546	26757546	0	26757546	26757546	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+4	26	0	40	196	26851828	26892440	26899638	26504651	26504604	26503123	53793	Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+4	0	0	3	0	0	26654454	0	0	26642901	0	0	axios/0.19.2
+4	0	0	30	0	0	26608887	0	0	26504608	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+4	0	0	1	0	0	26842938	0	0	26842938	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+4	0	0	0	6	0	0	26729352	0	0	26689880	0	Linux Mozilla
+4	0	0	2	0	0	26843116	0	0	26828463	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+4	0	0	0	3	0	0	26652513	0	0	26557314	0	facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+4	0	0	0	1	0	0	26875077	0	0	26875077	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+4	0	0	1	0	0	26522655	0	0	26522655	0	0	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+4	0	0	18	3	0	26791361	26792068	0	26723328	26723423	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	1	0	0	26747494	0	0	26747494	0	0	Mozilla/5.0 (Linux; Android 9; Shahin II) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+4	0	0	1	0	0	26628003	0	0	26628003	0	0	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2
+4	0	0	1	0	0	26868783	0	0	26868783	0	0	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+4	0	0	2	5	0	26708071	26838013	0	26708071	26795576	0	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+4	0	0	1	0	0	26883062	0	0	26883062	0	0	Mozilla/5.0 (Linux; Android 9; HTC U12+) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+4	0	0	1	0	0	26643851	0	0	26643851	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363
+4	0	0	1	0	0	26557085	0	0	26557085	0	0	Scrapy/1.4.0 (+http://scrapy.org)
+4	0	0	1	0	0	26726357	0	0	26726357	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+4	0	0	1	0	0	26622157	0	0	26622157	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36 OPR/67.0.3575.115
+4	0	0	1	0	0	26701024	0	0	26701024	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+4	0	0	1	0	0	26656867	0	0	26656867	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+4	0	0	3	0	0	26688735	0	0	26622916	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+4	0	0	1	0	0	26564040	0	0	26564040	0	0	Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+4	0	0	3	1	0	26714244	26719660	0	26712392	26719660	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.78 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	6	1	0	26900036	26890093	0	26891116	26890093	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.153 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	1	0	0	26772369	0	0	26772369	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
+4	0	0	5	0	0	26768693	0	0	26603546	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+4	0	0	0	1	0	0	26530842	0	0	26530842	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+4	0	0	3	2	0	26529506	26529506	0	26529506	26529506	0	panscient.com
+4	0	0	9	0	0	26892142	0	0	26533226	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+4	0	0	1	0	0	26621144	0	0	26621144	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:45.0) Gecko/20100101 Firefox/45.0
+4	0	0	1	0	0	26874894	0	0	26874894	0	0	Mozilla: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.3 Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/43.4
+4	0	0	1	0	0	26684342	0	0	26684342	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1
+4	0	0	1	0	0	26780238	0	0	26780238	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+4	0	0	2	0	0	26525496	0	0	26506941	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+4	60	0	0	0	26858161	0	0	26594287	0	0	3840	Cpanel-HTTP-Client/1.0
+4	0	0	17	0	0	26890931	0	0	26648371	0	0	Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+4	0	0	0	1	0	0	26898166	0	0	26898166	0	curl/7.61.1
+5	0	0	1	1	0	26786954	26786260	0	26786954	26786260	0	207.46.13.176
+5	0	0	1	0	0	26766095	0	0	26766095	0	0	80.210.176.57
+5	0	0	0	2	0	0	26674274	0	0	26563962	0	207.46.13.175
+5	0	0	1	0	0	26557519	0	0	26557519	0	0	173.252.87.24
+5	0	0	3	0	0	26674446	0	0	26597050	0	0	54.36.148.162
+5	0	0	0	2	0	0	26571071	0	0	26561439	0	207.46.13.171
+5	0	0	1	1	0	26560500	26560500	0	26560500	26560500	0	34.232.46.7
+5	0	0	0	1	0	0	26597050	0	0	26597050	0	54.36.148.158
+5	0	0	1	0	0	26527019	0	0	26527019	0	0	96.8.119.110
+5	0	0	1	0	0	26726488	0	0	26726488	0	0	54.36.148.156
+5	0	0	2	0	0	26652901	0	0	26614067	0	0	129.78.110.131
+5	0	0	0	1	0	0	26514683	0	0	26514683	0	54.36.148.154
+5	0	0	1	1	0	26891264	26891116	0	26891264	26891116	0	66.249.65.127
+5	0	0	0	1	0	0	26689880	0	0	26689880	0	77.234.43.189
+5	0	0	0	1	0	0	26743085	0	0	26743085	0	207.46.13.162
+5	1	0	1	0	26522242	26522727	0	26522242	26522727	0	2009	207.46.13.161
+5	0	0	0	1	0	0	26769180	0	0	26769180	0	54.36.148.151
+5	0	0	1	0	0	26856539	0	0	26856539	0	0	3.91.156.100
+5	0	0	1	0	0	26691687	0	0	26691687	0	0	3.125.43.59
+5	0	0	1	0	0	26733344	0	0	26733344	0	0	216.19.195.198
+5	0	0	1	0	0	26518999	0	0	26518999	0	0	185.243.217.28
+5	0	0	1	0	0	26560153	0	0	26560153	0	0	54.36.148.136
+5	0	0	0	3	0	0	26878262	0	0	26628101	0	207.46.13.144
+5	0	0	0	1	0	0	26726488	0	0	26726488	0	54.36.148.135
+5	0	0	1	0	0	26711010	0	0	26711010	0	0	52.175.215.237
+5	0	0	0	1	0	0	26702866	0	0	26702866	0	77.234.43.168
+5	0	0	1	0	0	26684342	0	0	26684342	0	0	151.242.42.186
+5	0	0	1	0	0	26642303	0	0	26642303	0	0	95.38.35.45
+5	0	0	1	0	0	26888493	0	0	26888493	0	0	54.203.230.24
+5	0	0	1	0	0	26891116	0	0	26891116	0	0	66.249.65.100
+5	0	0	1	0	0	26582369	0	0	26582369	0	0	135.181.26.154
+5	12	0	0	0	26857990	0	0	26682050	0	0	1044	3.128.26.105
+5	0	0	2	2	0	26605167	26605167	0	26568392	26568392	0	216.145.11.94
+5	0	0	0	2	0	0	26671338	0	0	26671338	0	77.125.11.253
+5	0	0	0	2	0	0	26554906	0	0	26554906	0	204.18.32.32
+5	0	0	1	1	0	26895143	26895143	0	26895143	26895143	0	72.13.46.2
+5	0	0	1	0	0	26524222	0	0	26524222	0	0	31.171.246.249
+5	0	0	1	0	0	26743967	0	0	26743967	0	0	5.200.126.41
+5	0	0	1	0	0	26797033	0	0	26797033	0	0	207.46.13.123
+5	0	0	0	2	0	0	26527971	0	0	26526720	0	207.46.13.122
+5	0	0	0	1	0	0	26586936	0	0	26586936	0	207.46.13.121
+5	0	0	1	0	0	26597748	0	0	26597748	0	0	207.46.13.120
+5	0	0	0	1	0	0	26661544	0	0	26661544	0	54.36.148.108
+5	0	0	0	1	0	0	26740040	0	0	26740040	0	54.36.148.107
+5	0	0	1	0	0	26771328	0	0	26771328	0	0	51.81.82.175
+5	0	0	1	0	0	26584536	0	0	26584536	0	0	54.36.148.105
+5	0	0	1	10	0	26548237	26548238	0	26548237	26548237	0	180.244.235.161
+5	0	0	1	0	0	26589453	0	0	26589453	0	0	46.165.250.70
+5	0	0	0	2	0	0	26890931	0	0	26536769	0	54.36.148.84
+5	0	0	0	1	0	0	26513589	0	0	26513589	0	207.46.13.112
+5	0	0	0	1	0	0	26638416	0	0	26638416	0	40.77.167.3
+5	0	0	1	0	0	26514622	0	0	26514622	0	0	40.77.167.2
+5	0	0	0	1	0	0	26572255	0	0	26572255	0	54.36.148.82
+5	0	0	0	1	0	0	26673249	0	0	26673249	0	207.46.13.110
+5	0	0	3	0	0	26885242	0	0	26869395	0	0	207.46.13.9
+5	0	0	0	2	0	0	26618658	0	0	26617792	0	207.46.13.108
+5	1	0	2	0	26504651	26694803	0	26504651	26504604	0	2009	207.46.13.107
+5	0	0	1	0	0	26587488	0	0	26587488	0	0	207.46.13.7
+5	0	0	1	0	0	26833062	0	0	26833062	0	0	207.46.13.105
+5	0	0	0	1	0	0	26619398	0	0	26619398	0	207.46.13.104
+5	1	0	1	1	26533833	26535450	26619640	26533833	26535450	26619640	2009	207.46.13.103
+5	0	0	0	2	0	0	26795917	0	0	26609653	0	54.36.148.75
+5	0	0	0	1	0	0	26685671	0	0	26685671	0	207.46.13.3
+5	0	0	0	1	0	0	26863739	0	0	26863739	0	54.36.148.73
+5	0	0	1	2	0	26642789	26695662	0	26642789	26670922	0	207.46.13.1
+5	0	0	0	1	0	0	26706606	0	0	26706606	0	207.46.13.0
+5	0	0	1	0	0	26529144	0	0	26529144	0	0	66.249.79.31
+5	0	0	1	0	0	26722897	0	0	26722897	0	0	188.165.239.211
+5	0	0	0	4	0	0	26517185	0	0	26509236	0	5.196.39.192
+5	0	0	1	0	0	26525496	0	0	26525496	0	0	116.202.17.107
+5	0	0	1	0	0	26858172	0	0	26858172	0	0	65.155.30.101
+5	0	0	0	1	0	0	26898166	0	0	26898166	0	3.237.31.186
+5	0	0	1	1	0	26866879	26866485	0	26866879	26866485	0	66.249.73.238
+5	0	0	1	0	0	26898512	0	0	26898512	0	0	2.176.113.45
+5	0	0	1	0	0	26866486	0	0	26866486	0	0	66.249.73.234
+5	6	0	0	0	26857990	0	0	26594288	0	0	522	52.28.236.88
+5	0	0	1	0	0	26687177	0	0	26687177	0	0	54.36.148.57
+5	0	0	1	0	0	26687850	0	0	26687850	0	0	73.203.191.81
+5	0	0	0	1	0	0	26560153	0	0	26560153	0	54.36.148.55
+5	0	0	0	1	0	0	26740922	0	0	26740922	0	5.255.231.88
+5	0	0	0	1	0	0	26795719	0	0	26795719	0	54.148.70.27
+5	0	0	0	1	0	0	26531123	0	0	26531123	0	213.180.203.190
+5	0	0	0	1	0	0	26533629	0	0	26533629	0	213.180.203.189
+5	0	0	1	0	0	26648259	0	0	26648259	0	0	54.36.148.51
+5	1	0	0	0	26736607	0	0	26736607	0	0	2026	157.55.39.98
+5	0	0	1	0	0	26503719	0	0	26503719	0	0	54.36.148.49
+5	0	0	0	1	0	0	26525450	0	0	26525450	0	54.36.148.48
+5	0	0	1	0	0	26712371	0	0	26712371	0	0	190.25.242.35
+5	2	0	0	0	26770069	0	0	26770069	0	0	174	3.22.70.135
+5	0	0	0	1	0	0	26531122	0	0	26531122	0	213.180.203.182
+5	0	0	0	1	0	0	26568439	0	0	26568439	0	46.229.168.152
+5	0	0	1	0	0	26553032	0	0	26553032	0	0	46.229.168.151
+5	0	0	1	0	0	26553598	0	0	26553598	0	0	52.38.87.209
+5	0	0	0	1	0	0	26564287	0	0	26564287	0	46.229.168.150
+5	0	0	1	0	0	26864913	0	0	26864913	0	0	89.44.201.115
+5	0	0	1	0	0	26600736	0	0	26600736	0	0	216.19.195.117
+5	0	0	2	0	0	26561081	0	0	26547976	0	0	46.229.168.148
+5	0	0	1	1	0	26576027	26519666	0	26576027	26519666	0	46.229.168.147
+5	0	0	0	1	0	0	26652513	0	0	26652513	0	173.252.87.113
+5	0	0	2	1	0	26568439	26576027	0	26556926	26576027	0	46.229.168.145
+5	0	0	1	0	0	26556337	0	0	26556337	0	0	216.19.195.113
+5	0	0	1	0	0	26842938	0	0	26842938	0	0	171.13.14.40
+5	0	0	0	1	0	0	26547976	0	0	26547976	0	46.229.168.143
+5	0	0	1	0	0	26828463	0	0	26828463	0	0	109.109.56.240
+5	0	0	0	1	0	0	26585338	0	0	26585338	0	184.168.152.100
+5	0	0	1	2	0	26519666	26579465	0	26519666	26561081	0	46.229.168.141
+5	0	0	0	1	0	0	26643570	0	0	26643570	0	157.55.39.81
+5	0	0	0	1	0	0	26553032	0	0	26553032	0	46.229.168.140
+5	0	0	0	1	0	0	26687177	0	0	26687177	0	54.36.148.31
+5	0	0	1	1	0	26564287	26529204	0	26564287	26529204	0	46.229.168.139
+5	0	0	0	1	0	0	26668856	0	0	26668856	0	157.55.39.78
+5	0	0	2	0	0	26504795	0	0	26504795	0	0	54.198.67.97
+5	0	0	0	1	0	0	26556926	0	0	26556926	0	46.229.168.135
+5	0	0	0	1	0	0	26700357	0	0	26700357	0	54.36.148.26
+5	0	0	1	0	0	26882281	0	0	26882281	0	0	34.214.241.135
+5	0	0	1	0	0	26602584	0	0	26602584	0	0	128.199.152.0
+5	0	0	1	0	0	26554805	0	0	26554805	0	0	213.159.213.137
+5	0	0	1	0	0	26529204	0	0	26529204	0	0	46.229.168.134
+5	0	0	1	0	0	26579465	0	0	26579465	0	0	46.229.168.133
+5	0	0	3	0	0	26664819	0	0	26658445	0	0	106.53.83.56
+5	0	0	1	0	0	26766115	0	0	26766115	0	0	168.119.230.122
+5	0	0	0	1	0	0	26529204	0	0	26529204	0	46.229.168.132
+5	0	0	1	1	0	26538720	26553032	0	26538720	26553032	0	46.229.168.131
+5	0	0	0	1	0	0	26531122	0	0	26531122	0	213.180.203.160
+5	0	0	1	0	0	26772539	0	0	26772539	0	0	157.55.39.69
+5	0	0	0	2	0	0	26564287	0	0	26538720	0	46.229.168.129
+5	0	0	0	1	0	0	26629110	0	0	26629110	0	157.55.39.67
+5	0	0	1	0	0	26892440	0	0	26892440	0	0	157.55.39.66
+5	0	0	1	0	0	26505008	0	0	26505008	0	0	213.180.203.155
+5	11	0	0	0	26857990	0	0	26682050	0	0	957	66.133.109.36
+5	0	0	2	0	0	26548265	0	0	26536769	0	0	54.36.148.16
+5	0	0	0	1	0	0	26505186	0	0	26505186	0	213.180.203.153
+5	0	0	0	1	0	0	26646332	0	0	26646332	0	5.255.253.189
+5	0	0	2	0	0	26878341	0	0	26878341	0	0	5.255.231.49
+5	0	0	1	0	0	26582864	0	0	26582864	0	0	54.191.197.151
+5	0	0	1	0	0	26700357	0	0	26700357	0	0	54.36.148.13
+5	0	0	0	1	0	0	26531123	0	0	26531123	0	213.180.203.147
+5	0	0	2	0	0	26661674	0	0	26661674	0	0	54.237.230.22
+5	7	0	0	1	26502578	0	26502578	26502578	0	26502578	24288	89.199.34.163
+5	0	0	1	0	0	26772369	0	0	26772369	0	0	37.9.13.157
+5	0	0	0	1	0	0	26645447	0	0	26645447	0	157.55.39.9
+5	0	0	0	1	0	0	26603097	0	0	26603097	0	157.55.39.7
+5	0	0	0	1	0	0	26632515	0	0	26632515	0	157.55.39.6
+5	0	0	0	1	0	0	26846659	0	0	26846659	0	180.248.210.211
+5	0	0	1	0	0	26570326	0	0	26570326	0	0	35.165.193.228
+5	0	0	0	2	0	0	26862162	0	0	26611060	0	157.55.39.1
+5	0	0	1	0	0	26557085	0	0	26557085	0	0	220.129.30.135
+5	0	0	0	3	0	0	26899638	0	0	26885242	0	157.55.39.0
+5	5	0	0	1	26502579	0	26502579	26502579	0	26502579	14207	198.199.125.231
+5	0	0	1	0	0	26654454	0	0	26654454	0	0	18.224.181.206
+5	0	0	0	2	0	0	26619901	0	0	26619122	0	157.55.39.44
+5	0	0	0	3	0	0	26746535	0	0	26541411	0	157.55.39.43
+5	0	0	0	3	0	0	26898095	0	0	26742772	0	5.255.253.166
+5	0	0	0	1	0	0	26620648	0	0	26620648	0	157.55.39.41
+5	0	0	0	7	0	0	26710344	0	0	26631023	0	157.55.39.40
+5	0	0	0	1	0	0	26613821	0	0	26613821	0	157.55.39.37
+5	0	0	1	0	0	26637346	0	0	26637346	0	0	54.189.140.113
+5	0	0	1	0	0	26672322	0	0	26672322	0	0	5.255.253.163
+5	0	0	1	1	0	26630418	26630418	0	26630418	26630418	0	5.255.253.162
+5	0	0	0	2	0	0	26535450	0	0	26533833	0	157.55.39.32
+5	0	0	3	0	0	26508145	0	0	26508145	0	0	18.188.92.227
+5	0	0	0	1	0	0	26594610	0	0	26594610	0	157.55.39.31
+5	0	0	0	1	0	0	26611662	0	0	26611662	0	157.55.39.29
+5	0	0	0	8	0	0	26851828	0	0	26568254	0	157.55.39.28
+5	0	0	1	0	0	26563792	0	0	26563792	0	0	142.93.37.187
+5	0	0	0	2	0	0	26516524	0	0	26516524	0	213.180.203.116
+5	0	0	7	10	0	26855508	26882717	0	26676770	26663883	0	5.255.253.153
+5	0	0	1	1	0	26510699	26510699	0	26510699	26510699	0	152.44.34.50
+5	0	0	0	4	0	0	26772539	0	0	26597747	0	157.55.39.26
+5	0	0	3	0	0	26628003	0	0	26628003	0	0	69.160.160.58
+5	0	0	1	0	0	26618822	0	0	26618822	0	0	134.122.119.89
+5	0	0	0	1	0	0	26604868	0	0	26604868	0	157.55.39.23
+5	0	0	2	0	0	26733931	0	0	26733931	0	0	69.160.160.54
+5	0	0	0	9	0	0	26833062	0	0	26528819	0	157.55.39.20
+5	0	0	0	1	0	0	26531122	0	0	26531122	0	213.180.203.108
+5	0	0	0	1	0	0	26840525	0	0	26840525	0	157.55.39.18
+5	0	0	0	1	0	0	26653064	0	0	26653064	0	161.81.160.13
+5	0	0	0	6	0	0	26740844	0	0	26730753	0	157.55.39.17
+5	0	0	0	9	0	0	26567302	0	0	26516185	0	157.55.39.15
+5	0	0	0	3	0	0	26514598	0	0	26503123	0	157.55.39.14
+5	0	0	1	0	0	26628164	0	0	26628164	0	0	5.196.23.219
+5	0	0	1	0	0	26618587	0	0	26618587	0	0	18.159.134.122
+5	0	0	1	31	0	26799666	26799670	0	26799666	26799666	0	178.128.77.147
+5	0	0	0	1	0	0	26530842	0	0	26530842	0	209.239.122.237
+5	0	0	2	0	0	26600999	0	0	26570688	0	0	178.154.200.68
+5	0	0	1	0	0	26594673	0	0	26594673	0	0	178.154.200.67
+5	0	0	1	1	0	26617233	26617233	0	26617233	26617233	0	5.255.253.131
+5	0	0	0	1	0	0	26531123	0	0	26531123	0	213.180.203.8
+5	0	0	3	11	0	26727780	26834063	0	26718185	26716160	0	5.255.253.126
+5	0	0	1	0	0	26560446	0	0	26560446	0	0	45.76.18.210
+5	0	0	0	1	0	0	26531123	0	0	26531123	0	178.154.200.56
+5	0	0	3	8	0	26864956	26898095	0	26672322	26649183	0	213.180.203.3
+5	0	0	0	1	0	0	26531123	0	0	26531123	0	213.180.203.2
+5	0	0	0	2	0	0	26531123	0	0	26531122	0	178.154.200.55
+5	0	0	1	0	0	26663883	0	0	26663883	0	0	213.180.203.1
+5	0	0	19	48	0	26608929	26618053	0	26509581	26502629	0	178.154.200.53
+5	0	0	0	1	0	0	26878341	0	0	26878341	0	5.45.207.184
+5	0	0	1	0	0	26540078	0	0	26540078	0	0	52.12.60.119
+5	0	0	2	2	0	26701589	26680945	0	26676754	26676770	0	5.45.207.93
+5	0	0	12	16	0	26898095	26836648	0	26680945	26684853	0	5.255.253.116
+5	0	0	1	0	0	26686729	0	0	26686729	0	0	3.222.185.137
+5	0	0	1	1	0	26636281	26636281	0	26636281	26636281	0	5.45.207.181
+5	0	0	2	1	0	26689876	26689875	0	26689876	26689875	0	178.154.200.49
+5	0	0	0	1	0	0	26531123	0	0	26531123	0	178.154.200.48
+5	0	0	1	0	0	26765984	0	0	26765984	0	0	135.181.145.191
+5	0	0	1	0	0	26766217	0	0	26766217	0	0	46.51.119.165
+5	0	0	1	0	0	26709649	0	0	26709649	0	0	51.161.119.229
+5	0	0	0	2	0	0	26531123	0	0	26521037	0	178.154.200.46
+5	0	0	2	1	0	26600999	26600999	0	26505339	26600999	0	178.154.200.45
+5	0	0	0	1	0	0	26577327	0	0	26577327	0	5.45.207.85
+5	0	0	2	0	0	26548406	0	0	26548406	0	0	52.13.95.235
+5	0	0	0	2	0	0	26577327	0	0	26566771	0	5.45.207.173
+5	0	0	1	0	0	26642901	0	0	26642901	0	0	18.222.149.165
+5	0	0	1	0	0	26749583	0	0	26749583	0	0	138.94.218.121
+5	0	0	0	9	0	0	26850532	0	0	26649183	0	5.255.253.103
+5	0	0	0	1	0	0	26577327	0	0	26577327	0	5.255.253.102
+5	0	0	1	2	0	26594673	26594673	0	26594673	26569734	0	5.45.207.78
+5	0	0	2	0	0	26514398	0	0	26514397	0	0	3.89.242.62
+5	0	0	0	2	0	0	26566728	0	0	26566728	0	5.45.207.166
+5	0	0	0	2	0	0	26531123	0	0	26531122	0	178.154.200.34
+5	0	0	10	15	0	26559628	26599144	0	26509581	26502898	0	178.154.200.33
+5	0	0	1	1	0	26626794	26577327	0	26626794	26577327	0	5.45.207.163
+5	0	0	1	0	0	26537518	0	0	26537518	0	0	34.214.144.27
+5	0	0	0	1	0	0	26521036	0	0	26521036	0	178.154.200.29
+5	0	0	1	1	0	26599145	26579536	0	26599145	26579536	0	5.45.207.69
+5	0	0	1	4	0	26761768	26845374	0	26761768	26778341	0	5.45.207.158
+5	0	0	0	1	0	0	26689875	0	0	26689875	0	5.45.207.157
+5	0	0	2	0	0	26504608	0	0	26504608	0	0	54.218.110.238
+5	0	0	13	8	0	26882717	26774506	0	26720059	26718038	0	5.45.207.65
+5	0	0	0	1	0	0	26577327	0	0	26577327	0	5.45.207.64
+5	0	0	1	0	0	26560239	0	0	26560239	0	0	52.34.185.212
+5	0	0	0	5	0	0	26654134	0	0	26654133	0	103.105.154.2
+5	0	0	1	0	0	26706834	0	0	26706834	0	0	69.50.239.55
+5	0	0	0	1	0	0	26577327	0	0	26577327	0	178.154.200.17
+5	0	0	1	1	0	26626794	26577327	0	26626794	26577327	0	5.45.207.146
+5	4	0	0	0	26790152	0	0	26788366	0	0	7980	13.66.139.147
+5	0	0	1	0	0	26778898	0	0	26778898	0	0	5.44.169.3
+5	0	0	1	0	0	26646332	0	0	26646332	0	0	178.154.200.13
+5	0	0	0	1	0	0	26841073	0	0	26841073	0	3.221.49.135
+5	0	0	1	0	0	26749201	0	0	26749201	0	0	38.18.36.126
+5	0	0	1	0	0	26588504	0	0	26588504	0	0	198.46.214.81
+5	0	0	0	1	0	0	26505775	0	0	26505775	0	192.36.248.249
+5	0	0	1	1	0	26757546	26757546	0	26757546	26757546	0	193.176.84.29
+5	0	0	1	0	0	26622157	0	0	26622157	0	0	46.48.45.190
+5	0	0	3	0	0	26868984	0	0	26868984	0	0	104.41.228.253
+5	0	0	1	0	0	26649183	0	0	26649183	0	0	5.45.207.131
+5	0	0	1	0	0	26673998	0	0	26673998	0	0	52.11.196.187
+5	3	0	0	0	26851828	0	0	26848364	0	0	5985	13.66.139.126
+5	0	0	1	0	0	26834334	0	0	26834334	0	0	213.32.83.105
+5	0	0	0	1	0	0	26735699	0	0	26735699	0	3.137.181.237
+5	0	0	5	0	0	26861589	0	0	26547491	0	0	199.127.56.236
+5	0	0	1	0	0	26895715	0	0	26895715	0	0	44.226.207.53
+5	0	0	13	28	0	26794699	26867308	0	26722483	26577327	0	5.45.207.118
+5	0	0	1	1	0	26572674	26572674	0	26572674	26572674	0	51.161.120.161
+5	0	0	1	0	0	26747494	0	0	26747494	0	0	85.9.122.5
+5	0	0	1	0	0	26704160	0	0	26704160	0	0	173.255.246.21
+5	0	0	0	1	0	0	26574078	0	0	26574078	0	40.77.167.238
+5	0	0	1	0	0	26530118	0	0	26530118	0	0	34.222.94.99
+5	0	0	1	1	0	26545359	26545359	0	26545359	26545359	0	54.170.86.119
+5	0	0	0	6	0	0	26638145	0	0	26638145	0	185.234.218.42
+5	0	0	1	0	0	26840144	0	0	26840144	0	0	114.116.21.95
+5	0	0	0	1	0	0	26861106	0	0	26861106	0	194.87.112.149
+5	0	0	1	0	0	26676400	0	0	26676400	0	0	54.149.251.251
+5	0	0	1	0	0	26702548	0	0	26702548	0	0	34.216.168.157
+5	0	0	0	1	0	0	26717195	0	0	26717195	0	23.129.64.186
+5	0	0	1	0	0	26883062	0	0	26883062	0	0	5.115.188.165
+5	0	0	1	0	0	26727646	0	0	26727646	0	0	157.245.131.135
+5	0	0	1	1	0	26753910	26753910	0	26753910	26753910	0	5.255.231.177
+5	0	0	2	0	0	26502586	0	0	26502577	0	0	46.62.171.227
+5	0	0	1	1	0	26863459	26863459	0	26863459	26863459	0	66.249.75.223
+5	0	0	1	0	0	26846099	0	0	26846099	0	0	206.180.185.165
+5	0	0	2	0	0	26726024	0	0	26725792	0	0	107.174.235.147
+5	0	0	1	0	0	26887405	0	0	26887405	0	0	163.172.5.15
+5	0	0	3	0	0	26575820	0	0	26575820	0	0	18.217.38.79
+5	0	0	1	0	0	26538389	0	0	26538389	0	0	94.25.173.185
+5	0	0	4	14	0	26755527	26794516	0	26718185	26718038	0	5.255.231.167
+5	1	0	0	0	26519192	0	0	26519192	0	0	2768	40.77.167.182
+5	0	0	2	0	0	26508663	0	0	26508663	0	0	34.222.224.15
+5	2	0	0	1	26519186	0	26519186	26519182	0	26519186	4018	40.77.167.180
+5	0	0	1	1	0	26896641	26896641	0	26896641	26896641	0	66.249.75.193
+5	0	0	1	0	0	26883636	0	0	26883636	0	0	206.174.236.147
+5	0	0	0	1	0	0	26569215	0	0	26569215	0	40.77.167.169
+5	1	0	0	0	26792501	0	0	26792501	0	0	1995	13.66.139.91
+5	0	0	0	5	0	0	26639276	0	0	26639276	0	185.210.218.99
+5	0	0	1	0	0	26860707	0	0	26860707	0	0	198.46.170.72
+5	0	0	1	0	0	26697488	0	0	26697488	0	0	198.46.236.165
+5	0	0	1	0	0	26619040	0	0	26619040	0	0	38.18.55.90
+5	1	0	1	1	26568376	26570816	26568267	26568376	26570816	26568267	2026	40.77.167.159
+5	0	0	2	0	0	26850159	0	0	26786029	0	0	42.236.10.93
+5	0	0	1	1	0	26600657	26604868	0	26600657	26604868	0	40.77.167.157
+5	0	0	0	1	0	0	26570173	0	0	26570173	0	40.77.167.155
+5	0	0	9	23	0	26898095	26887134	0	26723821	26726447	0	5.255.231.136
+5	0	0	1	0	0	26605231	0	0	26605231	0	0	35.230.58.15
+5	0	0	1	0	0	26777952	0	0	26777952	0	0	42.236.10.84
+5	0	0	1	1	0	26596296	26596294	0	26596296	26596294	0	40.77.167.148
+5	0	0	0	1	0	0	26574963	0	0	26574963	0	40.77.167.147
+5	0	0	5	6	0	26864956	26785974	0	26720183	26720590	0	5.255.231.130
+5	0	0	1	0	0	26793225	0	0	26793225	0	0	54.189.53.16
+5	0	0	2	0	0	26853552	0	0	26853551	0	0	42.236.10.78
+5	0	0	2	0	0	26558491	0	0	26558491	0	0	52.13.90.121
+5	0	0	1	0	0	26878262	0	0	26878262	0	0	13.66.139.64
+5	1	0	0	0	26620588	0	0	26620588	0	0	2026	40.77.167.142
+5	0	0	0	4	0	0	26717127	0	0	26704562	0	157.55.39.251
+5	0	0	1	0	0	26522655	0	0	26522655	0	0	38.111.144.138
+5	0	0	1	1	0	26687568	26675470	0	26687568	26675470	0	157.55.39.250
+5	0	0	1	1	0	26542017	26542017	0	26542017	26542017	0	66.249.69.196
+5	0	0	2	0	0	26761768	0	0	26760883	0	0	5.255.231.117
+5	0	0	0	1	0	0	26633228	0	0	26633228	0	40.77.167.133
+5	0	0	1	0	0	26780866	0	0	26780866	0	0	42.236.10.125
+5	0	0	1	0	0	26547815	0	0	26547815	0	0	66.249.73.36
+5	0	0	0	1	0	0	26615972	0	0	26615972	0	157.55.39.236
+5	1	0	0	1	26566602	0	26562275	26566602	0	26562275	2026	157.55.39.235
+5	0	0	1	0	0	26868783	0	0	26868783	0	0	54.36.98.18
+5	0	0	0	1	0	0	26547815	0	0	26547815	0	66.249.73.33
+5	0	0	0	1	0	0	26559977	0	0	26559977	0	157.55.39.232
+5	2	0	1	2	26735843	26542744	26541412	26541411	26542744	26541412	4052	157.55.39.231
+5	0	0	0	1	0	0	26503648	0	0	26503648	0	66.249.64.228
+5	0	0	0	1	0	0	26616487	0	0	26616487	0	40.77.167.116
+5	0	0	1	0	0	26635588	0	0	26635588	0	0	40.77.167.115
+5	0	0	0	1	0	0	26584536	0	0	26584536	0	54.36.149.87
+5	0	0	1	0	0	26743836	0	0	26743836	0	0	13.250.13.104
+5	0	0	0	1	0	0	26511500	0	0	26511500	0	157.55.39.225
+5	0	0	0	2	0	0	26623355	0	0	26611100	0	157.55.39.224
+5	0	0	0	1	0	0	26620734	0	0	26620734	0	40.77.167.109
+5	0	0	0	1	0	0	26623494	0	0	26623494	0	40.77.167.106
+5	0	0	1	0	0	26504454	0	0	26504454	0	0	54.36.149.78
+5	140	0	0	0	26858161	0	0	26594287	0	0	10800	89.42.209.254
+5	0	0	0	1	0	0	26713273	0	0	26713273	0	54.36.149.71
+5	0	0	0	3	0	0	26624370	0	0	26563714	0	192.71.2.171
+5	0	0	1	0	0	26522092	0	0	26522092	0	0	62.210.111.97
+5	0	0	2	0	0	26568566	0	0	26568565	0	0	18.236.239.31
+5	0	0	1	0	0	26740040	0	0	26740040	0	0	54.36.149.66
+5	1	0	0	0	26590794	0	0	26590794	0	0	2026	157.55.39.207
+5	0	0	0	1	0	0	26625764	0	0	26625764	0	157.55.39.206
+5	0	0	0	1	0	0	26652506	0	0	26652506	0	37.252.14.7
+5	0	0	1	0	0	26677634	0	0	26677634	0	0	109.248.149.27
+5	0	0	4	1	0	26722143	26704483	0	26703423	26704483	0	157.55.39.191
+5	0	0	0	1	0	0	26674446	0	0	26674446	0	54.36.149.58
+5	0	0	1	0	0	26731710	0	0	26731710	0	0	34.215.38.168
+5	0	0	1	0	0	26648371	0	0	26648371	0	0	54.36.149.54
+5	0	0	3	0	0	26517730	0	0	26517730	0	0	3.15.239.205
+5	0	0	2	0	0	26649750	0	0	26649750	0	0	3.133.118.131
+5	0	0	1	0	0	26612614	0	0	26612614	0	0	52.27.5.108
+5	0	0	0	2	0	0	26613879	0	0	26596318	0	157.55.39.173
+5	0	0	1	0	0	26843063	0	0	26843063	0	0	180.163.220.68
+5	0	0	1	0	0	26578753	0	0	26578753	0	0	94.140.116.118
+5	0	0	1	0	0	26843060	0	0	26843060	0	0	180.163.220.66
+5	0	0	1	0	0	26783785	0	0	26783785	0	0	15.222.238.82
+5	0	0	0	1	0	0	26594611	0	0	26594611	0	157.55.39.166
+5	0	0	0	1	0	0	26635747	0	0	26635747	0	157.55.39.165
+5	0	0	3	7	0	26684947	26685556	0	26613426	26614340	0	66.249.70.5
+5	0	0	0	1	0	0	26836467	0	0	26836467	0	54.36.149.33
+5	0	0	5	12	0	26684509	26687488	0	26607143	26584875	0	66.249.70.2
+5	0	0	6	12	0	26791361	26899318	0	26660104	26655788	0	66.249.64.159
+5	0	0	1	0	0	26642630	0	0	26642630	0	0	222.243.111.11
+5	0	0	0	1	0	0	26838013	0	0	26838013	0	119.8.175.117
+5	0	0	1	1	0	26746536	26629954	0	26746536	26629954	0	157.55.39.158
+5	0	0	0	1	0	0	26648259	0	0	26648259	0	54.36.149.26
+5	0	0	2	0	0	26538789	0	0	26538788	0	0	34.212.173.59
+5	0	0	0	1	0	0	26504454	0	0	26504454	0	54.36.149.23
+5	0	0	1	1	0	26588932	26588691	0	26588932	26588691	0	157.55.39.153
+5	0	0	0	1	0	0	26619237	0	0	26619237	0	157.55.39.148
+5	0	0	1	0	0	26874894	0	0	26874894	0	0	169.47.43.210
+5	0	0	0	1	0	0	26548265	0	0	26548265	0	54.36.149.12
+5	0	0	1	0	0	26779739	0	0	26779739	0	0	157.55.39.142
+5	0	0	0	1	0	0	26637447	0	0	26637447	0	40.77.167.99
+5	0	0	0	1	0	0	26795704	0	0	26795704	0	185.208.164.132
+5	0	0	1	0	0	26730753	0	0	26730753	0	0	157.55.39.139
+5	0	0	0	1	0	0	26563241	0	0	26563241	0	139.59.25.248
+5	0	0	1	0	0	26775220	0	0	26775220	0	0	3.19.120.232
+5	0	0	1	0	0	26843116	0	0	26843116	0	0	46.101.23.166
+5	0	0	1	13	0	26899318	26791361	0	26899318	26655788	0	66.249.64.132
+5	0	0	0	2	0	0	26632564	0	0	26631035	0	40.77.167.90
+5	0	0	0	1	0	0	26557317	0	0	26557317	0	197.188.136.230
+5	0	0	8	9	0	26900036	26833151	0	26743433	26661903	0	66.249.64.129
+5	0	0	1	0	0	26507430	0	0	26507430	0	0	67.205.144.21
+5	0	0	0	1	0	0	26752407	0	0	26752407	0	157.55.39.130
+5	0	0	1	0	0	26737589	0	0	26737589	0	0	124.206.180.133
+5	0	0	0	1	0	0	26617709	0	0	26617709	0	157.55.39.127
+5	0	0	1	0	0	26628190	0	0	26628190	0	0	157.55.39.126
+5	0	0	1	0	0	26663191	0	0	26663191	0	0	157.55.39.123
+5	0	0	1	0	0	26559044	0	0	26559044	0	0	94.247.172.129
+5	0	0	2	1	0	26662205	26667448	0	26661811	26667448	0	66.249.70.86
+5	0	0	1	2	0	26662073	26670083	0	26662073	26659211	0	66.249.70.84
+5	0	0	1	0	0	26892142	0	0	26892142	0	0	67.207.205.134
+5	0	0	0	1	0	0	26569334	0	0	26569334	0	157.55.39.118
+5	0	0	2	2	0	26667448	26670083	0	26659211	26661811	0	66.249.70.82
+5	0	0	1	1	0	26875460	26875460	0	26875460	26875460	0	66.249.70.78
+5	0	0	1	2	0	26836645	26797369	0	26836645	26797368	0	66.249.70.76
+5	0	0	1	9	0	26559109	26559109	0	26559109	26559109	0	91.185.71.25
+5	0	0	0	1	0	0	26624370	0	0	26624370	0	192.71.3.26
+5	0	0	0	3	0	0	26569214	0	0	26569214	0	40.77.167.68
+5	0	0	1	1	0	26875556	26836645	0	26875556	26836645	0	66.249.70.74
+5	0	0	6	0	0	26768693	0	0	26522440	0	0	34.235.233.220
+5	0	0	1	0	0	26503887	0	0	26503887	0	0	69.28.91.181
+5	2	0	0	0	26594288	0	0	26594288	0	0	174	52.15.254.228
+5	0	0	1	0	0	26727641	0	0	26727641	0	0	161.35.99.67
+5	0	0	0	2	0	0	26612124	0	0	26612080	0	40.77.167.61
+5	0	0	1	0	0	26564608	0	0	26564608	0	0	162.213.37.24
+5	0	0	0	1	0	0	26658589	0	0	26658589	0	66.115.173.18
+5	0	0	1	0	0	26574590	0	0	26574590	0	0	18.237.221.117
+5	0	0	1	0	0	26523585	0	0	26523585	0	0	14.186.204.72
+5	0	0	2	0	0	26578648	0	0	26578648	0	0	18.237.27.130
+5	0	0	0	1	0	0	26644074	0	0	26644074	0	40.77.167.45
+5	0	0	0	1	0	0	26878341	0	0	26878341	0	5.255.231.9
+5	0	0	0	1	0	0	26827193	0	0	26827193	0	129.226.117.162
+5	0	0	1	0	0	26507440	0	0	26507440	0	0	159.203.27.73
+5	0	0	0	1	0	0	26516021	0	0	26516021	0	40.77.167.38
+5	0	0	1	0	0	26773838	0	0	26773838	0	0	18.237.215.140
+5	8	0	0	0	26857990	0	0	26594288	0	0	696	64.78.149.164
+5	0	0	1	0	0	26761082	0	0	26761082	0	0	23.250.36.231
+5	0	0	1	1	0	26707758	26707758	0	26707758	26707758	0	199.16.157.181
+5	0	0	1	0	0	26560378	0	0	26560378	0	0	54.185.19.178
+5	0	0	0	2	0	0	26607199	0	0	26606717	0	40.77.167.26
+5	0	0	0	1	0	0	26551831	0	0	26551831	0	116.202.13.69
+5	0	0	5	9	0	26673584	26687488	0	26606431	26584875	0	66.249.70.31
+5	11	0	0	0	26857990	0	0	26594288	0	0	957	18.196.96.172
+5	2	0	0	0	26674647	0	0	26674058	0	0	4052	40.77.167.17
+5	0	0	1	0	0	26712191	0	0	26712191	0	0	52.148.137.35
+5	0	0	1	0	0	26721531	0	0	26721531	0	0	54.213.253.139
+5	0	0	1	0	0	26625960	0	0	26625960	0	0	66.249.70.22
+5	0	0	2	3	0	26631219	26637786	0	26626160	26625952	0	66.249.70.20
+5	0	0	2	2	0	26637786	26675486	0	26625952	26675486	0	66.249.70.18
+5	0	0	0	1	0	0	26789052	0	0	26789052	0	207.46.13.99
+5	0	0	1	0	0	26564040	0	0	26564040	0	0	42.83.147.202
+5	0	0	1	2	0	26613905	26613818	0	26613905	26572706	0	66.249.70.14
+5	3	0	0	0	26594288	0	0	26594288	0	0	261	34.222.229.130
+5	0	0	0	1	0	0	26585338	0	0	26585338	0	104.238.120.62
+5	0	0	2	0	0	26532157	0	0	26513385	0	0	23.237.4.26
+5	0	0	0	2	0	0	26615807	0	0	26583455	0	66.249.70.12
+5	0	0	1	0	0	26843060	0	0	26843060	0	0	180.163.220.5
+5	0	0	2	0	0	26794865	0	0	26765870	0	0	185.253.218.243
+5	0	0	1	2	0	26613819	26615807	0	26613819	26583456	0	66.249.70.10
+5	0	0	0	1	0	0	26777552	0	0	26777552	0	207.46.13.92
+5	0	0	0	1	0	0	26686134	0	0	26686134	0	207.46.13.91
+5	0	0	1	0	0	26770138	0	0	26770138	0	0	74.91.57.151
+5	0	0	1	0	0	26770138	0	0	26770138	0	0	192.3.56.174
+5	0	0	1	0	0	26624280	0	0	26624280	0	0	162.253.129.92
+5	0	0	1	0	0	26688735	0	0	26688735	0	0	162.253.129.91
+5	0	0	3	2	0	26570688	26600999	0	26505007	26505339	0	213.180.203.93
+5	0	0	1	0	0	26555724	0	0	26555724	0	0	37.120.217.54
+5	0	0	1	0	0	26520102	0	0	26520102	0	0	104.36.17.89
+5	0	0	1	0	0	26511287	0	0	26511287	0	0	52.25.32.64
+5	0	0	2	0	0	26560855	0	0	26560854	0	0	34.230.13.102
+5	0	0	0	1	0	0	26503958	0	0	26503958	0	207.46.13.73
+5	0	0	1	0	0	26619566	0	0	26619566	0	0	199.187.211.99
+5	0	0	1	0	0	26581996	0	0	26581996	0	0	188.229.10.249
+5	0	0	0	2	0	0	26684671	0	0	26516304	0	207.46.13.69
+5	0	0	1	0	0	26585647	0	0	26585647	0	0	213.180.203.79
+5	0	0	1	0	0	26643851	0	0	26643851	0	0	91.185.132.56
+5	0	0	3	0	0	26692970	0	0	26692970	0	0	18.218.136.162
+5	0	0	1	0	0	26506912	0	0	26506912	0	0	54.189.81.12
+5	0	0	1	0	0	26739339	0	0	26739339	0	0	207.46.13.60
+5	0	0	0	1	0	0	26722919	0	0	26722919	0	13.238.219.71
+5	1	0	1	0	26525809	26528891	0	26525809	26528891	0	2009	207.46.13.58
+5	0	0	1	0	0	26729252	0	0	26729252	0	0	44.234.87.109
+5	0	0	1	0	0	26669783	0	0	26669783	0	0	106.52.240.60
+5	0	0	1	0	0	26861303	0	0	26861303	0	0	148.251.48.16
+5	0	0	1	0	0	26775219	0	0	26775219	0	0	3.128.184.229
+5	0	0	1	0	0	26534293	0	0	26534293	0	0	209.208.111.57
+5	0	0	1	0	0	26536553	0	0	26536553	0	0	80.240.31.63
+5	0	0	1	0	0	26651263	0	0	26651263	0	0	23.90.29.179
+5	0	0	1	0	0	26652700	0	0	26652700	0	0	69.171.251.20
+5	0	0	0	1	0	0	26531123	0	0	26531123	0	213.180.203.59
+5	0	0	0	2	0	0	26680873	0	0	26680873	0	94.101.254.44
+5	0	0	2	2	0	26551184	26551184	0	26551184	26551184	0	52.188.15.192
+5	0	0	1	0	0	26755193	0	0	26755193	0	0	207.46.13.45
+5	0	0	1	0	0	26831053	0	0	26831053	0	0	23.229.90.244
+5	0	0	0	1	0	0	26613584	0	0	26613584	0	207.46.13.42
+5	0	0	1	3	0	26786523	26786523	0	26786523	26758242	0	66.249.66.212
+5	0	0	0	1	0	0	26577327	0	0	26577327	0	213.180.203.53
+5	0	0	1	0	0	26528565	0	0	26528565	0	0	44.234.25.75
+5	1	0	0	0	26541412	0	0	26541412	0	0	2768	207.46.13.39
+5	0	0	1	0	0	26671742	0	0	26671742	0	0	207.46.13.40
+5	3	0	0	0	26594288	0	0	26594288	0	0	261	3.14.255.131
+5	1	0	0	0	26514599	0	0	26514599	0	0	2009	207.46.13.34
+5	0	0	1	0	0	26670044	0	0	26670044	0	0	184.174.70.68
+5	0	0	1	0	0	26515826	0	0	26515826	0	0	213.180.203.45
+5	0	0	0	1	0	0	26531122	0	0	26531122	0	213.180.203.44
+5	0	0	1	0	0	26846963	0	0	26846963	0	0	111.125.143.143
+5	0	0	1	1	0	26626960	26626794	0	26626960	26626794	0	213.180.203.43
+5	0	0	1	0	0	26665514	0	0	26665514	0	0	216.19.195.36
+5	0	0	1	0	0	26574591	0	0	26574591	0	0	70.42.129.126
+5	5	0	0	1	26502626	0	26502626	26502626	0	26502626	14207	167.172.29.32
+5	0	0	0	1	0	0	26531122	0	0	26531122	0	213.180.203.35
+5	0	0	1	0	0	26789584	0	0	26789584	0	0	66.249.66.91
+5	0	0	0	1	0	0	26505497	0	0	26505497	0	207.46.13.19
+5	0	0	1	2	0	26788556	26788555	0	26788556	26776695	0	66.249.66.90
+5	0	0	43	58	0	26892635	26892635	0	26637632	26637620	0	213.180.203.28
+5	0	0	1	0	0	26544311	0	0	26544311	0	0	161.35.152.150
+5	0	0	1	0	0	26795831	0	0	26795831	0	0	67.207.197.203
+5	0	0	1	1	0	26784772	26784772	0	26784772	26784772	0	64.246.165.200
+5	0	0	1	0	0	26763592	0	0	26763592	0	0	168.119.55.70
+5	0	0	0	1	0	0	26646332	0	0	26646332	0	213.180.203.25
+5	0	0	1	0	0	26650003	0	0	26650003	0	0	207.46.13.11
+5	0	0	5	10	0	26892937	26890093	0	26698414	26695455	0	66.249.66.82
+5	0	0	9	10	0	26858670	26892904	0	26702847	26768894	0	66.249.66.81
+5	0	0	12	19	0	26882717	26864956	0	26676770	26663350	0	213.180.203.22
+5	0	0	6	9	0	26837398	26890093	0	26714244	26695455	0	66.249.66.80
+5	0	0	0	2	0	0	26741030	0	0	26741030	0	101.32.191.11
+5	0	0	2	0	0	26777952	0	0	26777952	0	0	27.115.124.70
+5	0	0	1	0	0	26760950	0	0	26760950	0	0	34.219.177.146
+5	0	0	1	0	0	26506941	0	0	26506941	0	0	78.47.9.28
+5	0	0	2	4	0	26578524	26600268	0	26545877	26532861	0	66.249.66.157
+5	0	0	5	5	0	26604058	26604058	0	26532861	26563690	0	66.249.66.156
+5	0	0	2	2	0	26749070	26749070	0	26675790	26675790	0	64.246.165.170
+5	0	0	4	8	0	26600365	26635831	0	26532861	26545877	0	66.249.66.154
+5	0	0	0	1	0	0	26635831	0	0	26635831	0	66.249.66.150
+5	0	0	1	0	0	26784558	0	0	26784558	0	0	34.209.34.28
+5	0	0	1	0	0	26504721	0	0	26504721	0	0	142.117.23.167
+5	0	0	3	2	0	26529506	26529506	0	26529506	26529506	0	72.79.58.112
+5	0	0	1	0	0	26747636	0	0	26747636	0	0	5.115.72.66
+5	10	0	0	0	26857990	0	0	26594288	0	0	870	34.209.232.166
+5	0	0	3	3	0	26723328	26789583	0	26705177	26705177	0	66.249.66.140
+5	0	0	3	5	0	26838010	26850495	0	26730107	26699175	0	66.249.66.138
+5	0	0	1	0	0	26650902	0	0	26650902	0	0	66.220.149.22
+5	0	0	3	6	0	26837419	26730107	0	26702615	26699175	0	66.249.66.136
+5	0	0	1	0	0	26828461	0	0	26828461	0	0	37.129.150.236
+5	0	0	0	1	0	0	26650897	0	0	26650897	0	66.220.149.15
+5	0	0	1	0	0	26855547	0	0	26855547	0	0	3.250.7.43
+5	0	0	1	0	0	26572255	0	0	26572255	0	0	54.36.149.0
+5	0	0	1	0	0	26792280	0	0	26792280	0	0	54.188.99.110
+5	0	0	0	1	0	0	26894156	0	0	26894156	0	181.196.27.18
+5	0	0	2	5	0	26569560	26636061	0	26564640	26534216	0	66.249.66.31
+5	0	0	1	0	0	26711733	0	0	26711733	0	0	218.76.18.170
+5	0	0	1	0	0	26574110	0	0	26574110	0	0	104.36.18.252
+5	0	0	1	0	0	26629456	0	0	26629456	0	0	47.91.89.85
+5	0	0	1	0	0	26783208	0	0	26783208	0	0	77.222.115.97
+5	0	0	1	0	0	26799669	0	0	26799669	0	0	63.85.174.196
+5	0	0	0	1	0	0	26895623	0	0	26895623	0	34.254.233.206
+5	0	0	1	2	0	26793702	26624370	0	26793702	26516699	0	192.36.53.165
+5	0	0	1	0	0	26851010	0	0	26851010	0	0	160.116.240.146
+5	0	0	0	1	0	0	26557314	0	0	26557314	0	173.252.127.10
+5	0	0	1	0	0	26596742	0	0	26596742	0	0	54.244.67.40
+5	0	0	5	5	0	26636061	26608848	0	26578389	26534216	0	66.249.66.5
+5	0	0	3	7	0	26611308	26611308	0	26608848	26540149	0	66.249.66.2
+5	0	0	3	0	0	26737603	0	0	26737603	0	0	13.58.218.177
+5	0	0	0	1	0	0	26585339	0	0	26585339	0	43.241.56.15
+5	0	0	0	1	0	0	26795576	0	0	26795576	0	103.131.64.47
+5	0	0	1	0	0	26579306	0	0	26579306	0	0	123.20.26.233
+5	0	0	1	0	0	26836467	0	0	26836467	0	0	54.36.149.105
+5	0	0	1	0	0	26661544	0	0	26661544	0	0	54.36.149.101
+5	0	0	2	0	0	26780037	0	0	26579759	0	0	136.27.62.24
+5	0	0	1	0	0	26879592	0	0	26879592	0	0	185.216.35.228
+5	0	0	3	0	0	26870290	0	0	26870290	0	0	18.188.44.223
+5	0	0	1	0	0	26845803	0	0	26845803	0	0	135.181.144.110
+5	0	0	3	0	0	26740408	0	0	26740408	0	0	60.208.94.158
+5	0	0	1	0	0	26792267	0	0	26792267	0	0	34.209.251.169
+5	0	0	1	0	0	26590470	0	0	26590470	0	0	23.94.20.252
+5	0	0	1	0	0	26624370	0	0	26624370	0	0	192.71.23.211
+5	0	0	1	1	0	26532750	26532750	0	26532750	26532750	0	64.246.161.42
+5	0	0	1	0	0	26509687	0	0	26509687	0	0	178.22.66.227
+5	0	0	1	0	0	26685851	0	0	26685851	0	0	104.223.28.228
+5	5	0	1	1	26526128	26526129	26526128	26526128	26526129	26526128	14207	31.2.152.115
+5	0	0	1	0	0	26769180	0	0	26769180	0	0	54.36.148.4
+5	0	0	1	1	0	26855347	26855347	0	26855347	26855347	0	64.246.161.30
+5	0	0	1	0	0	26621144	0	0	26621144	0	0	23.95.107.114
+5	0	0	1	0	0	26550622	0	0	26550622	0	0	167.71.82.233
+5	0	0	1	1	0	26711614	26711614	0	26711614	26711614	0	216.145.5.42
+5	0	0	0	1	0	0	26577327	0	0	26577327	0	178.154.200.9
+5	0	0	2	0	0	26708071	0	0	26708071	0	0	47.89.38.148
+5	0	0	1	0	0	26692329	0	0	26692329	0	0	54.213.214.194
+5	0	0	0	1	0	0	26531123	0	0	26531123	0	178.154.200.6
+5	0	0	1	0	0	26682631	0	0	26682631	0	0	188.210.169.4
+5	0	0	1	0	0	26687350	0	0	26687350	0	0	34.220.92.37
+5	0	0	2	0	0	26608887	0	0	26608887	0	0	52.10.2.31
+5	0	0	0	1	0	0	26505007	0	0	26505007	0	178.154.200.1
+5	0	0	1	0	0	26771848	0	0	26771848	0	0	216.45.54.144
+5	0	0	1	0	0	26533226	0	0	26533226	0	0	38.18.43.225
+5	0	0	1	0	0	26685018	0	0	26685018	0	0	111.6.116.162
+5	0	0	2	0	0	26661674	0	0	26661674	0	0	54.209.221.176
+5	0	0	1	0	0	26751660	0	0	26751660	0	0	54.245.145.163
+5	0	0	0	1	0	0	26553932	0	0	26553932	0	182.50.130.56
+5	0	0	2	0	0	26747432	0	0	26747432	0	0	188.210.148.51
+5	0	0	1	0	0	26774322	0	0	26774322	0	0	31.13.190.38
+5	0	0	1	0	0	26730748	0	0	26730748	0	0	194.53.177.25
+5	0	0	1	0	0	26622916	0	0	26622916	0	0	162.253.131.117
+5	0	0	1	0	0	26659303	0	0	26659303	0	0	103.95.81.215
+5	0	0	1	0	0	26866009	0	0	26866009	0	0	116.203.118.216
+5	0	0	1	0	0	26892337	0	0	26892337	0	0	54.69.72.167
+5	0	0	1	0	0	26650889	0	0	26650889	0	0	18.224.71.64
+5	0	0	1	0	0	26848881	0	0	26848881	0	0	37.46.114.21
+5	0	0	0	1	0	0	26634266	0	0	26634266	0	192.71.103.173
+5	0	0	0	1	0	0	26786397	0	0	26786397	0	37.120.203.72
+5	0	0	2	0	0	26795923	0	0	26795923	0	0	42.194.204.97
+5	0	0	1	1	0	26889501	26889501	0	26889501	26889501	0	216.145.14.142
+5	0	0	1	0	0	26542910	0	0	26542910	0	0	31.2.135.157
+5	0	0	1	0	0	26758460	0	0	26758460	0	0	168.80.117.95
+5	0	0	1	0	0	26530055	0	0	26530055	0	0	165.22.122.63
+5	0	0	1	0	0	26543489	0	0	26543489	0	0	209.208.26.116
+5	6	0	0	0	26857990	0	0	26682051	0	0	522	34.211.6.84
+5	0	0	1	0	0	26751239	0	0	26751239	0	0	46.8.12.239
+5	0	0	2	5	0	26526417	26526417	0	26518641	26506689	0	66.249.71.24
+5	0	0	2	6	0	26528177	26522308	0	26522308	26507737	0	66.249.71.23
+5	0	0	1	0	0	26509863	0	0	26509863	0	0	114.116.99.25
+5	0	0	0	7	0	0	26529144	0	0	26506689	0	66.249.71.22
+5	0	0	0	4	0	0	26729352	0	0	26729351	0	5.62.43.206
+5	0	0	3	0	0	26609421	0	0	26556237	0	0	89.238.177.131
+5	0	0	2	0	0	26725963	0	0	26723802	0	0	192.241.150.153
+5	0	0	1	0	0	26508399	0	0	26508399	0	0	34.223.7.41
+5	0	0	2	42	0	26582600	26582601	0	26582585	26582585	0	212.102.33.143
+5	0	0	1	0	0	26694239	0	0	26694239	0	0	5.74.219.79
+5	0	0	1	0	0	26831888	0	0	26831888	0	0	52.25.114.183
+5	0	0	0	1	0	0	26863615	0	0	26863615	0	195.133.59.194
+5	0	0	1	0	0	26751654	0	0	26751654	0	0	199.16.243.156
+5	0	0	0	1	0	0	26731165	0	0	26731165	0	159.65.143.247
+5	0	0	30	44	0	26892635	26892635	0	26637620	26645032	0	141.8.142.72
+5	0	0	1	0	0	26669496	0	0	26669496	0	0	185.220.100.243
+5	0	0	0	2	0	0	26636281	0	0	26585647	0	178.154.200.246
+5	0	0	2	0	0	26528248	0	0	26528248	0	0	54.203.166.255
+5	0	0	0	1	0	0	26594673	0	0	26594673	0	178.154.200.241
+5	0	0	1	0	0	26846742	0	0	26846742	0	0	44.228.141.44
+5	0	0	4	0	0	26863570	0	0	26519898	0	0	51.158.161.141
+5	0	0	1	1	0	26641743	26641743	0	26641743	26641743	0	64.246.165.50
+5	0	0	1	0	0	26770071	0	0	26770071	0	0	205.169.39.38
+5	0	0	1	0	0	26508960	0	0	26508960	0	0	54.185.203.145
+5	0	0	1	0	0	26770072	0	0	26770072	0	0	205.169.39.36
+5	0	0	1	0	0	26706505	0	0	26706505	0	0	37.120.142.166
+5	0	0	1	0	0	26506957	0	0	26506957	0	0	139.162.171.125
+5	0	0	1	0	0	26846754	0	0	26846754	0	0	52.146.0.177
+5	0	0	0	1	0	0	26531123	0	0	26531123	0	178.154.200.220
+5	0	0	1	0	0	26690785	0	0	26690785	0	0	99.254.29.131
+5	0	0	9	6	0	26617233	26617233	0	26582473	26586082	0	5.255.253.97
+5	0	0	1	0	0	26549803	0	0	26549803	0	0	135.181.30.131
+5	0	0	1	0	0	26619044	0	0	26619044	0	0	159.89.230.208
+5	0	0	1	1	0	26649183	26774506	0	26649183	26774506	0	5.255.253.89
+5	0	0	1	1	0	26505186	26577327	0	26505186	26577327	0	178.154.200.196
+5	0	0	1	0	0	26877538	0	0	26877538	0	0	54.237.208.174
+5	0	0	0	1	0	0	26528684	0	0	26528684	0	185.166.87.134
+5	0	0	1	0	0	26834148	0	0	26834148	0	0	69.171.209.173
+5	0	0	1	0	0	26747579	0	0	26747579	0	0	167.71.90.214
+5	0	0	0	2	0	0	26528867	0	0	26528867	0	178.154.200.190
+5	0	0	0	1	0	0	26582473	0	0	26582473	0	178.154.200.189
+5	0	0	1	0	0	26656867	0	0	26656867	0	0	194.44.61.241
+5	0	0	1	0	0	26862736	0	0	26862736	0	0	35.161.126.179
+5	0	0	2	0	0	26598809	0	0	26598808	0	0	34.213.42.213
+5	0	0	0	1	0	0	26733984	0	0	26733984	0	5.255.253.75
+5	0	0	1	1	0	26612991	26612991	0	26612991	26612991	0	178.154.200.181
+5	0	0	2	0	0	26509973	0	0	26509973	0	0	34.212.118.140
+5	0	0	1	0	0	26571044	0	0	26571044	0	0	134.122.101.129
+5	0	0	0	1	0	0	26512845	0	0	26512845	0	66.249.75.91
+5	0	0	0	2	0	0	26531123	0	0	26531123	0	178.154.200.171
+5	8	0	1	1	26502594	26502595	26502594	26502579	26502595	26502594	25538	185.242.5.99
+5	0	0	2	0	0	26646332	0	0	26636281	0	0	5.255.253.64
+5	0	0	2	0	0	26514898	0	0	26514897	0	0	34.201.105.155
+5	0	0	0	1	0	0	26712150	0	0	26712150	0	178.154.200.167
+5	0	0	1	0	0	26741749	0	0	26741749	0	0	52.24.190.243
+5	0	0	6	20	0	26604551	26599144	0	26518444	26509581	0	178.154.200.165
+5	0	0	1	0	0	26550226	0	0	26550226	0	0	34.221.238.35
+5	0	0	3	0	0	26682315	0	0	26594290	0	0	65.154.226.109
+5	0	0	1	0	0	26633266	0	0	26633266	0	0	23.95.204.152
+5	0	0	1	0	0	26585647	0	0	26585647	0	0	178.154.200.148
+5	0	0	0	1	0	0	26633869	0	0	26633869	0	34.243.161.97
+5	0	0	1	0	0	26523389	0	0	26523389	0	0	69.87.219.114
+5	0	0	0	1	0	0	26778964	0	0	26778964	0	86.106.142.10
+5	0	0	0	2	0	0	26585636	0	0	26531123	0	178.154.200.143
+5	0	0	1	0	0	26858330	0	0	26858330	0	0	107.172.66.211
+5	0	0	1	0	0	26540021	0	0	26540021	0	0	31.171.245.79
+5	0	0	4	1	0	26663350	26663350	0	26640431	26663350	0	178.154.200.136
+5	0	0	0	1	0	0	26511140	0	0	26511140	0	46.243.145.134
+5	0	0	2	0	0	26505594	0	0	26505594	0	0	18.181.96.89
+5	0	0	1	0	0	26668041	0	0	26668041	0	0	216.41.148.97
+5	0	0	0	1	0	0	26524038	0	0	26524038	0	46.243.145.131
+5	0	0	1	0	0	26517043	0	0	26517043	0	0	18.237.253.82
+5	0	0	7	11	0	26630418	26630418	0	26558704	26558703	0	178.154.200.131
+5	0	0	1	0	0	26583278	0	0	26583278	0	0	52.39.234.184
+5	0	0	1	10	0	26624700	26624700	0	26624700	26624700	0	175.158.55.192
+5	0	0	0	1	0	0	26875077	0	0	26875077	0	192.255.79.144
+5	0	0	2	0	0	26712393	0	0	26701589	0	0	178.154.200.130
+5	0	0	1	1	0	26612991	26612991	0	26612991	26612991	0	178.154.200.128
+5	0	0	0	1	0	0	26509350	0	0	26509350	0	66.249.75.44
+5	0	0	0	1	0	0	26511439	0	0	26511439	0	66.249.75.42
+5	0	0	1	0	0	26514683	0	0	26514683	0	0	5.188.13.198
+5	0	0	3	0	0	26760431	0	0	26760431	0	0	3.128.199.116
+5	0	0	1	0	0	26591457	0	0	26591457	0	0	54.218.241.112
+5	0	0	1	0	0	26655005	0	0	26655005	0	0	149.202.67.223
+5	0	0	1	0	0	26726357	0	0	26726357	0	0	196.196.85.196
+5	0	0	1	1	0	26791670	26791670	0	26791670	26791670	0	3.250.228.55
+5	0	0	1	0	0	26776444	0	0	26776444	0	0	217.138.194.154
+5	0	0	1	0	0	26842144	0	0	26842144	0	0	52.32.53.198
+5	0	0	1	0	0	26749230	0	0	26749230	0	0	8.210.239.61
+5	0	0	1	0	0	26840144	0	0	26840144	0	0	47.96.157.194
+5	0	0	1	0	0	26629536	0	0	26629536	0	0	34.219.187.116
+5	0	0	1	1	0	26553482	26553482	0	26553482	26553482	0	66.249.65.219
+5	0	0	1	2	0	26502995	26503027	0	26502995	26502991	0	66.249.65.217
+5	0	0	2	0	0	26588731	0	0	26588731	0	0	18.237.119.62
+5	0	0	0	3	0	0	26663337	0	0	26661608	0	207.46.13.250
+5	0	0	1	0	0	26850074	0	0	26850074	0	0	54.36.148.240
+5	0	0	1	0	0	26695114	0	0	26695114	0	0	191.101.87.134
+5	0	0	0	1	0	0	26595056	0	0	26595056	0	207.46.13.247
+5	0	0	1	0	0	26529098	0	0	26529098	0	0	149.28.113.141
+5	0	0	2	1	0	26513183	26513183	0	26511440	26513183	0	66.249.71.159
+5	0	0	1	0	0	26626538	0	0	26626538	0	0	188.210.164.118
+5	0	0	2	0	0	26603546	0	0	26576092	0	0	23.19.74.164
+5	0	0	0	1	0	0	26654998	0	0	26654998	0	207.46.13.239
+5	0	0	0	1	0	0	26603078	0	0	26603078	0	207.46.13.236
+5	0	0	0	1	0	0	26648371	0	0	26648371	0	54.36.148.226
+5	0	0	1	0	0	26763286	0	0	26763286	0	0	167.160.64.181
+5	0	0	1	0	0	26525450	0	0	26525450	0	0	54.36.148.224
+5	0	0	0	1	0	0	26653305	0	0	26653305	0	207.46.13.233
+5	0	0	1	0	0	26601877	0	0	26601877	0	0	161.35.151.158
+5	0	0	0	2	0	0	26719531	0	0	26714943	0	207.46.13.228
+5	0	0	1	0	0	26880740	0	0	26880740	0	0	195.201.151.200
+5	0	0	1	0	0	26604174	0	0	26604174	0	0	157.245.90.36
+5	0	0	1	0	0	26583736	0	0	26583736	0	0	109.71.44.143
+5	0	0	1	0	0	26515173	0	0	26515173	0	0	95.217.166.84
+5	0	0	0	1	0	0	26736877	0	0	26736877	0	207.46.13.225
+5	0	0	1	0	0	26514867	0	0	26514867	0	0	45.61.160.88
+5	0	0	1	0	0	26619340	0	0	26619340	0	0	157.245.82.13
+5	0	0	1	1	0	26686462	26686462	0	26686462	26686462	0	34.245.38.126
+5	0	0	0	1	0	0	26869395	0	0	26869395	0	207.46.13.222
+5	0	0	0	1	0	0	26722501	0	0	26722501	0	207.46.13.221
+5	0	0	0	1	0	0	26752407	0	0	26752407	0	207.46.13.220
+5	0	0	0	3	0	0	26877396	0	0	26755700	0	54.36.148.199
+5	0	0	0	6	0	0	26687567	0	0	26672766	0	207.46.13.218
+5	0	0	1	0	0	26642818	0	0	26642818	0	0	198.23.250.4
+5	0	0	3	0	0	26890931	0	0	26863739	0	0	54.36.148.198
+5	0	0	0	1	0	0	26631025	0	0	26631025	0	207.46.13.217
+5	0	0	2	0	0	26516167	0	0	26516167	0	0	52.24.118.189
+5	0	0	0	1	0	0	26503719	0	0	26503719	0	54.36.148.207
+5	0	0	1	0	0	26713273	0	0	26713273	0	0	54.36.148.197
+5	0	0	0	2	0	0	26635588	0	0	26634544	0	207.46.13.215
+5	0	0	1	0	0	26511440	0	0	26511440	0	0	66.249.71.130
+5	0	0	3	2	0	26519289	26519289	0	26508056	26508054	0	66.249.71.128
+5	0	0	0	12	0	0	26671742	0	0	26636568	0	207.46.13.214
+5	0	0	3	0	0	26795917	0	0	26755700	0	0	54.36.148.194
+5	0	0	0	5	0	0	26615972	0	0	26569214	0	207.46.13.209
+5	0	0	0	1	0	0	26854928	0	0	26854928	0	207.46.13.208
+5	0	0	1	0	0	26616150	0	0	26616150	0	0	80.217.13.201
+5	0	0	1	0	0	26762446	0	0	26762446	0	0	207.46.13.198
+5	0	0	1	0	0	26533435	0	0	26533435	0	0	64.227.42.122
+5	0	0	0	3	0	0	26570171	0	0	26570171	0	207.46.13.197
+5	0	0	0	1	0	0	26782392	0	0	26782392	0	54.36.148.184
+5	0	0	2	0	0	26524980	0	0	26524979	0	0	54.213.29.100
+5	0	0	0	1	0	0	26620773	0	0	26620773	0	207.46.13.200
+5	0	0	0	1	0	0	26636512	0	0	26636512	0	207.46.13.189
+5	0	0	1	0	0	26570421	0	0	26570421	0	0	206.180.188.245
+5	0	0	1	0	0	26509830	0	0	26509830	0	0	52.25.170.83
+5	0	0	1	0	0	26629455	0	0	26629455	0	0	47.100.124.175
+5	0	0	0	1	0	0	26625312	0	0	26625312	0	207.46.13.179
+5	0	0	1	0	0	26680368	0	0	26680368	0	0	207.46.13.177
+5	0	0	1	10	0	26549265	26549265	0	26549265	26549265	0	180.244.232.57
+z	2	214	0	26858161	17238
+z	4	56	0	26851828	146240
+c	200	270	26858161
+c	301	851	26900036
+c	403	8	26898166
+c	404	1085	26899638

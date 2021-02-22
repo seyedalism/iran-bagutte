@@ -1,0 +1,365 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202012 will be lost/reset.
+# Last config file used to build this data file was /home3/iranbagu/tmp/awstats/awstats.iranbaguette.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2671                
+POS_VISITOR 7463                
+POS_DAY 9021                
+POS_DOMAIN 3407                
+POS_LOGIN 3771                
+POS_ROBOT 3926                
+POS_WORMS 4443                
+POS_EMAILSENDER 4574                
+POS_EMAILRECEIVER 4717                
+POS_SESSION 9362                
+POS_SIDER 9539                
+POS_FILETYPES 4852                
+POS_DOWNLOADS 5099                
+POS_OS 5147                
+POS_BROWSER 5302                
+POS_SCREENSIZE 5669                
+POS_UNKNOWNREFERER 5743                
+POS_UNKNOWNREFERERBROWSER 5946                
+POS_ORIGIN 6117                
+POS_SEREFERRALS 6252                
+POS_PAGEREFS 6396                
+POS_SEARCHWORDS 6544                
+POS_KEYWORDS 6696                
+POS_MISC 2335                
+POS_ERRORS 6755                
+POS_CLUSTER 3627                
+POS_SIDER_404 6902                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210101233914 1 0 9884582799448
+FirstTime 0
+LastTime 20201214140024
+LastUpdate 20210102184834 1 0 0 0 0
+TotalVisits 47                  
+TotalUnique 37                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 69 3656738 4 21 1526950
+1 0 1 37220 7 19 1514620
+2 3 21 1682051 10 20 593108
+3 22 25 1071904 6 18 505158
+4 2 3 48554 7 13 53756
+5 5 13 1145691 6 11 342885
+6 2 5 64474 7 13 1528698
+7 1 1 39674 7 10 191228
+8 8 40 4836929 4 8 27896
+9 2 2 16164 8 47 1616412
+10 21 54 3205188 10 29 301953
+11 3 6 841887 4 7 41949
+12 1 1 8064 6 8 201794
+13 6 45 6714278 5 19 1579779
+14 5 7 60034 7 11 34052
+15 2 5 57016 5 23 431989
+16 1 7 72691 5 11 240710
+17 0 0 0 4 11 32650
+18 2 31 3797586 4 12 57529
+19 7 67 2139370 5 17 772320
+20 5 9 1567331 4 9 25709
+21 2 2 15053 5 13 289076
+22 0 0 0 3 6 11739
+23 1 28 3315966 5 6 31855
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+dk 32 70 4213007
+us 25 56 976409
+ir 21 86 7745667
+ro 15 67 3647250
+ru 14 133 14661213
+it 5 8 1475183
+nl 2 19 1658374
+cn 1 1 8067
+sc 1 1 610
+gr 1 1 8083
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bingbot/ 92 3744536 20201214014556 24
+Googlebot/ 54 285540 20201214095650 12
+YandexBot/ 49 201211 20201213055054 21
+baidu 39 1592730 20201204095303 0
+bingpreview 29 1392642 20201209213657 0
+AhrefsBot/ 28 97131 20201213221522 8
+unknown 10 240 20201214064918 10
+no_user_agent 2 0 20201203131622 0
+bot[\s_+:,\.\;\/\\-] 1 8081 20201208075043 0
+Googlebot\-Image/ 1 119073 20201212051236 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+gif 2 1220 0 0
+js 85 1508366 0 0
+png 97 14738521 0 0
+css 48 292409 0 0
+html 48 776488 0 0
+map 5 3050 0 0
+jfif 1 16199 0 0
+jpg 93 16548554 0 0
+Unknown 57 221872 0 0
+woff 6 287184 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linuxandroid 20 3
+win10 235 57
+macosx10 3 3
+winxp 2 2
+linux 94 26
+Unknown 48 21
+win7 40 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+chrome39.0.2171.95 1 1
+msie9.0 4 0
+chrome87.0.4280.88 175 47
+chrome85.0.4183.121 1 1
+chrome84.0.4147.105 2 2
+firefox59.0 2 2
+chrome87.0.4280.66 131 30
+chrome86.0.4240.110 20 3
+chrome81.0.4044.138 1 1
+chrome83.0.4103.61 3 3
+chrome86.0.4240.185 19 2
+Unknown 15 15
+msie6.0 2 2
+netscape5.0 33 6
+chrome85.0.4183.102 33 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+\ 20201214085910
+Go-http-client/1.1 20201211064315
+Mozilla/5.0 20201214064922
+python-requests/2.21.0 20201209094530
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.21.0 20201209094530
+Go-http-client/1.1 20201211064315
+\ 20201214085910
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 46 50
+From1 0 0
+From2 0 0
+From3 0 0
+From4 71 392
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 1 362
+301 4 2824
+500 8 667678
+206 33 3833203
+404 4 2424
+403 5 6140
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/wp-json/wp/v2/users 1 http://iranbaguette.ir/wp-json/wp/v2/users
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/Administrator/Files/Design/logo.png 1 http://iranbaguette.ir/css/UserSheetFa.css
+/upload/adv.gif 1 http://iranbaguette.ir/game/2
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+80.210.227.165 32 70 4213007 20201210191330
+91.251.177.163 21 86 7745667 20201212101334
+188.212.149.216 15 67 3647250 20201208001243
+84.17.41.86 5 8 1475183 20201214140024
+185.242.5.99 5 66 7500993 20201207201519
+77.222.115.97 3 3 97274 20201202104828
+3.238.142.46 3 3 119428 20201214085910
+193.176.84.3 2 19 1658374 20201203022907
+54.236.55.5 2 2 79748 20201208145558
+5.164.161.28 2 33 3723868 20201213131834
+64.246.165.200 1 1 8064 20201203125217
+3.237.61.29 1 7 72691 20201208165612
+3.234.228.147 1 1 39674 20201209101619
+3.238.13.3 1 1 39996 20201213201434
+3.216.123.88 1 4 56406 20201207150738
+5.74.147.167 1 28 3315966 20201203231437
+13.211.201.10 1 1 8065 20201202202131
+3.218.207.127 1 1 39676 20201213104502
+64.246.165.210 1 1 8082 20201203113753
+178.128.77.147 1 1 8083 20201213210651
+5.74.169.102 1 1 8063 20201208023309
+185.253.218.243 1 1 8083 20201210130546
+34.205.255.53 1 4 56402 20201208203254
+18.214.15.10 1 1 39674 20201207035150
+3.238.156.149 1 4 56407 20201214064921
+13.66.139.149 0 1 1405 
+13.66.139.53 0 3 54746 
+3.238.89.195 1 1 39674 20201202073452
+54.189.53.16 1 1 8082 20201209094530
+3.239.64.100 1 7 72708 20201207131832
+63.85.174.196 1 1 6970 20201213210948
+42.194.204.97 1 1 8067 20201211064315
+196.19.9.19 1 1 610 20201211151918
+3.222.207.54 1 1 39996 20201210115833
+18.213.192.91 1 7 72693 20201214050934
+3.230.3.252 1 1 39674 20201203053227
+34.209.34.28 1 1 8082 20201203091817
+5.44.174.37 1 1 6966 20201212042412
+15.222.238.82 1 1 8066 20201202202529
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20201201 2 31 3797586 1
+20201202 7 10 946888 5
+20201203 7 51 5038242 6
+20201206 1 2 1454796 1
+20201207 4 18 1679741 4
+20201208 23 128 4106595 7
+20201209 2 2 47756 2
+20201210 31 52 4018645 6
+20201211 2 2 8677 2
+20201212 22 87 7752633 3
+20201213 6 37 3818593 5
+20201214 10 22 1723711 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 39
+30mn-1h 1
+2mn-5mn 2
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 24
+/ 45 773359 40 32
+/login 27 20801 2 4
+/font/Vazir.woff 6 287184 0 3
+/contact-us 5 29287 3 3
+/games-page 4 22235 0 0
+/register 4 3795 0 0
+/search 3 19102 0 0
+/benefits 2 10356 0 0
+/games/car-game/part1/ 2 2104 0 2
+/how-to-order 2 11702 0 0
+/css/bootstrap.min.css.map 2 1220 0 0
+/game/1 2 57600 0 1
+/collaborate-with-fastFood-maker 2 11738 1 0
+/js/bootstrap.min.js.map 1 610 0 0
+/game/7 1 7691 0 0
+/js/popper.min.js.map 1 610 0 0
+/js/jquery.flip.min.js.map 1 610 0 0
+/game/3 1 7850 0 0
+/games/491631581148223/part1/ 1 1025 0 0
+/upload/896161592650965_.jfif 1 16199 0 1
+/restaurants 1 5277 0 0
+/game/2 1 7965 0 0
+/make-game-for-us 1 5863 0 0
+/wp-json/wp/v2/users 1 610 1 1
+END_SIDER

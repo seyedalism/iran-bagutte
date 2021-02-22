@@ -1,0 +1,979 @@
+# Webalizer V2.23-08 Incremental Data - 02/21/2021 15:19:36
+2021 2 21 15 19 36
+2789 675 170 106 27 37 33590697 333 237 0
+5 1 2052 1 21
+35 34 268924 15 14 14
+13 12 66973 9 8 8
+9 9 177339 8 5 5
+16 16 146858 12 12 11
+18 17 225642 12 6 6
+42 35 3356235 10 5 5
+30 22 227153 14 12 11
+25 21 305714 12 11 9
+86 83 3754112 39 51 43
+9 8 35031 5 6 3
+16 14 1657639 11 8 8
+17 17 135711 12 13 13
+14 13 212171 7 4 4
+93 65 5440656 25 16 14
+52 51 487424 14 17 15
+2074 25 3766651 14 92 21
+87 85 5093596 22 15 14
+78 75 4120931 14 12 11
+10 10 169385 7 7 6
+55 55 3761514 12 14 13
+10 8 181038 5 5 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+28 28 529873 7
+24 24 215263 10
+11 10 1405772 6
+19 19 182043 7
+21 18 173607 13
+15 15 1602494 8
+31 27 180492 14
+24 20 604090 8
+22 16 100091 11
+25 20 199987 8
+2065 17 3251851 79
+37 35 3344416 9
+40 39 3685836 10
+50 48 3747081 14
+21 20 145022 11
+33 17 262687 17
+50 39 333780 13
+21 20 261043 5
+47 46 553135 11
+40 40 3728088 10
+20 18 120470 15
+58 56 4019221 19
+64 61 4667737 13
+23 22 276618 15
+0
+0
+0
+675
+0
+0
+0
+0
+0
+0
+0
+47
+0
+0
+26
+0
+0
+0
+0
+0
+3
+2019
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+19
+0
+0
+0
+0
+0
+# -urls- 
+/games/car-game/part1/html5game/particles/IDR_GIF4.png
+0 1 0 3015 0 0
+/games/car-game/part1/html5game/particles/IDR_GIF14.png
+0 1 6903876344534414642 5036 0 0
+/games/car-game/part1/html5game/particles/IDR_GIF9.png
+0 1 120325172786039 3984 0 0
+/img/play.png
+0 2 6303684 1744 0 0
+/game/5
+0 1 1836016430 6745 1 1
+/games/car-game/part1/html5game/Project-2Drace-3_texture_0.png
+0 1 109 349009 0 0
+/food/4
+0 1 8752868413097146214 4866 1 0
+/games/car-game/part1/html5game/particles/IDR_GIF12.png
+0 1 7018142236658511161 5589 0 0
+/benefits
+0 4 104404631552312 18852 3 0
+/register
+0 5 9831968 4457 5 4
+/reserve/9
+0 1 0 6148 0 0
+/img/ss3.png
+0 7 0 3918 0 0
+/game/7
+0 2 0 13550 2 2
+/restaurant/2
+0 3 0 20525 3 2
+/delivery
+0 1 0 5144 1 0
+/img/bazaar.png
+0 7 0 33900 0 0
+/img/logoiran_s.png
+0 8 0 9817094 0 0
+/contact-us
+0 16 0 103089 12 7
+/js/bootstrap.js
+0 27 0 416090 0 0
+/img/logoiran_b.jpg
+0 1 0 473023 0 0
+/reserve/2
+0 1 0 6147 1 1
+/upload/aboutus.jpg
+0 10 0 452934 0 0
+/reserve/7
+0 1 0 6143 0 1
+/games/car-game/part1/html5game/particles/IDR_GIF2.png
+0 1 0 2939 0 0
+/food/19
+0 1 0 4764 0 1
+/img/myket.png
+0 7 0 27036 0 0
+/js/jquery.js
+0 14 0 454722 0 0
+/js/liteaccordion.jquery.js
+0 16 0 20095 0 0
+/reserve/8
+0 1 0 6146 0 1
+/food/1
+0 1 0 4867 1 0
+/restaurant/9
+0 3 0 18961 3 1
+/js/paccordion.js
+0 17 0 7197 0 0
+/food/18
+0 1 0 4780 1 0
+/food/5
+0 1 0 4867 1 0
+/games/car-game/part1/html5game/particles/IDR_GIF5.png
+0 1 0 3120 0 0
+/food/3
+0 1 0 4862 0 1
+/img/shopping-bag.png
+0 7 0 6012 0 0
+/basket
+0 2 0 9272 2 1
+/games/car-game/part1/html5game/particles/IDR_GIF3.png
+0 1 0 3414 0 0
+/games/car-game/part1/html5game/particles/IDR_GIF15.png
+0 1 0 4517 0 0
+/js/jquery-1.7.1.min.js
+0 17 0 564230 0 0
+/game/4
+0 3 0 22057 3 2
+/restaurant/4
+0 3 0 18970 3 1
+/make-game-for-us
+0 6 0 32636 6 3
+/food/6
+0 1 0 4868 1 0
+/css/liteaccordion.css
+0 17 0 11027 0 0
+/restaurant/8
+0 3 0 18968 2 0
+/img/back.jpg
+0 7 0 904878 0 0
+/img/0219_Elmwood_0016.jpg
+0 7 0 581832 0 0
+/restaurant/6
+0 3 0 19699 2 0
+/js/jquery.flip.min.js
+0 17 0 32260 0 0
+/games/car-game/part1/html5game/particles/IDR_GIF7.png
+0 1 0 4420 0 0
+/js/popper.min.js
+0 21 0 184290 0 0
+/food/9
+0 1 0 4861 1 0
+/food/10
+0 1 0 4863 1 0
+/login
+0 4 0 3069 4 4
+/img/sibapp.png
+0 7 0 20034 0 0
+/food/2
+0 1 0 4844 1 0
+/food/16
+0 1 0 4757 1 0
+/games/car-game/part1/html5game/particles/IDR_GIF8.png
+0 1 0 5278 0 0
+/restaurant/7
+0 6 0 37894 6 5
+/food/11
+0 1 0 4735 1 1
+/css/animate-min.css
+0 18 0 24287 0 0
+/upload/859151611054768_.jpg
+0 8 0 9429931 0 0
+/how-to-order
+0 7 0 38430 7 4
+/calendar/skins/aqua/theme.css
+0 1 0 1442 0 0
+/upload/car1.jpg
+0 8 0 1354080 0 0
+/food/21
+0 1 0 4756 0 0
+/restaurant/3
+0 2 0 12887 2 0
+/collaborate-with-fastFood-maker
+0 2 0 11084 2 0
+/food/14
+0 1 0 4744 1 0
+/collaborate-with-game-developers
+0 5 0 27392 5 3
+/css/bootstrap.css
+0 17 0 504104 0 0
+/reserve/5
+0 1 0 6150 1 1
+/img/ss2.png
+0 7 0 4944 0 0
+/css/ResponsiveStyleSheet.css
+0 14 0 79433 0 0
+/food/15
+0 1 0 4796 1 0
+/upload/mast.jpg
+0 1 0 72324 0 0
+/games/car-game/part1/html5game/particles/IDR_GIF10.png
+0 1 0 4907 0 0
+/games/car-game/part1/html5game/particles/IDR_GIF11.png
+0 1 0 4760 0 0
+/img/mario.png
+0 2 0 180638 0 0
+/game/1
+0 6 0 44547 5 4
+/
+0 96 0 1369664 92 25
+/restaurant/5
+0 1 0 6075 1 0
+/upload/res1.jpg
+0 10 0 1071657 0 0
+/upload/car2.jpg
+0 1 0 155959 0 0
+/font/Vazir.woff
+0 11 0 478640 0 0
+/games/car-game/part1/html5game/particles/IDR_GIF13.png
+0 1 0 4814 0 0
+/upload/adv.gif
+0 2 0 11798 0 0
+/food/20
+0 2 0 9527 1 2
+/games/car-game/part1/
+0 1 0 1094 0 1
+/games-page
+0 4 0 19210 3 2
+/food/17
+0 1 0 4756 1 0
+/food/8
+0 2 0 9728 2 1
+/games/car-game/part1/html5game/particles/IDR_GIF6.png
+0 1 0 4157 0 0
+/call
+0 2 0 10877 1 0
+/robots.txt
+0 97 0 2328 0 0
+/restaurant/1
+0 9 0 65962 8 4
+/order
+0 11 0 79848 11 5
+/css/UserSheetFa.css
+0 16 0 102600 0 0
+/css/custom.css
+0 16 0 43131 0 0
+/reserve/1
+0 1 0 6304 1 0
+/games/car-game/part1/html5game/Project-2Drace-3.js
+0 1 0 304891 0 0
+/calendar/calendar-setup.js
+0 1 0 2944 0 0
+/food/7
+0 1 0 4850 1 0
+/gameDetails/1
+0 1 0 4763 1 0
+# End Of Table - urls
+# -sites- (monthly)
+5-255-231-49.spider.yandex.com
+0 1 1 24 0 0
+-
+141-8-142-72.spider.yandex.com
+0 7 7 15175 2 1613510958
+/
+ip-54-36-148-225.a.ahrefs.com
+0 24 24 128879 12 1613197440
+/food/14
+ip-54-36-149-66.a.ahrefs.com
+0 1 1 6074 1 1612905843
+/restaurant/9
+ec2-3-250-22-213.eu-west-1.compute.amazonaws.com
+0 1 0 1228 0 0
+-
+msnbot-40-77-191-45.search.msn.com
+0 1 1 9106 0 0
+-
+ec2-54-236-55-243.compute-1.amazonaws.com
+0 1 1 31746 1 1613767796
+/
+crawl-66-249-69-209.googlebot.com
+0 2 2 38557 1 1613712119
+/
+ip-54-36-148-152.a.ahrefs.com
+0 1 1 4577 1 1612912097
+/benefits
+ip-54-36-148-14.a.ahrefs.com
+0 1 1 24 0 0
+-
+crawl-66-249-65-195.googlebot.com
+0 6 6 21965 3 1613430503
+/contact-us
+ec2-44-192-11-164.compute-1.amazonaws.com
+0 1 1 31502 1 1612179819
+/
+ec2-3-223-141-184.compute-1.amazonaws.com
+0 1 1 31746 1 1613332116
+/
+ipv4-216-145-17-190.greenhousedata.net
+0 2 2 7551 1 1613278539
+/
+msnbot-40-77-190-62.search.msn.com
+0 2 2 68837 0 0
+-
+ip-54-36-148-177.a.ahrefs.com
+0 1 0 503 1 1612879322
+-
+213-180-203-93.spider.yandex.com
+0 1 1 24 0 0
+-
+ec2-3-230-145-134.compute-1.amazonaws.com
+0 5 5 56396 1 1612170601
+/contact-us
+ip-54-36-148-164.a.ahrefs.com
+0 1 0 509 1 1612884172
+-
+msnbot-207-46-13-38.search.msn.com
+0 3 3 17285 0 0
+-
+ec2-3-231-148-237.compute-1.amazonaws.com
+0 1 1 31807 1 1613065996
+/
+ec2-52-37-255-160.us-west-2.compute.amazonaws.com
+0 1 1 31502 1 1613407687
+/
+ec2-3-239-205-233.compute-1.amazonaws.com
+0 1 1 31502 1 1613277876
+/
+msnbot-40-77-167-18.search.msn.com
+0 3 3 1413073 0 0
+-
+crawl-66-249-64-69.googlebot.com
+0 19 19 115931 3 1613846207
+/order
+msnbot-40-77-188-114.search.msn.com
+0 1 1 47864 0 0
+-
+ec2-3-238-154-15.compute-1.amazonaws.com
+0 1 1 31807 1 1612538419
+/
+163-172-22-99.rev.poneytelecom.eu
+0 1 1 7526 1 1613157946
+/
+ip-54-36-148-24.a.ahrefs.com
+0 1 1 6075 1 1612909670
+/restaurant/4
+msnbot-40-77-188-254.search.msn.com
+0 1 1 21471 0 0
+-
+crawl-66-249-72-155.googlebot.com
+0 1 1 6071 1 1613720804
+/restaurant/9
+ec2-18-206-148-103.compute-1.amazonaws.com
+0 13 13 166928 2 1613413134
+/contact-us
+ip-54-36-148-80.a.ahrefs.com
+0 1 1 24 0 0
+-
+msnbot-207-46-13-212.search.msn.com
+0 6 6 144 0 0
+-
+msnbot-157-55-39-219.search.msn.com
+0 1 1 15614 0 0
+-
+ipv4-216-145-14-142.greenhousedata.net
+0 1 1 7575 1 1613283690
+/
+ec2-34-236-245-218.compute-1.amazonaws.com
+0 3 3 63004 2 1612402312
+/
+2.183.113.122
+0 29 29 3614300 1 1613309687
+/contact-us
+ec2-3-231-164-116.compute-1.amazonaws.com
+0 1 1 31502 1 1612232963
+/
+crawl-66-249-65-199.googlebot.com
+0 6 6 32604 2 1613380562
+/
+msnbot-157-55-39-8.search.msn.com
+0 2 2 11652 2 1613806550
+/make-game-for-us
+ec2-35-172-234-61.compute-1.amazonaws.com
+0 8 8 72174 1 1612765251
+/
+crawl-66-249-75-153.googlebot.com
+0 1 1 18610 0 0
+-
+msnbot-40-77-189-75.search.msn.com
+0 4 4 78470 0 0
+-
+msnbot-40-77-188-17.search.msn.com
+0 1 1 7725 0 0
+-
+msnbot-13-66-139-105.search.msn.com
+0 7 5 35640 6 1612912025
+/
+msnbot-40-77-188-217.search.msn.com
+0 3 3 119194 0 0
+-
+ip-54-36-149-34.a.ahrefs.com
+0 1 1 24 0 0
+-
+163-172-21-249.rev.poneytelecom.eu
+0 1 1 7528 1 1613109680
+/
+msnbot-207-46-13-144.search.msn.com
+0 2 2 48 0 0
+-
+ec2-3-91-3-0.compute-1.amazonaws.com
+0 1 1 31746 1 1612685654
+/
+ec2-3-238-160-112.compute-1.amazonaws.com
+0 1 1 31807 1 1612150552
+/
+ec2-18-213-113-99.compute-1.amazonaws.com
+0 1 1 31502 1 1612569540
+/
+213-180-203-28.spider.yandex.com
+0 14 13 1678574 5 1613510958
+/
+ip-54-36-148-151.a.ahrefs.com
+0 1 1 6820 1 1612903869
+/restaurant/1
+ip-54-36-148-252.a.ahrefs.com
+0 1 1 6075 1 1612874471
+/restaurant/5
+crawl-66-249-64-77.googlebot.com
+0 14 13 42481 9 1613858264
+/
+ec2-3-227-13-74.compute-1.amazonaws.com
+0 1 1 31502 1 1613337302
+/
+msnbot-13-66-139-67.search.msn.com
+0 1 1 5823 1 1613526215
+/collaborate-with-game-developers
+ip-54-36-148-55.a.ahrefs.com
+0 1 1 4868 1 1612891980
+/food/6
+msnbot-13-66-139-106.search.msn.com
+0 15 4 34647 5 1612843551
+/contact-us
+ip-54-36-148-216.a.ahrefs.com
+0 1 1 24 0 0
+-
+msnbot-40-77-189-27.search.msn.com
+0 1 1 5170 0 0
+-
+ip-54-36-148-237.a.ahrefs.com
+0 1 1 7206 1 1612902466
+/order
+msnbot-207-46-13-33.search.msn.com
+0 4 4 23102 1 1612911947
+/how-to-order
+ip-54-36-148-228.a.ahrefs.com
+0 1 1 881 1 1613603439
+/register
+msnbot-40-77-188-102.search.msn.com
+0 1 1 902 0 0
+-
+ip-54-36-148-57.a.ahrefs.com
+0 1 1 6568 1 1612472440
+/
+crawl-66-249-66-209.googlebot.com
+0 10 8 40085 9 1613487928
+/
+crawl-66-249-64-71.googlebot.com
+0 12 12 81918 4 1613797642
+/restaurant/8
+crawl-66-249-66-217.googlebot.com
+0 2 2 6100 1 1613463034
+/restaurant/4
+213-180-203-55.spider.yandex.com
+0 1 1 7529 1 1612614076
+/
+msnbot-157-55-39-5.search.msn.com
+0 9 9 216 0 0
+-
+crawl-66-249-66-215.googlebot.com
+0 1 0 0 1 1613508859
+/login
+ip-54-36-148-129.a.ahrefs.com
+0 1 1 7269 1 1612880526
+/order
+msnbot-40-77-188-59.search.msn.com
+0 1 1 18014 0 0
+-
+102.130.125.122
+0 2047 1 3167330 1 1613471460
+-
+ec2-3-239-70-16.compute-1.amazonaws.com
+0 1 1 31502 1 1613330254
+/
+msnbot-13-66-139-17.search.msn.com
+0 7 4 27102 4 1612773245
+-
+2.176.113.45
+0 29 29 3596661 2 1613824333
+/
+163-172-5-15.rev.poneytelecom.eu
+0 1 1 7528 1 1613157946
+/
+ip-54-36-148-220.a.ahrefs.com
+0 1 1 6727 1 1612902928
+/restaurant/1
+msnbot-207-46-13-85.search.msn.com
+0 2 2 65940 0 0
+-
+msnbot-13-66-139-2.search.msn.com
+0 1 1 6813 1 1612232805
+/restaurant/3
+msnbot-157-55-39-134.search.msn.com
+0 14 6 364083 8 1613638649
+-
+5-255-253-153.spider.yandex.com
+0 2 2 15060 2 1613799352
+/
+ip-54-36-148-189.a.ahrefs.com
+0 1 1 24 0 0
+-
+ec2-3-238-27-190.compute-1.amazonaws.com
+0 1 1 31502 1 1613750555
+/
+ec2-18-207-184-64.compute-1.amazonaws.com
+0 1 1 31502 1 1612732825
+/
+ec2-3-231-155-80.compute-1.amazonaws.com
+0 1 1 31502 1 1613577518
+/
+5-255-253-126.spider.yandex.com
+0 1 1 24 0 0
+-
+msnbot-40-77-188-171.search.msn.com
+0 1 1 18014 0 0
+-
+5.115.188.165
+0 26 26 3462527 1 1612897353
+/
+ip-54-36-148-128.a.ahrefs.com
+0 1 1 6312 1 1612905331
+/restaurant/2
+msnbot-13-66-139-78.search.msn.com
+0 3 3 134343 2 1613867853
+/game/4
+msnbot-40-77-167-1.search.msn.com
+0 1 1 37220 0 0
+-
+ip-54-36-149-104.a.ahrefs.com
+0 1 1 4756 1 1612946612
+/food/17
+ip-54-36-149-30.a.ahrefs.com
+0 2 2 4874 1 1613136858
+/food/7
+msnbot-13-66-139-108.search.msn.com
+0 3 3 19745 3 1613515764
+/restaurant/6
+ec2-3-92-74-179.compute-1.amazonaws.com
+0 1 1 31502 1 1612816975
+/
+ip-54-36-148-81.a.ahrefs.com
+0 1 1 5253 1 1612817099
+/collaborate-with-fastFood-maker
+ec2-35-171-203-23.compute-1.amazonaws.com
+0 5 5 56404 1 1612776545
+/contact-us
+crawl-66-249-65-187.googlebot.com
+0 6 6 64671 1 1613353858
+/
+msnbot-40-77-189-45.search.msn.com
+0 1 1 49308 0 0
+-
+ec2-3-231-227-82.compute-1.amazonaws.com
+0 1 1 31746 1 1612312594
+/
+93.118.153.108
+0 51 51 4500579 2 1613601144
+/
+msnbot-13-66-139-101.search.msn.com
+0 2 2 15058 2 1613058331
+/
+ip-54-36-149-105.a.ahrefs.com
+0 1 0 503 1 1612878083
+-
+ip-54-36-148-165.a.ahrefs.com
+0 1 1 5250 1 1612885096
+/collaborate-with-game-developers
+ec2-3-216-30-182.compute-1.amazonaws.com
+0 2 2 63248 2 1613106550
+/
+ec2-44-192-43-239.compute-1.amazonaws.com
+0 8 8 72181 1 1613399486
+/
+ec2-54-172-100-148.compute-1.amazonaws.com
+0 1 1 31807 1 1613831603
+/
+msnbot-157-55-39-190.search.msn.com
+0 30 30 507757 1 1613666379
+/benefits
+msnbot-40-77-190-12.search.msn.com
+0 1 1 145016 0 0
+-
+msnbot-13-66-139-11.search.msn.com
+0 7 7 95919 6 1613592071
+/restaurant/1
+ip-54-36-149-86.a.ahrefs.com
+0 1 1 4796 1 1612881726
+/food/15
+c-206-174-236-147.hs.gigamonster.net
+0 1 1 6552 1 1612931792
+/
+ip-54-36-148-212.a.ahrefs.com
+0 1 1 4863 1 1613151511
+/food/10
+ip-54-36-148-245.a.ahrefs.com
+0 1 1 4864 1 1613108899
+/food/8
+188.253.18.94
+0 35 34 3875138 2 1613684967
+/games-page
+ip-54-36-148-2.a.ahrefs.com
+0 1 1 4763 1 1612910513
+/gameDetails/1
+ip-54-36-148-190.a.ahrefs.com
+0 1 1 7064 1 1612901992
+/order
+ec2-44-192-12-245.compute-1.amazonaws.com
+0 1 1 31502 1 1612468149
+/
+msnbot-13-66-139-139.search.msn.com
+0 1 1 6816 1 1612195936
+/restaurant/8
+5-45-207-118.spider.yandex.com
+0 1 1 7526 1 1612175973
+/
+msnbot-40-77-190-40.search.msn.com
+0 1 1 20973 0 0
+-
+crawl-66-249-64-75.googlebot.com
+0 24 21 93783 11 1613872728
+/
+ec2-18-184-237-26.eu-central-1.compute.amazonaws.com
+0 1 1 0 1 1612275036
+/
+static.216.118.203.116.clients.your-server.de
+0 1 1 6553 1 1612762937
+/
+crawl-66-249-64-73.googlebot.com
+0 33 32 199341 14 1613905391
+/
+213-180-203-89.spider.yandex.com
+0 1 1 7531 1 1612273450
+/
+msnbot-157-55-39-65.search.msn.com
+0 1 1 27492 0 0
+-
+crawl-66-249-65-183.googlebot.com
+0 4 4 15679 0 0
+-
+ip-54-36-149-8.a.ahrefs.com
+0 1 1 4867 1 1612894125
+/food/5
+msnbot-157-55-39-249.search.msn.com
+0 1 1 6809 1 1613318436
+/restaurant/6
+ip-54-36-148-34.a.ahrefs.com
+0 1 1 24 0 0
+-
+5-255-253-116.spider.yandex.com
+0 1 1 24 0 0
+-
+ec2-54-236-60-40.compute-1.amazonaws.com
+0 8 8 72180 1 1612163816
+/
+ec2-3-231-25-193.compute-1.amazonaws.com
+0 1 1 31502 1 1613741638
+/
+wwwb-app100.us.archive.org
+0 1 1 0 1 1613309622
+/
+msnbot-207-46-13-103.search.msn.com
+0 3 2 55590 1 1613880589
+-
+ip-54-36-148-204.a.ahrefs.com
+0 1 1 4867 1 1612877432
+/food/1
+static.200.151.201.195.clients.your-server.de
+0 1 1 6552 1 1612758059
+/
+crawl-66-249-65-185.googlebot.com
+0 5 5 27618 1 1613358814
+/
+23.19.74.164
+0 28 2 15064 1 1613318459
+/
+crawl-66-249-75-151.googlebot.com
+0 3 3 11397 1 1613718710
+/benefits
+crawl-66-249-65-197.googlebot.com
+0 7 7 39631 2 1613431029
+/
+msnbot-157-55-39-64.search.msn.com
+0 7 5 21514 2 1613473083
+/collaborate-with-fastFood-maker
+msnbot-40-77-189-120.search.msn.com
+0 1 1 21471 0 0
+-
+185.216.35.228
+0 2 2 50068 1 1612689133
+/contact-us
+ip-54-36-148-214.a.ahrefs.com
+0 2 2 4885 1 1613144143
+/food/9
+crawl-66-249-66-207.googlebot.com
+0 7 7 36624 4 1613494043
+/make-game-for-us
+67.207.205.134
+0 1 1 7530 1 1613442159
+/
+ip-54-36-148-111.a.ahrefs.com
+0 1 1 4844 1 1612887472
+/food/2
+ip-54-36-148-185.a.ahrefs.com
+0 1 1 7217 1 1612843624
+/order
+ip-54-36-148-52.a.ahrefs.com
+0 1 1 6074 1 1612886301
+/restaurant/3
+5-255-231-167.spider.yandex.com
+0 1 1 24 0 0
+-
+ec2-3-235-1-236.compute-1.amazonaws.com
+0 1 1 31502 1 1613233922
+/
+static.20.133.69.159.clients.your-server.de
+0 28 27 3272141 1 1612611200
+/
+msnbot-13-66-139-124.search.msn.com
+0 1 1 5814 1 1613349513
+/how-to-order
+ip-54-36-149-84.a.ahrefs.com
+0 1 1 6850 1 1612855237
+/game/1
+ip-54-36-148-12.a.ahrefs.com
+0 1 1 6728 1 1612881427
+/restaurant/1
+crawl-66-249-66-211.googlebot.com
+0 4 4 24891 4 1613489862
+/
+ip-54-36-148-139.a.ahrefs.com
+0 1 1 7149 1 1612871677
+/order
+msnbot-40-77-188-91.search.msn.com
+0 1 1 69597 0 0
+-
+msnbot-40-77-189-237.search.msn.com
+0 1 1 902 0 0
+-
+ip-54-36-148-127.a.ahrefs.com
+0 1 1 4780 1 1612882660
+/food/18
+ec2-100-24-124-206.compute-1.amazonaws.com
+0 1 1 31502 1 1613391316
+/
+ip-54-36-148-136.a.ahrefs.com
+0 1 1 5144 1 1612883861
+/delivery
+ip-54-36-149-70.a.ahrefs.com
+0 1 1 4866 1 1612877114
+/food/4
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-3-250-22-213.eu-west-1.compute.amazonaws.com
+0 1 0 1228 0 0
+-
+msnbot-13-66-139-78.search.msn.com
+0 2 2 126709 1 1613867853
+/game/4
+crawl-66-249-64-75.googlebot.com
+0 2 2 7364 1 1613872728
+/
+crawl-66-249-64-73.googlebot.com
+0 4 4 45131 1 1613905391
+/
+msnbot-207-46-13-103.search.msn.com
+0 1 0 606 1 1613880589
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://iranbaguette.ir
+0 1
+http://iranbaguette.ir/collaborate-with-game-developers
+0 6
+http://www.iranbaguette.ir/contact-us
+0 1
+http://www.iranbaguette.ir/games-page
+0 4
+http://iranbaguette.ir/how-to-order
+0 1
+http://iranbaguette.ir/css/UserSheetFa.css
+0 1
+http://iranbaguette.ir/games/car-game/part1/index.html
+0 16
+http://www.iranbaguette.ir/
+0 39
+http://iranbaguette.ir/game/1
+0 6
+http://iranbaguette.ir/contact-us
+0 16
+http://www.iranbaguette.ir/food/8
+0 2
+http://iranbaguette.ir/
+0 174
+https://www.google.com/
+0 1
+- (Direct Request)
+0 2461
+http://iranbaguette.ir/benefits
+0 2
+http://www.iranbaguette.com/
+0 1
+http://www.iranbaguette.ir/css/custom.css
+0 2
+http://iranbaguette.ir/order
+0 12
+http://iranbaguette.ir/css/custom.css
+0 6
+http://iranbaguette.com
+0 1
+http://www.iranbaguette.ir/game/1
+0 6
+http://www.iranbaguette.ir/reserve/5
+0 7
+http://iranbaguette.ir/basket
+0 1
+http://iranbaguette.ir/restaurant/7
+0 2
+http://iranbaguette.ir/make-game-for-us
+0 4
+http://www.iranbaguette.ir/order
+0 12
+http://iranbaguette.ir/game/7
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 47
+Mozilla/5.0 (compatible; YandexFavicons/1.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+0 1
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+0 30
+Mozilla/5.0 (Linux; Android 9; HTC U12+) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+0 26
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 23
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/88.0.43
+0 18
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.143 Mobile 
+0 17
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.140 Mobile 
+0 12
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.153 Mobile 
+0 31
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/80.0.3987.0 Safari/537.36
+0 28
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 8
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+0 35
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+0 29
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.114 Mobile 
+0 7
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 46
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 137
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.112 Mobile 
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 60
+Mozilla/5.0 (Linux; Android 7.0; BLN-L21 Build/HONORBLN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.62 Mobil
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+0 28
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.175 Mobile 
+0 18
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.113 Mobile 
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Mobile 
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 28
+curl/7.61.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+0 51
+\"Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27\"
+0 27
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.163 Mobile 
+0 11
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

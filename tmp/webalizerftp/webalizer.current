@@ -1,0 +1,540 @@
+# Webalizer V2.23-08 Incremental Data - 12/10/2020 03:13:37
+2020 12 10 3 13 37
+270 270 1 209 0 0 609563 1 1 1
+1 282 282 10 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+270 270 609563 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+270 270 609563 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/iranbagu/resources/views/admin/benefits.blade.php
+0 1 24872112 1180 0 0
+/home/iranbagu/database/factories/GameFactory.php
+0 1 24885728 688 0 0
+/home/iranbagu/resources/js/app.js
+0 1 24870192 25 0 0
+/home/iranbagu/database/migrations/2019_11_08_133515_create_slides_table.php
+0 1 24889024 1086 0 0
+/home/iranbagu/resources/views/call.blade.php
+0 1 24878336 319 0 0
+/home/iranbagu/app/Http/Controllers/Auth/ResetPasswordController.php
+0 2 0 1628 0 0
+/home/iranbagu/resources/views/admin/event/event.blade.php
+0 1 0 2613 0 0
+/home/iranbagu/resources/views/header.blade.php
+0 1 24881472 11182 0 0
+/home/iranbagu/database/seeds/DatabaseSeeder.php
+0 1 24891392 1195 0 0
+/home/iranbagu/resources/views/user/basket.blade.php
+0 1 24883072 1852 0 0
+/home/iranbagu/database/seeds/FoodsTableSeeder.php
+0 1 24891680 254 0 0
+/home/iranbagu/database/migrations/2014_10_12_100000_create_password_resets_table.php
+0 1 24886912 715 0 0
+/home/iranbagu/resources/views/food.blade.php
+0 1 24880448 1531 0 0
+/home/iranbagu/resources/views/admin/editProduct.blade.php
+0 1 0 3729 0 0
+/home/iranbagu/resources/views/admin/call.blade.php
+0 1 24872400 1049 0 0
+/home/iranbagu/database/migrations/2020_01_31_225459_create_comments_table.php
+0 1 24889552 942 0 0
+/home/iranbagu/resources/views/foods.blade.php
+0 1 24880592 3375 0 0
+/home/iranbagu/resources/views/collaborate-with-fastFood-maker.blade.php
+0 1 24878480 650 0 0
+/home/iranbagu/app/Http/Middleware/EncryptCookies.php
+0 2 24867568 622 0 0
+/home/iranbagu/resources/views/event.blade.php
+0 1 24880304 14412 0 0
+/home/iranbagu/resources/views/admin/sitSetting.blade.php
+0 1 0 5406 0 0
+/home/iranbagu/app/Http/Middleware/Authenticate.php
+0 2 24867264 970 0 0
+/home/iranbagu/resources/views/master.blade.php
+0 1 24882064 8818 0 0
+/home/iranbagu/app/Providers/BroadcastServiceProvider.php
+0 2 1604682757 802 0 0
+/home/iranbagu/database/migrations/2020_07_22_222258_add_res_id_to_users.php
+0 1 24890080 682 0 0
+/home/iranbagu/database/factories/OptionFactory.php
+0 1 24885872 3064 0 0
+/home/iranbagu/routes/web.php
+0 1 24884752 10592 0 0
+/home/iranbagu/app/Comment.php
+0 2 24605360 794 0 0
+/home/iranbagu/database/migrations/2019_11_05_132915_create_reserves_table.php
+0 1 24888496 1188 0 0
+/home/iranbagu/database/seeds/EventsTableSeeder.php
+0 1 24891536 222 0 0
+/home/iranbagu/app/Event.php
+0 2 24605744 1002 0 0
+/home/iranbagu/resources/views/admin/comments.blade.php
+0 1 24873008 4823 0 0
+/home/iranbagu/resources/views/admin/manageSlides.blade.php
+0 1 0 3678 0 0
+/home/iranbagu/app/Banner.php
+0 2 24604608 1046 0 0
+/home/iranbagu/database/migrations/2020_08_01_214500_create_events_table.php
+0 1 24890432 808 0 0
+/home/iranbagu/app/Http/Controllers/Auth/ConfirmPasswordController.php
+0 2 0 2008 0 0
+/home/iranbagu/app/Providers/AuthServiceProvider.php
+0 2 24868704 1216 0 0
+/home/iranbagu/resources/views/restaurants.blade.php
+0 1 24882640 1069 0 0
+/home/iranbagu/resources/js/bootstrap.js
+0 1 24870320 898 0 0
+/home/iranbagu/app/TableInfo.php
+0 2 24869936 542 0 0
+/home/iranbagu/database/migrations/2019_11_09_134315_create_options_table.php
+0 1 24889200 665 0 0
+/home/iranbagu/database/migrations/2019_11_10_163041_create_role_user_table.php
+0 1 24889376 963 0 0
+/home/iranbagu/routes/api.php
+0 1 24884368 546 0 0
+/home/iranbagu/resources/views/collaborate-with-game-developers.blade.php
+0 1 24878656 597 0 0
+/home/iranbagu/app/Providers/RouteServiceProvider.php
+0 2 24869152 3204 0 0
+/home/iranbagu/app/Http/Controllers/Auth/LoginController.php
+0 2 0 1964 0 0
+/home/iranbagu/resources/views/admin/showProduct.blade.php
+0 1 0 1810 0 0
+/home/iranbagu/database/factories/EventFactory.php
+0 1 24885440 217 0 0
+/home/iranbagu/app/Http/Controllers/Auth/ForgotPasswordController.php
+0 2 0 1378 0 0
+/home/iranbagu/resources/views/admin/cyberspace/edit.blade.php
+0 1 0 1949 0 0
+/home/iranbagu/database/migrations/2014_10_12_000000_create_users_table.php
+0 1 24886736 993 0 0
+/home/iranbagu/database/factories/FoodFactory.php
+0 1 24885584 754 0 0
+/home/iranbagu/app/Http/Kernel.php
+0 2 24866992 6216 0 0
+/home/iranbagu/database/migrations/2019_11_01_132749_create_tables_table.php
+0 1 24887968 872 0 0
+/home/iranbagu/resources/views/admin/event/create.blade.php
+0 1 0 9683 0 0
+/home/iranbagu/resources/views/admin/event/edit.blade.php
+0 1 0 9579 0 0
+/home/iranbagu/resources/views/admin/comments/edit.blade.php
+0 1 0 3932 0 0
+/home/iranbagu/database/migrations/2019_11_02_132801_create_banners_table.php
+0 1 24888144 968 0 0
+/home/iranbagu/resources/views/user/complete.blade.php
+0 1 24883360 822 0 0
+/home/iranbagu/app/User.php
+0 2 24870064 5172 0 0
+/home/iranbagu/resources/views/admin/category.blade.php
+0 1 24872544 2866 0 0
+/home/iranbagu/resources/views/test.blade.php
+0 1 24882928 830 0 0
+/home/iranbagu/resources/views/admin/homePages/collaborateWithGameMakers.blade.php
+0 1 24874896 1267 0 0
+/home/iranbagu/resources/views/user/login.blade.php
+0 1 24883648 1896 0 0
+/home/iranbagu/resources/views/admin/messages.blade.php
+0 1 24876976 489 0 0
+/home/iranbagu/app/Http/Controllers/UserDashboard.php
+0 2 24866848 6738 0 0
+/home/iranbagu/app/Http/Controllers/OptionController.php
+0 2 0 12674 0 0
+/home/iranbagu/app/Http/Controllers/back/CommentController.php
+0 2 0 4086 0 0
+/home/iranbagu/app/Cyberspace.php
+0 2 24605616 284 0 0
+/home/iranbagu/database/factories/BannerFactory.php
+0 1 24885008 790 0 0
+/home/iranbagu/app/Http/Controllers/SearchController.php
+0 2 1937 1168 0 0
+/home/iranbagu/app/Providers/EventServiceProvider.php
+0 2 24869008 1488 0 0
+/home/iranbagu/resources/views/admin/homePages/contactUs.blade.php
+0 1 0 1267 0 0
+/home/iranbagu/app/Http/Controllers/EventController.php
+0 2 24865056 12578 0 0
+/home/iranbagu/resources/views/admin/off/myCode.blade.php
+0 1 0 4751 0 0
+/home/iranbagu/resources/views/admin/advertisePrice.blade.php
+0 1 0 1106 0 0
+/home/iranbagu/app/Http/Controllers/ManagerController.php
+0 2 0 558 0 0
+/home/iranbagu/database/migrations/2020_10_16_055318_create_advertises_pay_table.php
+0 1 24890784 737 0 0
+/home/iranbagu/database/migrations/2020_07_25_190329_create_table_infos_table.php
+0 1 24890256 856 0 0
+/home/iranbagu/app/Http/Controllers/back/CyberspaceController.php
+0 2 0 2350 0 0
+/home/iranbagu/database/migrations/2020_02_09_131256_create_cyberspaces_table.php
+0 1 24889728 709 0 0
+/home/iranbagu/resources/views/welcome.blade.php
+0 1 24884224 3053 0 0
+/home/iranbagu/resources/views/admin/aboutUs.blade.php
+0 1 24871312 1236 0 0
+/home/iranbagu/app/Http/Controllers/Controller.php
+0 2 24608512 748 0 0
+/home/iranbagu/resources/lang/en/auth.php
+0 1 24870464 636 0 0
+/home/iranbagu/database/migrations/2019_11_03_132811_create_roles_table.php
+0 1 24888320 659 0 0
+/home/iranbagu/app/Http/Controllers/FoodController.php
+0 2 24865200 6092 0 0
+/home/iranbagu/resources/views/aboutUs.blade.php
+0 1 24871168 297 0 0
+/home/iranbagu/app/Http/Middleware/Access.php
+0 2 24867120 860 0 0
+/home/iranbagu/app/Role.php
+0 2 24869552 496 0 0
+/home/iranbagu/database/factories/CategoryFactory.php
+0 1 24885296 342 0 0
+/home/iranbagu/resources/views/admin/zirnevisManage.blade.php
+0 1 0 3173 0 0
+/home/iranbagu/resources/views/dev/dashboard.blade.php
+0 1 24879584 1398 0 0
+/home/iranbagu/app/Providers/AppServiceProvider.php
+0 2 24868560 1102 0 0
+/home/iranbagu/database/seeds/SlidesTableSeeder.php
+0 1 24892560 258 0 0
+/home/iranbagu/resources/views/contact-us.blade.php
+0 1 24878832 570 0 0
+/home/iranbagu/app/Option.php
+0 2 24868304 268 0 0
+/home/iranbagu/resources/views/dashboard/master.blade.php
+0 1 0 4872 0 0
+/home/iranbagu/app/Http/Controllers/back/TableInfoController.php
+0 2 8386095523105305710 5346 0 0
+/home/iranbagu/database/factories/PaymentFactory.php
+0 1 24886016 11263 0 0
+/home/iranbagu/app/Http/Controllers/PayController.php
+0 2 24866096 1948 0 0
+/home/iranbagu/resources/views/admin/master.blade.php
+0 1 24876832 25904 0 0
+/home/iranbagu/resources/views/admin/addProduct.blade.php
+0 1 0 3460 0 0
+/home/iranbagu/database/seeds/CategoriesTableSeeder.php
+0 1 24891248 259 0 0
+/home/iranbagu/app/Http/Middleware/TrustProxies.php
+0 2 24868016 918 0 0
+/home/iranbagu/app/Http/Controllers/GameController.php
+0 2 24865344 7256 0 0
+/home/iranbagu/app/Http/Middleware/TrimStrings.php
+0 2 24867872 716 0 0
+/home/iranbagu/database/seeds/UsersTableSeeder.php
+0 1 24892704 256 0 0
+/home/iranbagu/resources/views/game.blade.php
+0 1 24881184 14751 0 0
+/home/iranbagu/resources/views/user/register.blade.php
+0 1 24883936 3755 0 0
+/home/iranbagu/resources/lang/en/validation.php
+0 1 24870896 7840 0 0
+/home/iranbagu/resources/views/admin/sendGame.blade.php
+0 1 24877424 5960 0 0
+/home/iranbagu/resources/views/make-game-for-us.blade.php
+0 1 0 581 0 0
+/home/iranbagu/app/Table.php
+0 2 24869808 408 0 0
+/home/iranbagu/database/seeds/GamesTableSeeder.php
+0 1 24891824 256 0 0
+/home/iranbagu/resources/views/admin/payList.blade.php
+0 1 24877280 4180 0 0
+/home/iranbagu/database/migrations/2019_10_29_132724_create_foods_table.php
+0 1 24887616 1311 0 0
+/home/iranbagu/app/Game.php
+0 2 24606144 1118 0 0
+/home/iranbagu/resources/lang/en/pagination.php
+0 1 24870608 553 0 0
+/home/iranbagu/app/Category.php
+0 2 24605232 524 0 0
+/home/iranbagu/resources/views/admin/dynamicManage.blade.php
+0 1 0 3259 0 0
+/home/iranbagu/database/seeds/RestaurantsTableSeeder.php
+0 1 0 268 0 0
+/home/iranbagu/resources/views/admin/manageGames.blade.php
+0 1 0 2818 0 0
+/home/iranbagu/database/seeds/BuycodesTableSeeder.php
+0 1 24891104 264 0 0
+/home/iranbagu/resources/views/user/edit.blade.php
+0 1 24883504 2544 0 0
+/home/iranbagu/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+0 1 24887088 824 0 0
+/home/iranbagu/app/Http/Controllers/Auth/RegisterController.php
+0 2 0 3926 0 0
+/home/iranbagu/database/migrations/2019_10_27_132722_create_restaurants_table.php
+0 1 24887264 790 0 0
+/home/iranbagu/resources/views/front/messages.blade.php
+0 1 24881040 524 0 0
+/home/iranbagu/resources/views/reserve.blade.php
+0 1 24882352 9045 0 0
+/home/iranbagu/resources/views/order.blade.php
+0 1 24882208 19060 0 0
+/home/iranbagu/resources/views/restaurant.blade.php
+0 1 24882496 15219 0 0
+/home/iranbagu/resources/views/home.blade.php
+0 1 24881616 9851 0 0
+/home/iranbagu/app/Http/Controllers/SlideController.php
+0 2 24866560 2318 0 0
+/home/iranbagu/database/.gitignore
+0 1 24884880 28 0 0
+/home/iranbagu/database/seeds/PaymentsTableSeeder.php
+0 1 24892112 277 0 0
+/home/iranbagu/resources/views/admin/manageUsers.blade.php
+0 1 0 3539 0 0
+/home/iranbagu/resources/views/admin/cyberspace/cyberspace.blade.php
+0 1 0 2017 0 0
+/home/iranbagu/resources/views/gamesPage.blade.php
+0 1 24881328 1151 0 0
+/home/iranbagu/resources/views/dev/master.blade.php
+0 1 24879872 5048 0 0
+/home/iranbagu/app/Http/Controllers/BuyCodeController.php
+0 2 7020093870573905260 2648 0 0
+/home/iranbagu/resources/sass/app.scss
+0 1 24871040 4 0 0
+/home/iranbagu/resources/views/admin/delivery.blade.php
+0 1 24873632 1191 0 0
+/home/iranbagu/resources/views/admin/comments/comments.blade.php
+0 1 0 4163 0 0
+/home/iranbagu/resources/views/admin/detailsRes.blade.php
+0 1 0 7068 0 0
+/home/iranbagu/app/Food.php
+0 2 24606016 972 0 0
+/home/iranbagu/resources/views/admin/advertise.blade.php
+0 1 0 3363 0 0
+/home/iranbagu/app/Restaurant.php
+0 2 24869424 2920 0 0
+/home/iranbagu/app/Buycode.php
+0 2 24605104 1050 0 0
+/home/iranbagu/resources/views/front/game/gameDetails.blade.php
+0 1 0 1677 0 0
+/home/iranbagu/app/Http/Controllers/UserController.php
+0 2 24866704 3734 0 0
+/home/iranbagu/resources/views/admin/manageReserved.blade.php
+0 1 0 2334 0 0
+/home/iranbagu/resources/views/admin/dashboard.blade.php
+0 1 0 124 0 0
+/home/iranbagu/database/seeds/BannersTableSeeder.php
+0 1 24890960 261 0 0
+/home/iranbagu/app/Exceptions/Handler.php
+0 2 24605872 2218 0 0
+/home/iranbagu/database/factories/RestaurantFactory.php
+0 1 24886160 420 0 0
+/home/iranbagu/resources/views/admin/advertiseUser/advertiseUser.blade.php
+0 1 24871936 966 0 0
+/home/iranbagu/database/factories/UserFactory.php
+0 1 24886592 1036 0 0
+/home/iranbagu/resources/views/user/master.blade.php
+0 1 24883792 561 0 0
+/home/iranbagu/routes/console.php
+0 1 24884624 571 0 0
+/home/iranbagu/app/Http/Middleware/VerifyCsrfToken.php
+0 2 24868160 1044 0 0
+/home/iranbagu/resources/views/how-to-order.blade.php
+0 1 24881760 562 0 0
+/home/iranbagu/resources/views/dev/sendGame.blade.php
+0 1 24880016 3168 0 0
+/home/iranbagu/app/Slide.php
+0 2 24869680 378 0 0
+/home/iranbagu/resources/views/dashboard/advertise.blade.php
+0 1 0 1543 0 0
+/home/iranbagu/resources/views/admin/homePages/howToOrder.blade.php
+0 1 0 1264 0 0
+/home/iranbagu/resources/views/admin/homePages/cooperationWithFastFoods.blade.php
+0 1 24875232 1283 0 0
+/home/iranbagu/resources/lang/en/passwords.php
+0 1 24870752 768 0 0
+/home/iranbagu/resources/views/admin/login.blade.php
+0 1 24875888 3895 0 0
+/home/iranbagu/resources/views/admin/manageCyberspace.blade.php
+0 1 0 2124 0 0
+/home/iranbagu/database/migrations/2020_06_14_122434_add_special_game_to_games.php
+0 1 24889904 696 0 0
+/home/iranbagu/resources/views/admin/homePages/workWithUs.blade.php
+0 1 0 1268 0 0
+/home/iranbagu/app/Http/Middleware/RedirectIfAuthenticated.php
+0 2 0 1098 0 0
+/home/iranbagu/database/migrations/2020_09_03_061245_add_time_to_events_table.php
+0 1 24890608 685 0 0
+/home/iranbagu/resources/views/dev/login.blade.php
+0 1 24879728 3912 0 0
+/home/iranbagu/resources/views/delivery.blade.php
+0 1 24879440 329 0 0
+/home/iranbagu/database/factories/BuycodeFactory.php
+0 1 24885152 289 0 0
+/home/iranbagu/resources/views/user/status.blade.php
+0 1 24884080 1696 0 0
+/home/iranbagu/app/Reserve.php
+0 2 24869296 802 0 0
+/home/iranbagu/app/Console/Kernel.php
+0 2 24605488 1780 0 0
+/home/iranbagu/database/factories/RoleFactory.php
+0 1 24886304 489 0 0
+/home/iranbagu/app/Http/Middleware/CheckForMaintenanceMode.php
+0 2 0 704 0 0
+/home/iranbagu/resources/views/admin/buycode.blade.php
+0 1 24872256 4286 0 0
+/home/iranbagu/app/Http/Controllers/BasketController.php
+0 2 3347416302958376046 22776 0 0
+/home/iranbagu/database/seeds/RolesTableSeeder.php
+0 1 24892416 744 0 0
+/home/iranbagu/database/seeds/OptionsTableSeeder.php
+0 1 24891968 257 0 0
+/home/iranbagu/app/Http/Controllers/OrderController.php
+0 2 24865952 2334 0 0
+/home/iranbagu/app/Http/Controllers/CategoryController.php
+0 2 47661252083712 8368 0 0
+/home/iranbagu/resources/views/admin/detailPayList.blade.php
+0 1 0 4657 0 0
+/home/iranbagu/app/Http/Controllers/RegisterController.php
+0 2 0 2580 0 0
+/home/iranbagu/resources/views/admin/showUser.blade.php
+0 1 24877728 9363 0 0
+/home/iranbagu/routes/channels.php
+0 1 24884496 524 0 0
+/home/iranbagu/resources/views/search.blade.php
+0 1 24882784 4155 0 0
+/home/iranbagu/resources/views/admin/homePages/makeAGameForUs.blade.php
+0 1 0 1280 0 0
+/home/iranbagu/app/Payment.php
+0 2 24868432 946 0 0
+/home/iranbagu/resources/views/dashboard/
+0 1 24879136 522 1 0
+/home/iranbagu/app/Http/Controllers/Auth/VerificationController.php
+0 2 0 2224 0 0
+/home/iranbagu/app/Http/Controllers/HomeController.php
+0 2 24865488 39018 0 0
+/home/iranbagu/database/factories/SlideFactory.php
+0 1 24886448 346 0 0
+/home/iranbagu/app/Http/Controllers/CommentController.php
+0 2 0 6266 0 0
+/home/iranbagu/resources/views/footer.blade.php
+0 1 24880736 1003 0 0
+/home/iranbagu/database/migrations/2019_11_07_132946_create_payments_table.php
+0 1 24888848 957 0 0
+/home/iranbagu/app/Http/Controllers/AdvertiseController.php
+0 2 0 6192 0 0
+/home/iranbagu/resources/views/error/404.html
+0 1 24880160 614 0 0
+/home/iranbagu/database/migrations/2019_10_28_132723_create_categories_table.php
+0 1 24887440 858 0 0
+/home/iranbagu/resources/views/user/buycodes.blade.php
+0 1 24883216 1549 0 0
+/home/iranbagu/database/migrations/2019_11_06_132936_create_buycodes_table.php
+0 1 24888672 1355 0 0
+/home/iranbagu/database/migrations/2019_10_30_132736_create_games_table.php
+0 1 24887792 987 0 0
+/home/iranbagu/resources/views/benefits.blade.php
+0 1 24878192 504 0 0
+# End Of Table - urls
+# -sites- (monthly)
+80.210.227.165
+0 270 270 609563 1 1607569796
+/home/iranbagu/resources/views/dashboard/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+80.210.227.165
+0 270 270 609563 1 1607569796
+/home/iranbagu/resources/views/dashboard/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+seyedalism@iranbaguette.ir
+0 270 270 609563 2 1607569796
+# End Of Table - usernames

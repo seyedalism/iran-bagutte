@@ -1,0 +1,207 @@
+# Webalizer V2.23-08 Incremental Data - 02/20/2021 05:35:52
+2021 2 20 5 35 52
+31 0 21 0 2 10 27908 17 17 0
+2 2 4 1 20
+3 0 2649 3 2 2
+2 0 0 2 2 2
+2 0 1943 2 1 1
+0 0 0 0 0 0
+5 0 4592 3 3 3
+2 0 1943 1 1 1
+0 0 0 0 0 0
+4 0 3886 3 2 2
+2 0 1943 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 1943 1 1 1
+0 0 0 0 0 0
+1 0 706 1 1 1
+2 0 1943 2 1 1
+4 0 4417 3 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 1943 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 706 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 706 1
+2 0 1943 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 0 3180 1
+6 0 6360 2
+3 0 3180 1
+2 0 1943 1
+5 0 3180 3
+2 0 1943 1
+1 0 706 1
+1 0 706 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 1943 1
+0 0 0 0
+2 0 1412 2
+0 0 0 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+16
+0
+0
+0
+0
+0
+0
+0
+0
+1
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+141-8-142-72.spider.yandex.com
+0 1 0 706 1 1612383659
+-
+ec2-3-127-70-66.eu-central-1.compute.amazonaws.com
+0 1 0 0 1 1612271534
+-
+msnbot-157-55-39-27.search.msn.com
+0 2 0 2474 0 0
+-
+213-180-203-3.spider.yandex.com
+0 1 0 1237 0 0
+-
+213-180-203-28.spider.yandex.com
+0 4 0 3886 2 1613471737
+-
+msnbot-13-66-139-112.search.msn.com
+0 2 0 1412 2 1612784484
+-
+213-180-203-55.spider.yandex.com
+0 2 0 1943 1 1612614075
+-
+164.90.140.61
+0 1 0 706 1 1612139302
+-
+5-45-207-65.spider.yandex.com
+0 1 0 1237 0 0
+-
+5-255-253-153.spider.yandex.com
+0 1 0 706 1 1612876666
+-
+ip-54-36-149-15.a.ahrefs.com
+0 1 0 1237 0 0
+-
+msnbot-157-55-39-43.search.msn.com
+0 2 0 2474 0 0
+-
+researchscanner03.eecs.berkeley.edu
+0 1 0 706 1 1613407686
+-
+5-45-207-118.spider.yandex.com
+0 1 0 1237 0 0
+-
+ec2-54-237-208-174.compute-1.amazonaws.com
+0 2 0 1412 2 1612565857
+-
+ec2-18-184-4-27.eu-central-1.compute.amazonaws.com
+0 1 0 0 1 1612271754
+-
+5-255-253-116.spider.yandex.com
+0 1 0 1237 0 0
+-
+5-255-231-136.spider.yandex.com
+0 2 0 1412 2 1613799352
+-
+static.200.151.201.195.clients.your-server.de
+0 1 0 706 1 1612758431
+-
+23.19.74.164
+0 1 0 706 1 1613317443
+-
+msnbot-157-55-39-28.search.msn.com
+0 2 0 2474 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+213-180-203-3.spider.yandex.com
+0 1 0 1237 0 0
+-
+5-255-231-136.spider.yandex.com
+0 1 0 706 1 1613799352
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 30
+https://iranbaguette.com
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+facebookexternalhit/1.1
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 8
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

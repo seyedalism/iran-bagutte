@@ -1,0 +1,336 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/iranbagu/tmp/awstats/awstats.iranbaguette.iranbaguette.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2685                
+POS_VISITOR 8127                
+POS_DAY 8498                
+POS_DOMAIN 3271                
+POS_LOGIN 3510                
+POS_ROBOT 3665                
+POS_WORMS 3830                
+POS_EMAILSENDER 3961                
+POS_EMAILRECEIVER 4104                
+POS_SESSION 8576                
+POS_SIDER 8732                
+POS_FILETYPES 4239                
+POS_DOWNLOADS 4323                
+POS_OS 4371                
+POS_BROWSER 4450                
+POS_SCREENSIZE 4528                
+POS_UNKNOWNREFERER 4602                
+POS_UNKNOWNREFERERBROWSER 4830                
+POS_ORIGIN 4950                
+POS_SEREFERRALS 5082                
+POS_PAGEREFS 5226                
+POS_SEARCHWORDS 5374                
+POS_KEYWORDS 5526                
+POS_MISC 2349                
+POS_ERRORS 5585                
+POS_CLUSTER 3366                
+POS_SIDER_404 5691                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200801163121 4 491 9826307556029
+FirstTime 0
+LastTime 20200724060825
+LastUpdate 20200801165548 4 0 3 0 0
+TotalVisits 8                   
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 11 15 18093
+1 0 0 0 4 6 6884
+2 0 0 0 3 5 4589
+3 0 0 0 50 53 60838
+4 0 0 0 5 12 12626
+5 0 0 0 7 10 11475
+6 50 50 4120 10 17 19239
+7 0 0 0 3 5 5737
+8 0 0 0 5 9 10329
+9 0 0 0 12 15 17208
+10 0 0 0 7 11 12624
+11 0 0 0 16 19 21809
+12 0 0 0 10 15 17214
+13 0 0 0 6 10 11475
+14 0 0 0 6 8 9179
+15 0 0 0 9 13 14917
+16 0 0 0 6 7 8032
+17 0 0 0 3 7 8034
+18 0 0 0 1 2 2296
+19 0 0 0 2 3 4321
+20 0 0 0 11 14 16067
+21 0 0 0 3 5 5737
+22 0 0 0 5 8 9181
+23 0 0 0 3 4 4589
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+vg 30 30 2380
+us 20 20 1740
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+bingbot/ 3 6078 20200721195439 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+Unknown 50 4120 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+Unknown 50 50
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+Unknown 10 10
+mozilla 40 40
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200724060825
+Cpanel-HTTP-Client/1.0 20200724060726
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20200724060726
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 50 50
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 166 190568
+301 101 115847
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 76
+/css/custom.css 1 http://www.iranbaguette.com/benefits
+/Marvins.php 1 -
+/uploader.php 1 -
+/advertise/2 2 -
+/game/7 2 -
+/game/1 1 -
+/advertise/1 1 -
+/wp-content/themes/gaukingo/db.php 1 -
+/wp-content/plugins/css-ready-sel/file.php 1 -
+/restaurant/1 1 -
+/upload.php 1 -
+/wp-content/plugins/three-column-screen-layout/db.php 1 -
+/administrator/templates/hathor/index.php 1 -
+/sitemap.xml 3 -
+/wp-login.php 1 -
+/food/6 1 -
+/templates/ja_purity/index.php 1 -
+/wp-content/plugins/css-ready/file.php 1 -
+/advertise/13 2 -
+/administrator/templates/bluestork/error.php 1 -
+/game/ 1 -
+/olux.php 1 -
+/sitemaps.xml 2 -
+/games-page 1 -
+/collaborate-with-game-developers 1 -
+/rss.xml 1 -
+/wp-content/think.php 1 -
+/administrator/templates/isis/index.php 1 -
+/templates/beez/index.php 1 -
+/benefits 1 -
+/shell.php 2 -
+/restaurant/2 2 -
+/templates/system/error.php 1 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/register 1 -
+/modules/mod_ariimageslidersa/mod_ariimageslidersa.php 1 -
+/images/jsspwneed.php 1 -
+/game/4 2 -
+/wp-content/plugins/gravityforms/gravityforms.php 1 -
+/sitemap_index.xml 2 -
+/indoxploit.php 1 -
+/1/wp-includes/wlwmanifest.xml 1 -
+/wp-content/uploads/up.php 1 -
+/XxX.php 1 -
+/game/5 3 -
+/robots.txt 67 -
+/wp-content/plugins/css-ready-sele/file.php 1 -
+/wp-content/uploads/new_license.php 1 -
+/templates/rhuk_milkyway/index.php 1 -
+/templates/beez3/index.php 1 -
+/wp-content/uploads/ 1 -
+/wp-content/uploads/2020/07/ 1 -
+/wp-content/uploads/content-post.php 1 -
+/templates/system/index.php 1 -
+/administrator/templates/isis/error.php 1 -
+/contact-us 3 -
+/wp-admin/network/wp-footer.php 1 -
+/wp-content/uploads/test.php 1 -
+/administrator/templates/hathor/error.php 1 -
+/templates/beez3/error.php 1 -
+/administrator/templates/bluestork/index.php 1 -
+/up.php 1 -
+/payload.php 1 -
+/collaborate-with-fastFood-maker 1 -
+/humans.txt 1 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 -
+/order 2 -
+/game/3 6 -
+/game/2 3 -
+/store/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/shapes.php 1 -
+/css/ResponsiveStyleSheet.css 1 http://www.iranbaguette.com/benefits
+/atom.xml 2 -
+/basket 1 -
+/images/stories/cmd.php 1 -
+/sitemap.xml.gz 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+89.42.209.254 30 30 2380 20200724060825
+64.78.149.164 5 5 435 20200724060823
+34.222.229.130 3 3 261 20200724060823
+18.196.96.172 3 3 261 20200724060822
+3.14.255.131 3 3 261 20200724060822
+34.209.232.166 2 2 174 20200724060822
+52.28.236.88 2 2 174 20200724060822
+52.15.254.228 2 2 174 20200724060822
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20200724 50 50 4120 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/.well-known/acme-challenge/mSg7Ax2w7dlmi8Bo0LkJZwlAELDcD1oyH8xdviIC5Aw 4 348 0 3
+/.well-known/acme-challenge/73mPTrfaiVkkQhz0AW3nzHwHz16uCLlmNR6fs_8qywo 4 348 0 0
+/.well-known/acme-challenge/lxP4TTGwQFZKXHRKp6iNOR1by2TqHfzaGiMhocTbKn4 4 348 0 0
+/.well-known/acme-challenge/5B23t5h9zn-KlNKc7VRG0A31bt8y2RM1AWzRjDSz97k 4 348 0 0
+/.well-known/acme-challenge/t9UrXyKNp8pGe6MSjsoLvcpOmLBHg3HaBIvXnmFhD7I 4 348 0 0
+/.well-known/acme-challenge/tNukm6B-ccV6wD7GtnITvmX8OvoPZeJodUObWv-hLGU 4 348 0 1
+/.well-known/acme-challenge/jJ87neyuIPSjILLuypTW48L4KOgO3soVeUKeu11jOuc 4 348 3 0
+/.well-known/acme-challenge/YSRzFG3pbtaTHmLhXcgk-1JgDm9l8yIFZ1mQPcQngzs 4 348 0 0
+/.well-known/acme-challenge/Fpr5s7l4YZb8TIYiIo1Lo0KWDfxNAHHCITzLQUo_zIo 4 348 4 0
+/.well-known/acme-challenge/zfD-s4LAgyBTA1eNca05z13wZnlMTGolBIZjwaeTzME 4 348 0 4
+/.well-known/acme-challenge/8U-IBWVS25WGWQI5DDW1D7MFHR0Y4F2B 1 64 0 0
+/.well-known/acme-challenge/QYW155EX14A3E8ZJF2B9_45CC4HZQWZQ 1 64 0 0
+/.well-known/acme-challenge/Y310QZWF6JAQFXO2QGGZETNX1T9RYN8A 1 64 0 0
+/.well-known/acme-challenge/FX355QCYGY_GS0685K-VJNLJ3JWC9M6E 1 64 0 0
+/.well-known/acme-challenge/EDCN1C_8SAWTJUEA4Q_YL0YOMDM32F80 1 64 0 0
+/.well-known/acme-challenge/3-M1EXDV3-YQSGTDR92N72GL7BYBQE7B 1 64 1 0
+/.well-known/acme-challenge/JTUQ6O867BVQT1SDSJGHN-AUQJQKCE4B 1 64 0 0
+/.well-known/acme-challenge/ZY7JSAXO4PBJNEFL_8G4HCXMHMKS3O99 1 64 0 0
+/.well-known/acme-challenge/C3OBXFJG24NOJXMW_83OUXGIA_2KBY0W 1 64 0 0
+/.well-known/acme-challenge/1DXL5TWA-SMX6G3RLLEE8-WYVS2DTMZC 1 64 0 0
+END_SIDER
